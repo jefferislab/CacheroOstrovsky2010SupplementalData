@@ -1,0 +1,2446 @@
+"BrainKey","lsmpath","imagestems","Side","UniqueID","CloneNo","Genotype","Sex","CloneName"
+"SABA20","SABA20-1.lsm","SABA20-1","L",330,1,"fru MARCM","F","aIP-e"
+"SABA20","SABA20-1.lsm","SABA20-1","R",2969,2,"fru MARCM","F","aSP-k"
+"SABA20","SABA20-1.lsm","SABA20-1","L",2971,4,"fru MARCM","F","aIP-b"
+"SABA20","SABA20-1.lsm","SABA20-1","R",2970,3,"fru MARCM","F","aDT-d"
+"SABB4","SABB4-1.lsm","SABB4-1","L",442,2,"fru MARCM","M","pIP-c"
+"SABB4","SABB4-1.lsm","SABB4-1","R",443,3,"fru MARCM","M","aSP-a"
+"SABB4","SABB4-1.lsm","SABB4-1","L",3494,4,"fru MARCM","M","MB"
+"SABB4","SABB4-1.lsm","SABB4-1","R",341,1,"fru MARCM","M","aIP-e"
+"SABB5","SABB5-1.lsm","SABB5-1","L",344,1,"fru MARCM","M","aIP-e"
+"SABB5","SABB5-1.lsm","SABB5-1","R",2973,3,"fru MARCM","M","aIP-b"
+"SABB5","SABB5-1.lsm","SABB5-1","L",2972,2,"fru MARCM","M","aSP-l"
+"SABB5","SABB5-1.lsm","SABB5-1","R",2974,4,"fru MARCM","M",NA
+"SABC13","SABC13-1.lsm","SABC13-1","L",328,1,"fru MARCM","F","aSP-f"
+"SABC13","SABC13-1.lsm","SABC13-1","L",364,2,"fru MARCM","F","aSP-g"
+"SABC13","SABC13-1.lsm","SABC13-1","L",377,3,"fru MARCM","F","aDT-d"
+"SABC13","SABC13-1.lsm","SABC13-1","R",2975,4,"fru MARCM","F","pIP-i"
+"SABC20","SABC20-1.lsm","SABC20-1","R",2978,5,"fru MARCM","F","aIP-g"
+"SABC20","SABC20-1.lsm","SABC20-1","R",2977,4,"fru MARCM","F","aSP-l"
+"SABC20","SABC20-1.lsm","SABC20-1","L",332,1,"fru MARCM","F","aIP-e"
+"SABC20","SABC20-1.lsm","SABC20-1","R",333,2,"fru MARCM","F","aDT-e"
+"SABC20","SABC20-1.lsm","SABC20-1","R",3495,6,"fru MARCM","F","MB"
+"SABC20","SABC20-1.lsm","SABC20-1","L",2976,3,"fru MARCM","F","pMP-b"
+"SABC5","SABC5-1.lsm","SABC5-1","R",3496,5,"fru MARCM","F","MB"
+"SABC5","SABC5-1.lsm","SABC5-1","L",2980,2,"fru MARCM","F","aDT-h"
+"SABC5","SABC5-1.lsm","SABC5-1","L",2982,4,"fru MARCM","F","aIP-e"
+"SABC5","SABC5-1.lsm","SABC5-1","L",2981,3,"fru MARCM","F","pIP-b"
+"SABC5","SABC5-1.lsm","SABC5-1","R",2979,1,"fru MARCM","F","MB"
+"SABC9","SABC9-1.lsm","SABC9-1","R",325,2,"fru MARCM","F","aIP-e"
+"SABC9","SABC9-1.lsm","SABC9-1","L",324,1,"fru MARCM","F","aIP-e"
+"SABC9","SABC9-1.lsm","SABC9-1","R",2983,3,"fru MARCM","F","pMP-a"
+"SABD1","SABD1-1.lsm","SABD1-1","L",2985,5,"fru MARCM","M","pMP-a"
+"SABD1","SABD1-1.lsm","SABD1-1","L",2984,4,"fru MARCM","M","aDT-a"
+"SABD1","SABD1-1.lsm","SABD1-1","L",343,1,"fru MARCM","M","aSP-f"
+"SABD1","SABD1-1.lsm","SABD1-1","L",379,3,"fru MARCM","M",NA
+"SABD1","SABD1-1.lsm","SABD1-1","L",378,2,"fru MARCM","M","aIP-a"
+"SABE8","SABE8-1.lsm","SABE8-1","R",445,4,"fru MARCM","M","aDT-h"
+"SABE8","SABE8-1.lsm","SABE8-1","R",446,3,"fru MARCM","M","aIP-a"
+"SABE8","SABE8-1.lsm","SABE8-1","R",447,5,"fru MARCM","M",NA
+"SABE8","SABE8-1.lsm","SABE8-1","L",342,1,"fru MARCM","M","aSP-f"
+"SABE8","SABE8-1.lsm","SABE8-1","R",444,2,"fru MARCM","M","aDT-b"
+"SABL1","SABL1-1.lsm","SABL1-1","L",110,3,"fru MARCM","M",NA
+"SABL1","SABL1-1.lsm","SABL1-1","L",4082,4,"fru MARCM","M","SN-a"
+"SABL1","SABL1-1.lsm","SABL1-1","L",109,2,"fru MARCM","M","pMP-a"
+"SABL1","SABL1-1.lsm","SABL1-1","R",108,1,"fru MARCM","M","aIP-e"
+"SABL3","SABL3-1.lsm","SABL3-1","L",4083,3,"fru MARCM","M","SN-a"
+"SABL3","SABL3-1.lsm","SABL3-1","R",115,1,"fru MARCM","M","aIP-e"
+"SABL3","SABL3-1.lsm","SABL3-1","L",116,2,"fru MARCM","M","aSP-b"
+"SABN1","SABN1-1.lsm","SABN1-1","L",4084,4,"fru MARCM","M","SN-a"
+"SABN1","SABN1-1.lsm","SABN1-1","R",119,2,"fru MARCM","M","aSP-f"
+"SABN1","SABN1-1.lsm","SABN1-1","L",118,1,"fru MARCM","M","aDT-h"
+"SABN1","SABN1-1.lsm","SABN1-1","R",121,5,"fru MARCM","M","pIP-b"
+"SABN1","SABN1-1.lsm","SABN1-1","L",120,3,"fru MARCM","M",NA
+"SABN2","SABN2-1.lsm","SABN2-1","R",123,2,"fru MARCM","M","pIP-e"
+"SABN2","SABN2-1.lsm","SABN2-1","R",122,1,"fru MARCM","M","MB"
+"SABN2","SABN2-1.lsm","SABN2-1","R",775,3,"fru MARCM","M",NA
+"SABN5","SABN5-1.lsm","SABN5-1","L",776,2,"fru MARCM","M",NA
+"SABN5","SABN5-1.lsm","SABN5-1","L",149,1,"fru MARCM","M","aIP-a"
+"SABR13","SABR13-1.lsm","SABR13-1","L",3973,2,"fru MARCM","F","SN-a"
+"SABR13","SABR13-1.lsm","SABR13-1","R",3974,3,"fru MARCM","F","SN-a"
+"SABR5","SABR5-1.lsm","SABR5-1","R",3977,4,"fru MARCM","F","SN-a"
+"SABR5","SABR5-1.lsm","SABR5-1","R",3975,2,"fru MARCM","F","SN-d"
+"SABR5","SABR5-1.lsm","SABR5-1","L",3976,3,"fru MARCM","F","SN-a"
+"SABS10","SABS10-1.lsm","SABS10-1","R",3982,2,"fru MARCM","F","SN-a"
+"SABS2","SABS2-1.lsm","SABS2-1","L",3980,4,"fru MARCM","F","SN-d"
+"SABS2","SABS2-1.lsm","SABS2-1","R",3978,2,"fru MARCM","F","SN-a"
+"SABS2","SABS2-1.lsm","SABS2-1","R",319,1,"fru MARCM","F","aIP-e"
+"SABS2","SABS2-1.lsm","SABS2-1","R",3981,5,"fru MARCM","F","SN-d"
+"SABS2","SABS2-1.lsm","SABS2-1","L",3979,3,"fru MARCM","F","SN-a"
+"SACG3","SACG3-1.lsm","SACG3-1","R",3986,6,"fru MARCM","F","SN-a"
+"SACG3","SACG3-1.lsm","SACG3-1","L",3983,3,"fru MARCM","F","SN-d"
+"SACG3","SACG3-1.lsm","SACG3-1","L",3987,7,"fru MARCM","F","aDT-g"
+"SACG3","SACG3-1.lsm","SACG3-1","L",3497,2,"fru MARCM","F","MB"
+"SACG3","SACG3-1.lsm","SACG3-1","L",318,1,"fru MARCM","F","aDT-e"
+"SACG3","SACG3-1.lsm","SACG3-1","R",3984,4,"fru MARCM","F","SN-d"
+"SACG3","SACG3-1.lsm","SACG3-1","L",3985,5,"fru MARCM","F","SN-a"
+"SACM21","SACM21-1.lsm","SACM21-1","R",298,1,"fru MARCM","M","aDT-h"
+"SACN9","SACN9-1.lsm","SACN9-1","R",309,1,"fru MARCM","F","aIP-e"
+"SACN9","SACN9-1.lsm","SACN9-1","L",3988,2,"fru MARCM","F","aSG-a"
+"SACP10","SACP10-1.lsm","SACP10-1","R",1629,NA,"fru MARCM","M","aSP-g"
+"SACP10","SACP10-1.lsm","SACP10-1","R",349,1,"fru MARCM","M","MB"
+"SACP3","SACP3-1.lsm","SACP3-1","L",4085,2,"fru MARCM","M","SN-a"
+"SACP3","SACP3-1.lsm","SACP3-1","R",345,1,"fru MARCM","M","aIP-e"
+"SACP4","SACP4-1.lsm","SACP4-1","R",346,1,"fru MARCM","M","aSP-f"
+"SACP4","SACP4-1.lsm","SACP4-1","L",347,2,"fru MARCM","M",NA
+"SACP7","SACP7-1.lsm","SACP7-1","R",348,1,"fru MARCM","M","pMP-a"
+"SACR1","SACR1-1.lsm","SACR1-1","R",351,1,"fru MARCM","M","pSP-a"
+"SACR2","SACR2-1.lsm","SACR2-1","L",2986,1,"fru MARCM","M","pIP-h"
+"SACR28","SACR28-1.lsm","SACR28-1","R",353,1,"fru MARCM","M",NA
+"SACR28","SACR28-1.lsm","SACR28-1","L",354,2,"fru MARCM","M","aDT-e"
+"SACR33","SACR33-1.lsm","SACR33-1","L",4086,2,"fru MARCM","M","SN-b"
+"SACR33","SACR33-1.lsm","SACR33-1","R",355,1,"fru MARCM","M","pIP-a"
+"SACR8","SACR8-1.lsm","SACR8-1","L",352,1,"fru MARCM","M","aDT-e"
+"SACR8","SACR8-1.lsm","SACR8-1","R",4087,2,"fru MARCM","M","SN-a"
+"SACR8","SACR8-1.lsm","SACR8-1","L",4088,3,"fru MARCM","M","SN-a"
+"SACS16","SACS16-2.lsm","SACS16-2","R",311,1,"fru MARCM","M","aIP-e"
+"SACS16","SACS16-2.lsm","SACS16-2","R",4089,2,"fru MARCM","M","SN-a"
+"SACT3","SACT3-1.lsm","SACT3-1","R",4090,1,"fru MARCM","M","SN-a"
+"SACT4","SACT4-2.lsm","SACT4-2","R",312,1,"fru MARCM","M","aIP-e"
+"SACT4","SACT4-2.lsm","SACT4-2","L",4091,2,"fru MARCM","M","SN-a"
+"SADE20","SADE20-1.lsm","SADE20-1","L",3989,3,"fru MARCM","F",NA
+"SADE20","SADE20-1.lsm","SADE20-1","R",3991,5,"fru MARCM","F","SN-a"
+"SADE20","SADE20-1.lsm","SADE20-1","R",235,1,"fru MARCM","F","aIP-b"
+"SADE20","SADE20-1.lsm","SADE20-1","L",3990,4,"fru MARCM","F","SN-a"
+"SADE20","SADE20-1.lsm","SADE20-1","L",236,2,"fru MARCM","F",NA
+"SADE22","SADE22-1.lsm","SADE22-1","L",239,2,"fru MARCM","F",NA
+"SADE22","SADE22-1.lsm","SADE22-1","R",238,1,"fru MARCM","F","pIP-c"
+"SADF7","SADF7-1.lsm","SADF7-1","R",243,1,"fru MARCM","F","aSP-f"
+"SADF7","SADF7-1.lsm","SADF7-1","R",3992,3,"fru MARCM","F",NA
+"SADF7","SADF7-1.lsm","SADF7-1","R",2994,2,"fru MARCM","F",NA
+"SADI7","SADI7-1.lsm","SADI7-1","L",3993,1,"fru MARCM","F","aDT-e"
+"SADJ1","SADJ1-1.lsm","SADJ1-1","L",3962,2,"fru MARCM","M",NA
+"SADJ1","SADJ1-1.lsm","SADJ1-1","R",3961,1,"fru MARCM","M","aSP-b"
+"SADJ12","SADJ12-1.lsm","SADJ12-1","R",382,1,"fru MARCM","M","aSP-h"
+"SADJ12","SADJ12-1.lsm","SADJ12-1","R",384,3,"fru MARCM","M",NA
+"SADJ12","SADJ12-1.lsm","SADJ12-1","L",383,2,"fru MARCM","M","aDT-c"
+"SADJ12","SADJ12-1.lsm","SADJ12-1","L",4092,4,"fru MARCM","M","MB"
+"SADJ12","SADJ12-1.lsm","SADJ12-1","R",4093,5,"fru MARCM","M","MB"
+"SADJ8","SADJ8-1.lsm","SADJ8-1","R",387,1,"fru MARCM","M","pIP-c"
+"SADJ8","SADJ8-1.lsm","SADJ8-1","L",388,2,"fru MARCM","M","pIP-i"
+"SADK1","SADK1-1.lsm","SADK1-1","L",390,2,"fru MARCM","F","aIP-g"
+"SADK10","SADK10-1.lsm","SADK10-1","L",3002,2,"fru MARCM","F","pSP-d"
+"SADK10","SADK10-1.lsm","SADK10-1","L",3001,1,"fru MARCM","F","pIP-b"
+"SADK16","SADK16-1.lsm","SADK16-1","R",403,2,"fru MARCM","F","pSG-a"
+"SADK16","SADK16-1.lsm","SADK16-1","R",402,1,"fru MARCM","F","pMP-c"
+"SADK17","SADK17-1.lsm","SADK17-1","L",440,1,"fru MARCM","F","aSP-c"
+"SADK17","SADK17-1.lsm","SADK17-1","L",441,2,"fru MARCM","F",NA
+"SADK4","SADK4-1.lsm","SADK4-1","R",398,3,"fru MARCM","F",NA
+"SADK4","SADK4-1.lsm","SADK4-1","L",396,1,"fru MARCM","F","pSP-b"
+"SADK4","SADK4-1.lsm","SADK4-1","R",397,2,"fru MARCM","F","aSP-k"
+"SADK8","SADK8-1.lsm","SADK8-1","L",404,1,"fru MARCM","F","aSP-i"
+"SADK8","SADK8-1.lsm","SADK8-1","L",406,1,"fru MARCM","F","pSP-c"
+"SADK8","SADK8-1.lsm","SADK8-1","R",407,4,"fru MARCM","F","pIP-i"
+"SADK8","SADK8-1.lsm","SADK8-1","R",405,2,"fru MARCM","F","pIP-g"
+"SADK9","SADK9-1.lsm","SADK9-1","L",408,1,"fru MARCM","F","aSP-a"
+"SADL2","SADL2-1.lsm","SADL2-1","R",3003,1,"fru MARCM","F","pIP-e"
+"SADL3","SADL3-1.lsm","SADL3-1","R",409,1,"fru MARCM","F","aIP-c"
+"SADL5","SADL5-1.lsm","SADL5-1","L",421,2,"fru MARCM","F","aIP-c"
+"SADL5","SADL5-1.lsm","SADL5-1","R",420,1,"fru MARCM","F","pIP-i"
+"SADL6","SADL6-1.lsm","SADL6-1","R",411,2,"fru MARCM","F","aSP-a"
+"SADL6","SADL6-1.lsm","SADL6-1","R",410,1,"fru MARCM","F","aIP-c"
+"SADL9","SADL9-1.lsm","SADL9-1","R",3004,1,"fru MARCM","F","pSP-b"
+"SADM1","SADM1-1.lsm","SADM1-1","R",418,2,"fru MARCM","M","pMP-e"
+"SADM1","SADM1-1.lsm","SADM1-1","L",419,3,"fru MARCM","M",NA
+"SADM1","SADM1-1.lsm","SADM1-1","L",4095,5,"fru MARCM","M","MB"
+"SADM1","SADM1-1.lsm","SADM1-1","L",417,1,"fru MARCM","M","aIP-b"
+"SADM1","SADM1-1.lsm","SADM1-1","R",4094,4,"fru MARCM","M","pMP-f"
+"SADM2","SADM2-1.lsm","SADM2-1","L",422,2,"fru MARCM","M","aDT-e"
+"SADM3","SADM3-1.lsm","SADM3-1","L",426,3,"fru MARCM","M","pIP-c"
+"SADM3","SADM3-1.lsm","SADM3-1","R",424,1,"fru MARCM","M","pMP-e"
+"SADM3","SADM3-1.lsm","SADM3-1","R",425,2,"fru MARCM","M","pSG-a"
+"SADM6","SADM6-1.lsm","SADM6-1","L",427,1,"fru MARCM","M","aDT-e"
+"SADN4","SADN4-1.lsm","SADN4-1","R",429,2,"fru MARCM","M","aDT-c"
+"SADN4","SADN4-1.lsm","SADN4-1","L",2453,4,"fru MARCM","M",NA
+"SADN4","SADN4-1.lsm","SADN4-1","L",4096,5,"fru MARCM","M","MB"
+"SADN4","SADN4-1.lsm","SADN4-1","L",430,3,"fru MARCM","M","pIP-h"
+"SADN4","SADN4-1.lsm","SADN4-1","R",428,1,"fru MARCM","M","pSG-a"
+"SADN6","SADN6-1.lsm","SADN6-1","L",4193,3,"fru MARCM","M","vPr-a"
+"SADN6","SADN6-1.lsm","SADN6-1","R",431,1,"fru MARCM","M","aIP-b"
+"SADN6","SADN6-1.lsm","SADN6-1","R",4097,2,"fru MARCM","M","pMP-d"
+"SADO2","SADO2-1.lsm","SADO2-1","L",4098,4,"fru MARCM","M","SN-a"
+"SADO2","SADO2-1.lsm","SADO2-1","R",3007,3,"fru MARCM","M","aDT-g"
+"SADO2","SADO2-1.lsm","SADO2-1","R",432,1,"fru MARCM","M","aSP-a"
+"SADO2","SADO2-1.lsm","SADO2-1","L",433,2,"fru MARCM","M","aSP-l"
+"SADQ1","SADQ1-1.lsm","SADQ1-1","R",3994,3,"fru MARCM","F","SN-c"
+"SADQ1","SADQ1-1.lsm","SADQ1-1","R",361,1,"fru MARCM","F","pMP-a"
+"SADQ1","SADQ1-1.lsm","SADQ1-1","L",362,2,"fru MARCM","F",NA
+"SADQ11","SADQ11-1.lsm","SADQ11-1","R",360,1,"fru MARCM","F","pSP-f"
+"SADQ14","SADQ14-1.lsm","SADQ14-1","L",395,2,"fru MARCM","F","pSG-d"
+"SADQ14","SADQ14-1.lsm","SADQ14-1","L",394,2,"fru MARCM","F","pSG-a"
+"SADQ14","SADQ14-1.lsm","SADQ14-1","L",363,1,"fru MARCM","F","aSP-f"
+"SADQ15","SADQ15-1.lsm","SADQ15-1","L",365,1,"fru MARCM","F","pSG-a"
+"SADQ15","SADQ15-1.lsm","SADQ15-1","R",366,2,"fru MARCM","F","aSP-e"
+"SADQ4","SADQ4-1.lsm","SADQ4-1","L",1576,NA,"fru MARCM","F","aIP-d"
+"SADQ4","SADQ4-1.lsm","SADQ4-1","R",1588,NA,"fru MARCM","F","aSP-c"
+"SADQ5","SADQ5-1.lsm","SADQ5-1","L",399,1,"fru MARCM","F","aDT-g"
+"SADQ7","SADQ7-1.lsm","SADQ7-1","L",368,1,"fru MARCM","F","aSP-h"
+"SADQ7","SADQ7-1.lsm","SADQ7-1","R",3995,2,"fru MARCM","F","pSG-d"
+"SADR3","SADR3-1.lsm","SADR3-1","L",400,3,"fru MARCM","F","pSP-b"
+"SADR3","SADR3-1.lsm","SADR3-1","L",370,2,"fru MARCM","F",NA
+"SADR3","SADR3-1.lsm","SADR3-1","L",369,1,"fru MARCM","F","pIP-c"
+"SADR7","SADR7-1.lsm","SADR7-1","L",371,1,"fru MARCM","F","aIP-c"
+"SADS2","SADS2-1.lsm","SADS2-1","L",4194,4,"fru MARCM","M","vPr-a"
+"SADS2","SADS2-1.lsm","SADS2-1","L",1630,3,"fru MARCM","M","aSP-g"
+"SADS2","SADS2-1.lsm","SADS2-1","L",1578,2,"fru MARCM","M","aIP-h"
+"SAEA3","SAEA3-1.lsm","SAEA3-1","R",458,1,"fru MARCM","F","aSP-h"
+"SAEA3","SAEA3-1.lsm","SAEA3-1","L",459,2,"fru MARCM","F","aSP-c"
+"SAEA5","SAEA5-1.lsm","SAEA5-1","L",3996,2,"fru MARCM","F","SN-d"
+"SAEA5","SAEA5-1.lsm","SAEA5-1","L",460,1,"fru MARCM","F","aSP-e"
+"SAEA6","SAEA6-1.lsm","SAEA6-1","R",461,1,"fru MARCM","F","pMP-a"
+"SAEB1","SAEB1-1.lsm","SAEB1-1","L",465,4,"fru MARCM","M",NA
+"SAEB1","SAEB1-1.lsm","SAEB1-1","L",466,5,"fru MARCM","M","pSG-e"
+"SAEB1","SAEB1-1.lsm","SAEB1-1","L",464,3,"fru MARCM","M","pMP-f"
+"SAEB1","SAEB1-1.lsm","SAEB1-1","R",462,1,"fru MARCM","M","aDT-h"
+"SAEB1","SAEB1-1.lsm","SAEB1-1","L",463,2,"fru MARCM","M","aSP-g"
+"SAEB10","SAEB10-1.lsm","SAEB10-1","R",485,3,"fru MARCM","M",NA
+"SAEB10","SAEB10-1.lsm","SAEB10-1","R",487,5,"fru MARCM","M","MB"
+"SAEB10","SAEB10-1.lsm","SAEB10-1","R",486,4,"fru MARCM","M","pIP-h"
+"SAEB10","SAEB10-1.lsm","SAEB10-1","R",483,1,"fru MARCM","M",NA
+"SAEB10","SAEB10-1.lsm","SAEB10-1","L",484,2,"fru MARCM","M",NA
+"SAEB11","SAEB11-1.lsm","SAEB11-1","R",2001,4,"fru MARCM","M",NA
+"SAEB11","SAEB11-1.lsm","SAEB11-1","R",490,3,"fru MARCM","M",NA
+"SAEB11","SAEB11-1.lsm","SAEB11-1","R",488,1,"fru MARCM","M",NA
+"SAEB11","SAEB11-1.lsm","SAEB11-1","R",489,2,"fru MARCM","M",NA
+"SAEB4","SAEB4-1.lsm","SAEB4-1","L",3964,5,"fru MARCM","M","SN-a"
+"SAEB4","SAEB4-1.lsm","SAEB4-1","L",3963,4,"fru MARCM","M","SN-c"
+"SAEB4","SAEB4-1.lsm","SAEB4-1","R",467,1,"fru MARCM","M","pIP-f"
+"SAEB4","SAEB4-1.lsm","SAEB4-1","R",3965,6,"fru MARCM","M","SN-a"
+"SAEB4","SAEB4-1.lsm","SAEB4-1","R",468,2,"fru MARCM","M","pIP-j"
+"SAEB4","SAEB4-1.lsm","SAEB4-1","R",469,3,"fru MARCM","M",NA
+"SAEB5","SAEB5-1.lsm","SAEB5-1","L",473,4,"fru MARCM","M",NA
+"SAEB5","SAEB5-1.lsm","SAEB5-1","R",4099,5,"fru MARCM","M","SN-b"
+"SAEB5","SAEB5-1.lsm","SAEB5-1","R",471,2,"fru MARCM","M",NA
+"SAEB5","SAEB5-1.lsm","SAEB5-1","R",470,1,"fru MARCM","M","pIP-c"
+"SAEB5","SAEB5-1.lsm","SAEB5-1","L",472,3,"fru MARCM","M","pSP-c"
+"SAEB6","SAEB6-1.lsm","SAEB6-1","R",474,1,"fru MARCM","M","aSP-l"
+"SAEB6","SAEB6-1.lsm","SAEB6-1","L",4100,2,"fru MARCM","M","SN-a"
+"SAEB7","SAEB7-1.lsm","SAEB7-1","R",3010,4,"fru MARCM","M","MB"
+"SAEB7","SAEB7-1.lsm","SAEB7-1","L",4101,5,"fru MARCM","M","SN-c"
+"SAEB7","SAEB7-1.lsm","SAEB7-1","R",475,1,"fru MARCM","M",NA
+"SAEB7","SAEB7-1.lsm","SAEB7-1","R",2454,3,"fru MARCM","M","pIP-h"
+"SAEB7","SAEB7-1.lsm","SAEB7-1","L",476,2,"fru MARCM","M","aIP-g"
+"SAEB8","SAEB8-1.lsm","SAEB8-1","R",478,1,"fru MARCM","M","aDT-b"
+"SAEB8","SAEB8-1.lsm","SAEB8-1","L",479,2,"fru MARCM","M","aSP-a"
+"SAEB8","SAEB8-1.lsm","SAEB8-1","R",480,3,"fru MARCM","M",NA
+"SAEB9","SAEB9-1.lsm","SAEB9-1","R",777,3,"fru MARCM","M","pSG-e"
+"SAEB9","SAEB9-1.lsm","SAEB9-1","R",481,1,"fru MARCM","M","aSP-j"
+"SAEB9","SAEB9-1.lsm","SAEB9-1","L",482,2,"fru MARCM","M",NA
+"SAEC10","SAEC10-1.lsm","SAEC10-1","R",506,1,"fru MARCM","F","aSP-d"
+"SAEC10","SAEC10-1.lsm","SAEC10-1","L",3997,3,"fru MARCM","F","SN-d"
+"SAEC10","SAEC10-1.lsm","SAEC10-1","L",507,2,"fru MARCM","F","pIP-g"
+"SAEC11","SAEC11-1.lsm","SAEC11-1","R",510,3,"fru MARCM","F",NA
+"SAEC11","SAEC11-1.lsm","SAEC11-1","L",509,2,"fru MARCM","F","pIP-f"
+"SAEC11","SAEC11-1.lsm","SAEC11-1","R",508,1,"fru MARCM","F","pIP-"
+"SAEC15","SAEC15-1.lsm","SAEC15-1","L",3011,2,"fru MARCM","F","MB"
+"SAEC15","SAEC15-1.lsm","SAEC15-1","L",511,1,"fru MARCM","F","pMP-b"
+"SAEC16","SAEC16-1.lsm","SAEC16-1","L",513,2,"fru MARCM","F",NA
+"SAEC16","SAEC16-1.lsm","SAEC16-1","R",512,1,"fru MARCM","F","aSP-i"
+"SAEC19","SAEC19-1.lsm","SAEC19-1","R",514,1,"fru MARCM","F","aSP-a"
+"SAEC2","SAEC2-1.lsm","SAEC2-1","R",493,3,"fru MARCM","F",NA
+"SAEC2","SAEC2-1.lsm","SAEC2-1","L",491,1,"fru MARCM","F","aDT-c"
+"SAEC2","SAEC2-1.lsm","SAEC2-1","R",492,2,"fru MARCM","F","aSP-c"
+"SAEC20","SAEC20-1.lsm","SAEC20-1","L",515,1,"fru MARCM","F","aSP-h"
+"SAEC21","SAEC21-1.lsm","SAEC21-1","R",518,3,"fru MARCM","F","aDT-c"
+"SAEC21","SAEC21-1.lsm","SAEC21-1","R",3012,4,"fru MARCM","F","pSP-b"
+"SAEC21","SAEC21-1.lsm","SAEC21-1","R",516,1,"fru MARCM","F","aSP-d"
+"SAEC21","SAEC21-1.lsm","SAEC21-1","L",517,2,"fru MARCM","F","pIP-a"
+"SAEC22","SAEC22-1.lsm","SAEC22-1","L",520,2,"fru MARCM","F","aSP-k"
+"SAEC22","SAEC22-1.lsm","SAEC22-1","L",519,1,"fru MARCM","F",NA
+"SAEC22","SAEC22-1.lsm","SAEC22-1","L",3013,3,"fru MARCM","F",NA
+"SAEC24","SAEC24-1.lsm","SAEC24-1","L",521,1,"fru MARCM","F","aSP-b"
+"SAEC24","SAEC24-1.lsm","SAEC24-1","L",522,2,"fru MARCM","F","aIP-a"
+"SAEC24","SAEC24-1.lsm","SAEC24-1","L",3998,3,"fru MARCM","F","SN-d"
+"SAEC24","SAEC24-1.lsm","SAEC24-1","R",3999,4,"fru MARCM","F","SN-d"
+"SAEC25","SAEC25-1.lsm","SAEC25-1","L",523,1,"fru MARCM","F","aIP-e"
+"SAEC4","SAEC4-1.lsm","SAEC4-1","L",494,1,"fru MARCM","F",NA
+"SAEC4","SAEC4-1.lsm","SAEC4-1","R",495,2,"fru MARCM","F","pIP-f"
+"SAEC5","SAEC5-1.lsm","SAEC5-1","R",497,2,"fru MARCM","F","aIP-h"
+"SAEC5","SAEC5-1.lsm","SAEC5-1","L",496,1,"fru MARCM","F","aDT-c"
+"SAEC5","SAEC5-1.lsm","SAEC5-1","R",498,3,"fru MARCM","F","pMP-e"
+"SAEC5","SAEC5-1.lsm","SAEC5-1","R",499,4,"fru MARCM","F",NA
+"SAEC6","SAEC6-1.lsm","SAEC6-1","L",4000,2,"fru MARCM","F","SN-c"
+"SAEC6","SAEC6-1.lsm","SAEC6-1","L",500,1,"fru MARCM","F","pMP-a"
+"SAEC7","SAEC7-1.lsm","SAEC7-1","L",501,1,"fru MARCM","F","aDT-e"
+"SAEC7","SAEC7-1.lsm","SAEC7-1","R",502,2,"fru MARCM","F","aIP-g"
+"SAEC7","SAEC7-1.lsm","SAEC7-1","L",503,3,"fru MARCM","F","aSP-f"
+"SAEC7","SAEC7-1.lsm","SAEC7-1","L",2338,4,"fru MARCM","F","Lo"
+"SAEC8","SAEC8-1.lsm","SAEC8-1","L",505,1,"fru MARCM","F","aSP-b"
+"SAED10","SAED10-1.lsm","SAED10-1","L",537,2,"fru MARCM","F",NA
+"SAED10","SAED10-1.lsm","SAED10-1","R",536,1,"fru MARCM","F",NA
+"SAED11","SAED11-1.lsm","SAED11-1","R",535,1,"fru MARCM","F",NA
+"SAED11","SAED11-1.lsm","SAED11-1","L",538,2,"fru MARCM","F","pSP-f"
+"SAED12","SAED12-1.lsm","SAED12-1","R",3014,3,"fru MARCM","F","pIP-a"
+"SAED12","SAED12-1.lsm","SAED12-1","L",541,2,"fru MARCM","F","pIP-b"
+"SAED12","SAED12-1.lsm","SAED12-1","R",540,1,"fru MARCM","F","aDT-e"
+"SAED12","SAED12-1.lsm","SAED12-1","R",3015,4,"fru MARCM","F","aDT-b"
+"SAED12","SAED12-1.lsm","SAED12-1","L",3016,5,"fru MARCM","F",NA
+"SAED13","SAED13-1.lsm","SAED13-1","R",545,2,"fru MARCM","F","aIP-g"
+"SAED13","SAED13-1.lsm","SAED13-1","R",551,3,"fru MARCM","F",NA
+"SAED13","SAED13-1.lsm","SAED13-1","L",3017,4,"fru MARCM","F","MB"
+"SAED13","SAED13-1.lsm","SAED13-1","L",544,1,"fru MARCM","F","aDT-e"
+"SAED15","SAED15-1.lsm","SAED15-1","L",539,1,"fru MARCM","F","aIP-e"
+"SAED17","SAED17-1.lsm","SAED17-1","R",4001,3,"fru MARCM","F","SN-d"
+"SAED17","SAED17-1.lsm","SAED17-1","R",543,2,"fru MARCM","F",NA
+"SAED17","SAED17-1.lsm","SAED17-1","R",542,1,"fru MARCM","F","aIP-d"
+"SAED18","SAED18-1.lsm","SAED18-1","L",4002,2,"fru MARCM","F","SN-a"
+"SAED18","SAED18-1.lsm","SAED18-1","L",558,1,"fru MARCM","F","pMP-a"
+"SAED19","SAED19-1.lsm","SAED19-1","R",567,1,"fru MARCM","F",NA
+"SAED2","SAED2-1.lsm","SAED2-1","R",525,2,"fru MARCM","F",NA
+"SAED2","SAED2-1.lsm","SAED2-1","L",4003,3,"fru MARCM","F","SN-d"
+"SAED2","SAED2-1.lsm","SAED2-1","R",524,1,"fru MARCM","F","pSP-a"
+"SAED20","SAED20-1.lsm","SAED20-1","L",575,2,"fru MARCM","F",NA
+"SAED20","SAED20-1.lsm","SAED20-1","R",573,1,"fru MARCM","F",NA
+"SAED21","SAED21-1.lsm","SAED21-1","L",579,1,"fru MARCM","F","pSG-a"
+"SAED21","SAED21-1.lsm","SAED21-1","L",3018,4,"fru MARCM","F","MB"
+"SAED21","SAED21-1.lsm","SAED21-1","R",580,2,"fru MARCM","F","pSP-a"
+"SAED21","SAED21-1.lsm","SAED21-1","L",582,3,"fru MARCM","F","aDT-c"
+"SAED22","SAED22-1.lsm","SAED22-1","R",605,3,"fru MARCM","F",NA
+"SAED22","SAED22-1.lsm","SAED22-1","R",604,2,"fru MARCM","F","pMP-f"
+"SAED22","SAED22-1.lsm","SAED22-1","L",597,1,"fru MARCM","F","aDT-a"
+"SAED23","SAED23-1.lsm","SAED23-1","L",608,1,"fru MARCM","F","aSP-k"
+"SAED23","SAED23-1.lsm","SAED23-1","R",778,2,"fru MARCM","F","pSG-e"
+"SAED24","SAED24-1.lsm","SAED24-1","L",2278,3,"fru MARCM","F","aIP-f"
+"SAED24","SAED24-1.lsm","SAED24-1","L",546,1,"fru MARCM","F","aDT-d"
+"SAED24","SAED24-1.lsm","SAED24-1","L",547,2,"fru MARCM","F",NA
+"SAED24","SAED24-1.lsm","SAED24-1","L",4004,4,"fru MARCM","F","SN-b"
+"SAED26","SAED26-1.lsm","SAED26-1","L",783,3,"fru MARCM","F",NA
+"SAED26","SAED26-1.lsm","SAED26-1","L",2002,4,"fru MARCM","F",NA
+"SAED26","SAED26-1.lsm","SAED26-1","R",548,1,"fru MARCM","F","pMP-a"
+"SAED26","SAED26-1.lsm","SAED26-1","L",549,2,"fru MARCM","F","aIP-f"
+"SAED27","SAED27-1.lsm","SAED27-1","L",550,1,"fru MARCM","F","aDT-e"
+"SAED28","SAED28-1.lsm","SAED28-1","L",2217,3,"fru MARCM","F","aSP-b"
+"SAED28","SAED28-1.lsm","SAED28-1","R",554,2,"fru MARCM","F","aSP-a"
+"SAED28","SAED28-1.lsm","SAED28-1","L",553,1,"fru MARCM","F","aSP-m"
+"SAED5","SAED5-1.lsm","SAED5-1","R",528,2,"fru MARCM","F","pIP-e"
+"SAED5","SAED5-1.lsm","SAED5-1","R",527,1,"fru MARCM","F","pSP-a"
+"SAED7","SAED7-1.lsm","SAED7-1","R",532,5,"fru MARCM","F",NA
+"SAED7","SAED7-1.lsm","SAED7-1","R",526,1,"fru MARCM","F","aDT-g"
+"SAED7","SAED7-1.lsm","SAED7-1","L",530,3,"fru MARCM","F","pSP-b"
+"SAED7","SAED7-1.lsm","SAED7-1","L",531,4,"fru MARCM","F",NA
+"SAED7","SAED7-1.lsm","SAED7-1","L",529,2,"fru MARCM","F","pSP-f"
+"SAED9","SAED9-1.lsm","SAED9-1","R",534,2,"fru MARCM","F","MB"
+"SAED9","SAED9-1.lsm","SAED9-1","L",533,1,"fru MARCM","F","pSP-b"
+"SAEE1","SAEE1-1.lsm","SAEE1-1","L",555,1,"fru MARCM","F","aDT-e"
+"SAEE10","SAEE10-1.lsm","SAEE10-1","L",568,1,"fru MARCM","F","pSP-e"
+"SAEE10","SAEE10-1.lsm","SAEE10-1","L",4005,4,"fru MARCM","F","SN-d"
+"SAEE10","SAEE10-1.lsm","SAEE10-1","L",570,3,"fru MARCM","F",NA
+"SAEE10","SAEE10-1.lsm","SAEE10-1","L",569,2,"fru MARCM","F",NA
+"SAEE14","SAEE14-1.lsm","SAEE14-1","R",576,2,"fru MARCM","F","aIP-d"
+"SAEE14","SAEE14-1.lsm","SAEE14-1","R",577,3,"fru MARCM","F","pIP-g"
+"SAEE14","SAEE14-1.lsm","SAEE14-1","L",574,1,"fru MARCM","F","aSP-k"
+"SAEE2","SAEE2-1.lsm","SAEE2-1","L",557,2,"fru MARCM","F",NA
+"SAEE2","SAEE2-1.lsm","SAEE2-1","R",556,1,"fru MARCM","F","aSP-f"
+"SAEE4","SAEE4-1.lsm","SAEE4-1","R",560,2,"fru MARCM","F","pMP-d"
+"SAEE4","SAEE4-1.lsm","SAEE4-1","R",559,1,"fru MARCM","F","aSP-l"
+"SAEE4","SAEE4-1.lsm","SAEE4-1","R",4006,3,"fru MARCM","F","SN-a"
+"SAEE6","SAEE6-1.lsm","SAEE6-1","L",561,1,"fru MARCM","F","aDT-e"
+"SAEE6","SAEE6-1.lsm","SAEE6-1","R",3019,4,"fru MARCM","F","aIP-d"
+"SAEE6","SAEE6-1.lsm","SAEE6-1","R",563,3,"fru MARCM","F","aSP-b"
+"SAEE6","SAEE6-1.lsm","SAEE6-1","L",562,2,"fru MARCM","F","pMP-a"
+"SAEE7","SAEE7-1.lsm","SAEE7-1","L",564,1,"fru MARCM","F","aDT-e"
+"SAEE8","SAEE8-1.lsm","SAEE8-1","L",565,1,"fru MARCM","F","aIP-e"
+"SAEE8","SAEE8-1.lsm","SAEE8-1","R",566,2,"fru MARCM","F","aDT-h"
+"SAEG11","SAEG11-1.lsm","SAEG11-1","R",598,1,"fru MARCM","M","pSP-b"
+"SAEG11","SAEG11-1.lsm","SAEG11-1","L",600,3,"fru MARCM","M","pIP-h"
+"SAEG11","SAEG11-1.lsm","SAEG11-1","L",599,2,"fru MARCM","M","pIP-c"
+"SAEG12","SAEG12-1.lsm","SAEG12-1","R",603,3,"fru MARCM","M","pMP-b"
+"SAEG12","SAEG12-1.lsm","SAEG12-1","L",4102,4,"fru MARCM","M","pMP-g"
+"SAEG12","SAEG12-1.lsm","SAEG12-1","L",602,2,"fru MARCM","M","aSG-a"
+"SAEG12","SAEG12-1.lsm","SAEG12-1","L",601,1,"fru MARCM","M","pMP-a"
+"SAEG14","SAEG14-1.lsm","SAEG14-1","L",3020,3,"fru MARCM","M",NA
+"SAEG14","SAEG14-1.lsm","SAEG14-1","R",606,1,"fru MARCM","M","pIP-j"
+"SAEG14","SAEG14-1.lsm","SAEG14-1","R",607,2,"fru MARCM","M",NA
+"SAEG15","SAEG15-1.lsm","SAEG15-1","R",610,2,"fru MARCM","M",NA
+"SAEG15","SAEG15-1.lsm","SAEG15-1","R",609,1,"fru MARCM","M","aIP-i"
+"SAEG15","SAEG15-1.lsm","SAEG15-1","R",611,3,"fru MARCM","M","pSP-b"
+"SAEG16","SAEG16-1.lsm","SAEG16-1","R",615,3,"fru MARCM","M","pSP-b"
+"SAEG16","SAEG16-1.lsm","SAEG16-1","L",614,2,"fru MARCM","M",NA
+"SAEG16","SAEG16-1.lsm","SAEG16-1","L",4103,4,"fru MARCM","M","SN-a"
+"SAEG16","SAEG16-1.lsm","SAEG16-1","R",613,1,"fru MARCM","M","pMP-d"
+"SAEG17","SAEG17-1.lsm","SAEG17-1","L",623,3,"fru MARCM","M",NA
+"SAEG17","SAEG17-1.lsm","SAEG17-1","L",621,2,"fru MARCM","M","aSP-c"
+"SAEG17","SAEG17-1.lsm","SAEG17-1","R",617,1,"fru MARCM","M","aSP-l"
+"SAEG2","SAEG2-1.lsm","SAEG2-1","R",581,2,"fru MARCM","M","aSP-m"
+"SAEG2","SAEG2-1.lsm","SAEG2-1","R",583,3,"fru MARCM","M","pMP-d"
+"SAEG2","SAEG2-1.lsm","SAEG2-1","R",578,1,"fru MARCM","M","aSP-c"
+"SAEG2","SAEG2-1.lsm","SAEG2-1","L",584,4,"fru MARCM","M","pSG-c"
+"SAEG5","SAEG5-1.lsm","SAEG5-1","R",585,1,"fru MARCM","M","aDT-e"
+"SAEG5","SAEG5-1.lsm","SAEG5-1","R",2299,4,"fru MARCM","M","aDT-a"
+"SAEG5","SAEG5-1.lsm","SAEG5-1","R",586,2,"fru MARCM","M","pMP-f"
+"SAEG6","SAEG6-1.lsm","SAEG6-1","L",590,3,"fru MARCM","M",NA
+"SAEG6","SAEG6-1.lsm","SAEG6-1","R",4104,6,"fru MARCM","M","MB"
+"SAEG6","SAEG6-1.lsm","SAEG6-1","R",591,4,"fru MARCM","M","pMP-d"
+"SAEG6","SAEG6-1.lsm","SAEG6-1","R",589,2,"fru MARCM","M","pSG-d"
+"SAEG6","SAEG6-1.lsm","SAEG6-1","R",588,1,"fru MARCM","M","aSP-a"
+"SAEG6","SAEG6-1.lsm","SAEG6-1","R",592,5,"fru MARCM","M",NA
+"SAEG9","SAEG9-1.lsm","SAEG9-1","L",595,3,"fru MARCM","M",NA
+"SAEG9","SAEG9-1.lsm","SAEG9-1","L",4105,4,"fru MARCM","M","SN-a"
+"SAEG9","SAEG9-1.lsm","SAEG9-1","L",4106,5,"fru MARCM","M","SN-c"
+"SAEG9","SAEG9-1.lsm","SAEG9-1","R",594,2,"fru MARCM","M","pSG-a"
+"SAEG9","SAEG9-1.lsm","SAEG9-1","R",593,1,"fru MARCM","M","pMP-e"
+"SAEH1","SAEH1-1.lsm","SAEH1-1","L",4195,4,"fru MARCM","M","vPr-a"
+"SAEH1","SAEH1-1.lsm","SAEH1-1","R",629,3,"fru MARCM","M","pSP-e"
+"SAEH1","SAEH1-1.lsm","SAEH1-1","L",625,1,"fru MARCM","M","aIP-b"
+"SAEH1","SAEH1-1.lsm","SAEH1-1","L",628,2,"fru MARCM","M",NA
+"SAEH10","SAEH10-1.lsm","SAEH10-1","L",3021,4,"fru MARCM","M","MB"
+"SAEH10","SAEH10-1.lsm","SAEH10-1","R",640,3,"fru MARCM","M",NA
+"SAEH10","SAEH10-1.lsm","SAEH10-1","L",639,2,"fru MARCM","M","aSP-m"
+"SAEH10","SAEH10-1.lsm","SAEH10-1","R",4107,5,"fru MARCM","M","SN-d"
+"SAEH10","SAEH10-1.lsm","SAEH10-1","L",637,1,"fru MARCM","M","aDT-g"
+"SAEH11","SAEH11-1.lsm","SAEH11-1","L",3022,6,"fru MARCM","M","pMP-c"
+"SAEH11","SAEH11-1.lsm","SAEH11-1","R",644,2,"fru MARCM","M","pIP-e"
+"SAEH11","SAEH11-1.lsm","SAEH11-1","R",643,1,"fru MARCM","M",NA
+"SAEH11","SAEH11-1.lsm","SAEH11-1","L",648,4,"fru MARCM","M","aSP-m"
+"SAEH11","SAEH11-1.lsm","SAEH11-1","L",646,3,"fru MARCM","M",NA
+"SAEH11","SAEH11-1.lsm","SAEH11-1","R",785,5,"fru MARCM","M",NA
+"SAEH12","SAEH12-1.lsm","SAEH12-1","L",3023,2,"fru MARCM","M","pSG-b"
+"SAEH12","SAEH12-1.lsm","SAEH12-1","R",2309,1,"fru MARCM","M","aDT-b"
+"SAEH12","SAEH12-1.lsm","SAEH12-1","L",3024,3,"fru MARCM","M","pSP-f"
+"SAEH2","SAEH2-1.lsm","SAEH2-1","R",635,1,"fru MARCM","M","aSP-b"
+"SAEH2","SAEH2-1.lsm","SAEH2-1","L",638,3,"fru MARCM","M",NA
+"SAEH2","SAEH2-1.lsm","SAEH2-1","R",4196,4,"fru MARCM","M","vPr-a"
+"SAEH2","SAEH2-1.lsm","SAEH2-1","L",636,2,"fru MARCM","M",NA
+"SAEH3","SAEH3-1.lsm","SAEH3-1","R",642,2,"fru MARCM","M","pMP-b"
+"SAEH3","SAEH3-1.lsm","SAEH3-1","R",641,1,"fru MARCM","M","aSP-a"
+"SAEH4","SAEH4-1.lsm","SAEH4-1","L",645,1,"fru MARCM","M","pMP-a"
+"SAEH4","SAEH4-1.lsm","SAEH4-1","L",647,2,"fru MARCM","M",NA
+"SAEH5","SAEH5-1.lsm","SAEH5-1","R",658,4,"fru MARCM","M",NA
+"SAEH5","SAEH5-1.lsm","SAEH5-1","R",656,2,"fru MARCM","M","pSG-b"
+"SAEH5","SAEH5-1.lsm","SAEH5-1","R",657,3,"fru MARCM","M",NA
+"SAEH5","SAEH5-1.lsm","SAEH5-1","L",655,1,"fru MARCM","M","aSP-d"
+"SAEH6","SAEH6-1.lsm","SAEH6-1","R",784,3,"fru MARCM","M",NA
+"SAEH6","SAEH6-1.lsm","SAEH6-1","L",654,2,"fru MARCM","M","pMP-d"
+"SAEH6","SAEH6-1.lsm","SAEH6-1","R",4197,4,"fru MARCM","M","vPr-a"
+"SAEH6","SAEH6-1.lsm","SAEH6-1","L",653,1,"fru MARCM","M","aIP-a"
+"SAEH7","SAEH7-1.lsm","SAEH7-1","R",651,1,"fru MARCM","M","pIP-h"
+"SAEH7","SAEH7-1.lsm","SAEH7-1","R",652,1,"fru MARCM","M",NA
+"SAEH8","SAEH8-1.lsm","SAEH8-1","R",649,1,"fru MARCM","M","aSP-g"
+"SAEH8","SAEH8-1.lsm","SAEH8-1","R",650,2,"fru MARCM","M","pIP-j"
+"SAEH8","SAEH8-1.lsm","SAEH8-1","R",3699,3,"fru MARCM","M","pMP-g"
+"SAEH9","SAEH9-1.lsm","SAEH9-1","R",631,1,"fru MARCM","M","aSP-m"
+"SAEH9","SAEH9-1.lsm","SAEH9-1","R",632,2,"fru MARCM","M","aSP-h"
+"SAEH9","SAEH9-1.lsm","SAEH9-1","R",633,3,"fru MARCM","M",NA
+"SAEI13","SAEI13-1.lsm","SAEI13-1","L",616,1,"fru MARCM","F","pSG-a"
+"SAEI14","SAEI14-1.lsm","SAEI14-1","R",618,1,"fru MARCM","F","pSG-b"
+"SAEI16","SAEI16-1.lsm","SAEI16-1","L",620,2,"fru MARCM","F",NA
+"SAEI16","SAEI16-1.lsm","SAEI16-1","L",619,1,"fru MARCM","F",NA
+"SAEI19","SAEI19-1.lsm","SAEI19-1","R",626,3,"fru MARCM","F",NA
+"SAEI19","SAEI19-1.lsm","SAEI19-1","R",622,1,"fru MARCM","F","aIP-g"
+"SAEI19","SAEI19-1.lsm","SAEI19-1","L",624,2,"fru MARCM","F",NA
+"SAEI19","SAEI19-1.lsm","SAEI19-1","R",627,4,"fru MARCM","F",NA
+"SAEI6","SAEI6-1.lsm","SAEI6-1","L",612,1,"fru MARCM","F","aSP-g"
+"SAEJ10","SAEJ10-1.lsm","SAEJ10-1","L",674,1,"fru MARCM","F","aSP-d"
+"SAEJ10","SAEJ10-1.lsm","SAEJ10-1","L",675,2,"fru MARCM","F","pSP-e"
+"SAEJ12","SAEJ12-1.lsm","SAEJ12-1","R",680,2,"fru MARCM","F",NA
+"SAEJ12","SAEJ12-1.lsm","SAEJ12-1","R",3025,3,"fru MARCM","F","aSP-k"
+"SAEJ12","SAEJ12-1.lsm","SAEJ12-1","R",679,1,"fru MARCM","F","aDT-e"
+"SAEJ13","SAEJ13-1.lsm","SAEJ13-1","R",682,1,"fru MARCM","F","aDT-d"
+"SAEJ13","SAEJ13-1.lsm","SAEJ13-1","L",4199,2,"fru MARCM","F","MB"
+"SAEJ14","SAEJ14-1.lsm","SAEJ14-1","R",3028,4,"fru MARCM","F","pMP-g"
+"SAEJ14","SAEJ14-1.lsm","SAEJ14-1","R",3027,3,"fru MARCM","F","pIP-"
+"SAEJ14","SAEJ14-1.lsm","SAEJ14-1","R",1583,1,"fru MARCM","F","aDT-b"
+"SAEJ14","SAEJ14-1.lsm","SAEJ14-1","R",3026,2,"fru MARCM","F","aSP-b"
+"SAEJ15","SAEJ15-1.lsm","SAEJ15-1","R",693,2,"fru MARCM","F","aSP-l"
+"SAEJ15","SAEJ15-1.lsm","SAEJ15-1","L",691,1,"fru MARCM","F","aIP-e"
+"SAEJ17","SAEJ17-1.lsm","SAEJ17-1","R",3029,2,"fru MARCM","F","MB"
+"SAEJ17","SAEJ17-1.lsm","SAEJ17-1","L",697,1,"fru MARCM","F",NA
+"SAEJ18","SAEJ18-1.lsm","SAEJ18-1","R",4007,2,"fru MARCM","F","SN-d"
+"SAEJ18","SAEJ18-1.lsm","SAEJ18-1","L",699,1,"fru MARCM","F",NA
+"SAEJ19","SAEJ19-1.lsm","SAEJ19-1","R",701,2,"fru MARCM","F","pIP-a"
+"SAEJ19","SAEJ19-1.lsm","SAEJ19-1","R",700,1,"fru MARCM","F","aSP-m"
+"SAEJ19","SAEJ19-1.lsm","SAEJ19-1","R",3030,3,"fru MARCM","F","pIP-f"
+"SAEJ22","SAEJ22-1.lsm","SAEJ22-1","R",663,2,"fru MARCM","F",NA
+"SAEJ22","SAEJ22-1.lsm","SAEJ22-1","L",662,1,"fru MARCM","F","aIP-b"
+"SAEJ23","SAEJ23-1.lsm","SAEJ23-1","L",665,1,"fru MARCM","F","aDT-a"
+"SAEJ23","SAEJ23-1.lsm","SAEJ23-1","R",666,2,"fru MARCM","F",NA
+"SAEJ23","SAEJ23-1.lsm","SAEJ23-1","R",667,3,"fru MARCM","F",NA
+"SAEJ26","SAEJ26-1.lsm","SAEJ26-1","R",668,1,"fru MARCM","F","aDT-a"
+"SAEJ27","SAEJ27-1.lsm","SAEJ27-1","L",672,2,"fru MARCM","F",NA
+"SAEJ27","SAEJ27-1.lsm","SAEJ27-1","L",2003,3,"fru MARCM","F",NA
+"SAEJ27","SAEJ27-1.lsm","SAEJ27-1","L",671,1,"fru MARCM","F","aDT-e"
+"SAEJ28","SAEJ28-1.lsm","SAEJ28-1","L",673,1,"fru MARCM","F","pMP-f"
+"SAEJ28","SAEJ28-1.lsm","SAEJ28-1","R",4008,3,"fru MARCM","F","SN-d"
+"SAEJ28","SAEJ28-1.lsm","SAEJ28-1","R",3031,2,"fru MARCM","F",NA
+"SAEJ6","SAEJ6-1.lsm","SAEJ6-1","R",660,1,"fru MARCM","F","aSP-k"
+"SAEJ6","SAEJ6-1.lsm","SAEJ6-1","R",661,2,"fru MARCM","F","pSP-a"
+"SAEJ7","SAEJ7-1.lsm","SAEJ7-1","R",664,1,"fru MARCM","F","pSP-d"
+"SAEJ8","SAEJ8-1.lsm","SAEJ8-1","L",670,2,"fru MARCM","F","aSP-e"
+"SAEJ8","SAEJ8-1.lsm","SAEJ8-1","L",669,1,"fru MARCM","F","aDT-e"
+"SAEK1","SAEK1-1.lsm","SAEK1-1","L",676,1,"fru MARCM","F","aIP-g"
+"SAEK10","SAEK10-1.lsm","SAEK10-1","L",686,1,"fru MARCM","F","aDT-c"
+"SAEK10","SAEK10-1.lsm","SAEK10-1","L",2004,2,"fru MARCM","F",NA
+"SAEK12","SAEK12-1.lsm","SAEK12-1","R",689,2,"fru MARCM","F","aDT-h"
+"SAEK12","SAEK12-1.lsm","SAEK12-1","L",688,1,"fru MARCM","F","aSP-i"
+"SAEK14","SAEK14-1.lsm","SAEK14-1","R",692,2,"fru MARCM","F","pIP-h"
+"SAEK14","SAEK14-1.lsm","SAEK14-1","R",690,1,"fru MARCM","F",NA
+"SAEK15","SAEK15-1.lsm","SAEK15-1","L",694,1,"fru MARCM","F","aDT-g"
+"SAEK15","SAEK15-1.lsm","SAEK15-1","L",695,2,"fru MARCM","F","pIP-c"
+"SAEK15","SAEK15-1.lsm","SAEK15-1","L",696,3,"fru MARCM","F","MB"
+"SAEK16","SAEK16-1.lsm","SAEK16-1","L",659,1,"fru MARCM","F","pSP-a"
+"SAEK3","SAEK3-1.lsm","SAEK3-1","R",4009,2,"fru MARCM","F","SN-a"
+"SAEK3","SAEK3-1.lsm","SAEK3-1","R",678,1,"fru MARCM","F",NA
+"SAEK4","SAEK4-1.lsm","SAEK4-1","R",683,2,"fru MARCM","F",NA
+"SAEK4","SAEK4-1.lsm","SAEK4-1","L",681,1,"fru MARCM","F","aIP-e"
+"SAEK4","SAEK4-1.lsm","SAEK4-1","R",685,4,"fru MARCM","F","pSP-b"
+"SAEK4","SAEK4-1.lsm","SAEK4-1","R",684,3,"fru MARCM","F",NA
+"SAEL12","SAEL12-1.lsm","SAEL12-1","R",4108,5,"fru MARCM","M","SN-a"
+"SAEL12","SAEL12-1.lsm","SAEL12-1","R",711,2,"fru MARCM","M",NA
+"SAEL12","SAEL12-1.lsm","SAEL12-1","L",712,3,"fru MARCM","M","pIP-"
+"SAEL12","SAEL12-1.lsm","SAEL12-1","L",3032,4,"fru MARCM","M","MB"
+"SAEL12","SAEL12-1.lsm","SAEL12-1","L",710,1,"fru MARCM","M","pSP-d"
+"SAEL23","SAEL23-1.lsm","SAEL23-1","L",715,1,"fru MARCM","M","pIP-c"
+"SAEL23","SAEL23-1.lsm","SAEL23-1","L",1590,2,"fru MARCM","M","aSP-c"
+"SAEL23","SAEL23-1.lsm","SAEL23-1","L",2030,3,"fru MARCM","M","pIP-e"
+"SAEL7","SAEL7-1.lsm","SAEL7-1","L",702,1,"fru MARCM","M","aDT-e"
+"SAEL7","SAEL7-1.lsm","SAEL7-1","L",703,2,"fru MARCM","M","aDT-a"
+"SAEL7","SAEL7-1.lsm","SAEL7-1","R",704,3,"fru MARCM","M","pSP-a"
+"SAEL9","SAEL9-1.lsm","SAEL9-1","L",709,5,"fru MARCM","M",NA
+"SAEL9","SAEL9-1.lsm","SAEL9-1","R",705,1,"fru MARCM","M",NA
+"SAEL9","SAEL9-1.lsm","SAEL9-1","L",708,4,"fru MARCM","M","pMP-g"
+"SAEL9","SAEL9-1.lsm","SAEL9-1","L",707,3,"fru MARCM","M",NA
+"SAEL9","SAEL9-1.lsm","SAEL9-1","R",3934,6,"fru MARCM","M","SN-a"
+"SAEL9","SAEL9-1.lsm","SAEL9-1","R",706,2,"fru MARCM","M","pSG-a"
+"SAEM10","SAEM10-1.lsm","SAEM10-1","L",729,1,"fru MARCM","M",NA
+"SAEM10","SAEM10-1.lsm","SAEM10-1","L",730,2,"fru MARCM","M",NA
+"SAEM11","SAEM11-1.lsm","SAEM11-1","R",3033,3,"fru MARCM","M","pSG-e"
+"SAEM11","SAEM11-1.lsm","SAEM11-1","L",732,2,"fru MARCM","M",NA
+"SAEM11","SAEM11-1.lsm","SAEM11-1","L",731,1,"fru MARCM","M","pIP-a"
+"SAEM12","SAEM12-1.lsm","SAEM12-1","L",733,1,"fru MARCM","M","aSG-a"
+"SAEM14","SAEM14-1.lsm","SAEM14-1","R",734,1,"fru MARCM","M","aDT-e"
+"SAEM14","SAEM14-1.lsm","SAEM14-1","R",735,2,"fru MARCM","M",NA
+"SAEM14","SAEM14-1.lsm","SAEM14-1","R",736,3,"fru MARCM","M",NA
+"SAEM15","SAEM15-1.lsm","SAEM15-1","R",742,6,"fru MARCM","M","pSG-b"
+"SAEM15","SAEM15-1.lsm","SAEM15-1","L",738,2,"fru MARCM","M",NA
+"SAEM15","SAEM15-1.lsm","SAEM15-1","L",740,4,"fru MARCM","M","aSP-m"
+"SAEM15","SAEM15-1.lsm","SAEM15-1","R",737,1,"fru MARCM","M",NA
+"SAEM15","SAEM15-1.lsm","SAEM15-1","L",739,3,"fru MARCM","M",NA
+"SAEM15","SAEM15-1.lsm","SAEM15-1","R",741,5,"fru MARCM","M","aSP-h"
+"SAEM18","SAEM18-1.lsm","SAEM18-1","L",745,3,"fru MARCM","M",NA
+"SAEM18","SAEM18-1.lsm","SAEM18-1","L",743,1,"fru MARCM","M","pSP-e"
+"SAEM18","SAEM18-1.lsm","SAEM18-1","L",746,4,"fru MARCM","M","pMP-e"
+"SAEM18","SAEM18-1.lsm","SAEM18-1","R",1785,6,"fru MARCM","M","pSP-a"
+"SAEM18","SAEM18-1.lsm","SAEM18-1","L",4109,7,"fru MARCM","M","SN-a"
+"SAEM18","SAEM18-1.lsm","SAEM18-1","L",747,5,"fru MARCM","M",NA
+"SAEM21","SAEM21-1.lsm","SAEM21-1","R",748,1,"fru MARCM","M","aDT-e"
+"SAEM21","SAEM21-1.lsm","SAEM21-1","R",750,3,"fru MARCM","M",NA
+"SAEM23","SAEM23-1.lsm","SAEM23-1","L",752,2,"fru MARCM","M",NA
+"SAEM23","SAEM23-1.lsm","SAEM23-1","L",751,1,"fru MARCM","M","aSP-l"
+"SAEM24","SAEM24-1.lsm","SAEM24-1","R",754,2,"fru MARCM","M","aIP-b"
+"SAEM24","SAEM24-1.lsm","SAEM24-1","R",755,3,"fru MARCM","M","pSP-d"
+"SAEM24","SAEM24-1.lsm","SAEM24-1","R",753,1,"fru MARCM","M","aSP-j"
+"SAEM24","SAEM24-1.lsm","SAEM24-1","L",1786,NA,"fru MARCM","M","pSP-a"
+"SAEM4","SAEM4-1.lsm","SAEM4-1","L",716,1,"fru MARCM","M",NA
+"SAEM4","SAEM4-1.lsm","SAEM4-1","L",718,3,"fru MARCM","M","pMP-g"
+"SAEM4","SAEM4-1.lsm","SAEM4-1","R",717,2,"fru MARCM","M",NA
+"SAEM4","SAEM4-1.lsm","SAEM4-1","L",4110,4,"fru MARCM","M","SN-b"
+"SAEM5","SAEM5-1.lsm","SAEM5-1","L",719,1,"fru MARCM","M","aIP-i"
+"SAEM5","SAEM5-1.lsm","SAEM5-1","R",720,2,"fru MARCM","M","aDT-c"
+"SAEM8","SAEM8-1.lsm","SAEM8-1","L",722,2,"fru MARCM","M","aSG-a"
+"SAEM8","SAEM8-1.lsm","SAEM8-1","L",724,4,"fru MARCM","M",NA
+"SAEM8","SAEM8-1.lsm","SAEM8-1","R",723,3,"fru MARCM","M","pIP-b"
+"SAEM8","SAEM8-1.lsm","SAEM8-1","R",721,1,"fru MARCM","M","aIP-h"
+"SAEM8","SAEM8-1.lsm","SAEM8-1","R",725,5,"fru MARCM","M",NA
+"SAEM9","SAEM9-1.lsm","SAEM9-1","R",727,2,"fru MARCM","M",NA
+"SAEM9","SAEM9-1.lsm","SAEM9-1","R",728,3,"fru MARCM","M",NA
+"SAEM9","SAEM9-1.lsm","SAEM9-1","R",4111,4,"fru MARCM","M","SN-a"
+"SAEM9","SAEM9-1.lsm","SAEM9-1","R",726,1,"fru MARCM","M",NA
+"SAGA1","SAGA1-1.lsm","SAGA1-1","L",762,1,"fru MARCM","M","pMP-a"
+"SAGC1","SAGC1-1.lsm","SAGC1-1","L",2355,2,"fru MARCM","M",NA
+"SAGC1","SAGC1-1.lsm","SAGC1-1","L",2354,1,"fru MARCM","M","vMs-j"
+"SAGC2","SAGC2-1.lsm","SAGC2-1","L",2356,1,"fru MARCM","M","dPr-b"
+"SAGC3","SAGC3-1.lsm","SAGC3-1","L",2358,2,"fru MARCM","M","dAb-a"
+"SAGC3","SAGC3-1.lsm","SAGC3-1","R",2357,1,"fru MARCM","M","vMs-m"
+"SAGD1","SAGD1-1.lsm","SAGD1-1","L",2360,1,"fru MARCM","F",NA
+"SAGD2","SAGD2-1.lsm","SAGD2-1","L",2359,1,"fru MARCM","F","vMt-a"
+"SAGD2","SAGD2-1.lsm","SAGD2-1","R",2362,2,"fru MARCM","F","vPr-h"
+"SAGD3","SAGD3-1.lsm","SAGD3-1","R",2361,1,"fru MARCM","F","vPr-c"
+"SAGD4","SAGD4-1.lsm","SAGD4-1","L",3279,2,"fru MARCM","F","SN-g"
+"SAGD4","SAGD4-1.lsm","SAGD4-1","R",2363,1,"fru MARCM","F","vPr-c"
+"SAGD5","SAGD5-1.lsm","SAGD5-1","R",2366,2,"fru MARCM","F",NA
+"SAGD5","SAGD5-1.lsm","SAGD5-1","R",2364,1,"fru MARCM","F","vMs-m"
+"SAGD6","SAGD6-1.lsm","SAGD6-1","L",2376,5,"fru MARCM","F",NA
+"SAGD6","SAGD6-1.lsm","SAGD6-1","R",2368,3,"fru MARCM","F",NA
+"SAGD6","SAGD6-1.lsm","SAGD6-1","R",2367,2,"fru MARCM","F","vMs-g"
+"SAGD6","SAGD6-1.lsm","SAGD6-1","L",2374,4,"fru MARCM","F",NA
+"SAGD7","SAGD7-1.lsm","SAGD7-1","R",2371,3,"fru MARCM","F","SN-g"
+"SAGD7","SAGD7-1.lsm","SAGD7-1","R",2372,4,"fru MARCM","F",NA
+"SAGD7","SAGD7-1.lsm","SAGD7-1","L",2369,1,"fru MARCM","F",NA
+"SAGD7","SAGD7-1.lsm","SAGD7-1","L",2370,2,"fru MARCM","F","SN-f"
+"SAGD8","SAGD8-1.lsm","SAGD8-1","R",2379,2,"fru MARCM","F","vPr-h"
+"SAGD8","SAGD8-1.lsm","SAGD8-1","L",2375,1,"fru MARCM","F",NA
+"SAGE1","SAGE1-1.lsm","SAGE1-1","L",2377,1,"fru MARCM","F","vPr-c"
+"SAGE10","SAGE10-1.lsm","SAGE10-1","L",2378,1,"fru MARCM","F","vPr-c"
+"SAGE11","SAGE11-1.lsm","SAGE11-1","L",2381,1,"fru MARCM","F","dPr-a"
+"SAGE11","SAGE11-1.lsm","SAGE11-1","R",2382,2,"fru MARCM","F",NA
+"SAGE13","SAGE13-1.lsm","SAGE13-1","R",2388,1,"fru MARCM","F","vMs-f"
+"SAGE13","SAGE13-1.lsm","SAGE13-1","R",2391,2,"fru MARCM","F",NA
+"SAGE2","SAGE2-1.lsm","SAGE2-1","R",2383,1,"fru MARCM","F","SN-h"
+"SAGE3","SAGE3-1.lsm","SAGE3-1","L",2385,2,"fru MARCM","F",NA
+"SAGE3","SAGE3-1.lsm","SAGE3-1","L",2384,1,"fru MARCM","F","SN-h"
+"SAGE4","SAGE4-1.lsm","SAGE4-1","L",2386,1,"fru MARCM","F",NA
+"SAGE6","SAGE6-1.lsm","SAGE6-1","L",2390,2,"fru MARCM","F","vPr-h"
+"SAGE6","SAGE6-1.lsm","SAGE6-1","R",2389,1,"fru MARCM","F",NA
+"SAGE7","SAGE7-1.lsm","SAGE7-1","L",2392,1,"fru MARCM","F","vPr-h"
+"SAGE7","SAGE7-1.lsm","SAGE7-1","R",2393,2,"fru MARCM","F",NA
+"SAGE7","SAGE7-1.lsm","SAGE7-1","R",2394,3,"fru MARCM","F",NA
+"SAGE8","SAGE8-1.lsm","SAGE8-1","R",2395,1,"fru MARCM","F","vPr-c"
+"SAGE9","SAGE9-1.lsm","SAGE9-1","R",2397,1,"fru MARCM","F","vMs-e"
+"SAGF12","SAGF12-1.lsm","SAGF12-1","R",2396,1,"fru MARCM","F","SN-h"
+"SAGF13","SAGF13-1.lsm","SAGF13-1","R",2398,1,"fru MARCM","F","vPr-e"
+"SAGF16","SAGF16-1.lsm","SAGF16-1","R",2399,1,"fru MARCM","F","SN-g"
+"SAGF9","SAGF9-1.lsm","SAGF9-1","L",2401,1,"fru MARCM","F",NA
+"SAGH2","SAGH2-1.lsm","SAGH2-1","R",764,1,"fru MARCM","F",NA
+"SAGI4","SAGI4-1.lsm","SAGI4-1","L",4010,6,"fru MARCM","F","SN-d"
+"SAGI4","SAGI4-1.lsm","SAGI4-1","L",773,4,"fru MARCM","F","pMP-d"
+"SAGI4","SAGI4-1.lsm","SAGI4-1","R",4011,7,"fru MARCM","F","SN-d"
+"SAGI4","SAGI4-1.lsm","SAGI4-1","R",767,2,"fru MARCM","F","aIP-b"
+"SAGI4","SAGI4-1.lsm","SAGI4-1","L",766,1,"fru MARCM","F","aDT-h"
+"SAGI4","SAGI4-1.lsm","SAGI4-1","R",1787,5,"fru MARCM","F","pSP-a"
+"SAGI4","SAGI4-1.lsm","SAGI4-1","R",772,3,"fru MARCM","F","pSP-a"
+"SAGJ12","SAGJ12-1.lsm","SAGJ12-1","L",768,1,"fru MARCM","M","aSP-a"
+"SAGJ12","SAGJ12-1.lsm","SAGJ12-1","R",4113,3,"fru MARCM","M","SN-a"
+"SAGJ12","SAGJ12-1.lsm","SAGJ12-1","L",4112,2,"fru MARCM","M","SN-a"
+"SAGJ13","SAGJ13-1.lsm","SAGJ13-1","R",758,2,"fru MARCM","M","pIP-f"
+"SAGJ3","SAGJ3-1.lsm","SAGJ3-1","L",3944,2,"fru MARCM","M","SN-a"
+"SAGJ3","SAGJ3-1.lsm","SAGJ3-1","L",774,1,"fru MARCM","M","aIP-d"
+"SAGJ5","SAGJ5-1.lsm","SAGJ5-1","R",771,2,"fru MARCM","M","pIP-h"
+"SAGJ5","SAGJ5-1.lsm","SAGJ5-1","L",770,1,"fru MARCM","M","aSP-a"
+"SAGJ7","SAGJ7-1.lsm","SAGJ7-1","R",769,1,"fru MARCM","M",NA
+"SAGK1","SAGK1-1.lsm","SAGK1-1","L",761,3,"fru MARCM","F","pMP-a"
+"SAGK1","SAGK1-1.lsm","SAGK1-1","R",759,1,"fru MARCM","F","aSP-l"
+"SAGK1","SAGK1-1.lsm","SAGK1-1","L",760,2,"fru MARCM","F","pSG-a"
+"SAGK3","SAGK3-1.lsm","SAGK3-1","R",765,2,"fru MARCM","F",NA
+"SAGK3","SAGK3-1.lsm","SAGK3-1","L",763,1,"fru MARCM","F","aDT-e"
+"SAGL1","SAGL1-1.lsm","SAGL1-1","L",856,1,"fru MARCM","F","aSP-i"
+"SAGL10","SAGL10-1.lsm","SAGL10-1","L",3006,3,"fru MARCM","F","MB"
+"SAGL10","SAGL10-1.lsm","SAGL10-1","L",3005,2,"fru MARCM","F","pSP-f"
+"SAGL10","SAGL10-1.lsm","SAGL10-1","R",860,1,"fru MARCM","F","aIP-e"
+"SAGL12","SAGL12-1.lsm","SAGL12-1","L",862,1,"fru MARCM","F",NA
+"SAGL12","SAGL12-1.lsm","SAGL12-1","R",863,2,"fru MARCM","F","pMP-a"
+"SAGL12","SAGL12-1.lsm","SAGL12-1","R",864,3,"fru MARCM","F","pIP-h"
+"SAGL2","SAGL2-1.lsm","SAGL2-1","R",4012,2,"fru MARCM","F","SN-a"
+"SAGL2","SAGL2-1.lsm","SAGL2-1","L",867,1,"fru MARCM","F","aSP-a"
+"SAGL3","SAGL3-1.lsm","SAGL3-1","L",3938,4,"fru MARCM","F","SN-d"
+"SAGL3","SAGL3-1.lsm","SAGL3-1","L",872,2,"fru MARCM","F","pMP-e"
+"SAGL3","SAGL3-1.lsm","SAGL3-1","R",874,3,"fru MARCM","F",NA
+"SAGL3","SAGL3-1.lsm","SAGL3-1","L",871,1,"fru MARCM","F","pIP-c"
+"SAGL4","SAGL4-1.lsm","SAGL4-1","R",3939,3,"fru MARCM","F","SN-d"
+"SAGL4","SAGL4-1.lsm","SAGL4-1","R",885,1,"fru MARCM","F","pSP-b"
+"SAGL4","SAGL4-1.lsm","SAGL4-1","L",886,2,"fru MARCM","F",NA
+"SAGL5","SAGL5-1.lsm","SAGL5-1","R",1788,3,"fru MARCM","F","pSP-a"
+"SAGL5","SAGL5-1.lsm","SAGL5-1","R",876,2,"fru MARCM","F","aSP-i"
+"SAGL5","SAGL5-1.lsm","SAGL5-1","L",875,1,"fru MARCM","F","aDT-e"
+"SAGL6","SAGL6-1.lsm","SAGL6-1","R",879,1,"fru MARCM","F",NA
+"SAGL6","SAGL6-1.lsm","SAGL6-1","L",880,2,"fru MARCM","F",NA
+"SAGL6","SAGL6-1.lsm","SAGL6-1","R",881,3,"fru MARCM","F",NA
+"SAGL8","SAGL8-1.lsm","SAGL8-1","R",882,1,"fru MARCM","F","pIP-c"
+"SAGL8","SAGL8-1.lsm","SAGL8-1","R",1789,4,"fru MARCM","F","MB"
+"SAGL8","SAGL8-1.lsm","SAGL8-1","R",883,2,"fru MARCM","F","pSP-a"
+"SAGL8","SAGL8-1.lsm","SAGL8-1","R",884,3,"fru MARCM","F",NA
+"SAGM11","SAGM11-1.lsm","SAGM11-1","R",790,1,"fru MARCM","M","pIP-g"
+"SAGM14","SAGM14-1.lsm","SAGM14-1","R",3966,3,"fru MARCM","M","SN-a"
+"SAGM14","SAGM14-1.lsm","SAGM14-1","R",2339,2,"fru MARCM","M","aDT-d"
+"SAGM14","SAGM14-1.lsm","SAGM14-1","R",4114,4,"fru MARCM","M","SN-c"
+"SAGM14","SAGM14-1.lsm","SAGM14-1","R",791,1,"fru MARCM","M","aDT-e"
+"SAGM15","SAGM15-1.lsm","SAGM15-1","L",793,2,"fru MARCM","M",NA
+"SAGM15","SAGM15-1.lsm","SAGM15-1","R",4116,4,"fru MARCM","M","SN-a"
+"SAGM15","SAGM15-1.lsm","SAGM15-1","L",4117,5,"fru MARCM","M","SN-d"
+"SAGM15","SAGM15-1.lsm","SAGM15-1","R",792,1,"fru MARCM","M","aIP-e"
+"SAGM15","SAGM15-1.lsm","SAGM15-1","R",4118,6,"fru MARCM","M","SN-d"
+"SAGM15","SAGM15-1.lsm","SAGM15-1","L",4115,3,"fru MARCM","M","SN-a"
+"SAGM18","SAGM18-1.lsm","SAGM18-1","R",3945,3,"fru MARCM","M","SN-a"
+"SAGM18","SAGM18-1.lsm","SAGM18-1","L",1635,2,"fru MARCM","M","pSP-e"
+"SAGM18","SAGM18-1.lsm","SAGM18-1","L",795,1,"fru MARCM","M","pIP-b"
+"SAGM19","SAGM19-1.lsm","SAGM19-1","R",797,1,"fru MARCM","M","aDT-e"
+"SAGM19","SAGM19-1.lsm","SAGM19-1","L",4119,3,"fru MARCM","M","SN-c"
+"SAGM19","SAGM19-1.lsm","SAGM19-1","L",3034,2,"fru MARCM","M","MB"
+"SAGM20","SAGM20-1.lsm","SAGM20-1","R",4120,2,"fru MARCM","M","SN-c"
+"SAGM20","SAGM20-1.lsm","SAGM20-1","L",4121,3,"fru MARCM","M","SN-b"
+"SAGM20","SAGM20-1.lsm","SAGM20-1","R",798,1,"fru MARCM","M","pIP-g"
+"SAGM22","SAGM22-1.lsm","SAGM22-1","L",4122,3,"fru MARCM","M","MB"
+"SAGM22","SAGM22-1.lsm","SAGM22-1","L",800,2,"fru MARCM","M",NA
+"SAGM22","SAGM22-1.lsm","SAGM22-1","R",799,1,"fru MARCM","M","aSP-f"
+"SAGM24","SAGM24-1.lsm","SAGM24-1","L",1645,2,"fru MARCM","M","MB"
+"SAGM24","SAGM24-1.lsm","SAGM24-1","L",3946,3,"fru MARCM","M","SN-d"
+"SAGM24","SAGM24-1.lsm","SAGM24-1","L",801,1,"fru MARCM","M","pIP-e"
+"SAGM25","SAGM25-1.lsm","SAGM25-1","R",803,2,"fru MARCM","M",NA
+"SAGM25","SAGM25-1.lsm","SAGM25-1","R",802,1,"fru MARCM","M","pSP-a"
+"SAGM25","SAGM25-1.lsm","SAGM25-1","R",3035,3,"fru MARCM","M","MB"
+"SAGM29","SAGM29-1.lsm","SAGM29-1","R",804,1,"fru MARCM","M","aIP-g"
+"SAGM31","SAGM31-1.lsm","SAGM31-1","L",2402,1,"fru MARCM","M",NA
+"SAGM34","SAGM34-1.lsm","SAGM34-1","L",2405,1,"fru MARCM","M",NA
+"SAGM36","SAGM36-1.lsm","SAGM36-1","R",2403,1,"fru MARCM","M","SN-h"
+"SAGM36","SAGM36-1.lsm","SAGM36-1","L",2404,1,"fru MARCM","M",NA
+"SAGM38","SAGM38-1.lsm","SAGM38-1","R",2407,1,"fru MARCM","M","vPr-e"
+"SAGM39","SAGM39-1.lsm","SAGM39-1","L",2409,3,"fru MARCM","M",NA
+"SAGM39","SAGM39-1.lsm","SAGM39-1","L",805,1,"fru MARCM","M","aDT-e"
+"SAGM39","SAGM39-1.lsm","SAGM39-1","R",3948,6,"fru MARCM","M","MB"
+"SAGM39","SAGM39-1.lsm","SAGM39-1","R",3947,5,"fru MARCM","M","SN-a"
+"SAGM39","SAGM39-1.lsm","SAGM39-1","R",2408,2,"fru MARCM","M","SN-h"
+"SAGM39","SAGM39-1.lsm","SAGM39-1","R",4080,7,"fru MARCM","M","SN-b"
+"SAGM39","SAGM39-1.lsm","SAGM39-1","R",3036,4,"fru MARCM","M","MB"
+"SAGM40","SAGM40-1.lsm","SAGM40-1","R",806,1,"fru MARCM","M","pIP-f"
+"SAGM40","SAGM40-1.lsm","SAGM40-1","R",2415,3,"fru MARCM","M","SN-f"
+"SAGM41","SAGM41-1.lsm","SAGM41-1","L",2410,1,"fru MARCM","M","SN-g"
+"SAGM6","SAGM6-1.lsm","SAGM6-1","R",4123,3,"fru MARCM","M","SN-a"
+"SAGM6","SAGM6-1.lsm","SAGM6-1","R",1764,2,"fru MARCM","M","pIP-h"
+"SAGM6","SAGM6-1.lsm","SAGM6-1","R",1715,1,"fru MARCM","M",NA
+"SAGM8","SAGM8-1.lsm","SAGM8-1","L",1740,NA,"fru MARCM","M","pIP-e"
+"SAGN1","SAGN1-1.lsm","SAGN1-1","R",2343,3,"fru MARCM","F",NA
+"SAGN1","SAGN1-1.lsm","SAGN1-1","L",2341,1,"fru MARCM","F","aIP-g"
+"SAGN1","SAGN1-1.lsm","SAGN1-1","R",2342,2,"fru MARCM","F","pIP-h"
+"SAGN10","SAGN10-1.lsm","SAGN10-1","L",830,2,"fru MARCM","F",NA
+"SAGN10","SAGN10-1.lsm","SAGN10-1","L",829,1,"fru MARCM","F","aIP-a"
+"SAGN11","SAGN11-1.lsm","SAGN11-1","L",833,3,"fru MARCM","F",NA
+"SAGN11","SAGN11-1.lsm","SAGN11-1","L",832,2,"fru MARCM","F","pSP-c"
+"SAGN11","SAGN11-1.lsm","SAGN11-1","R",3940,4,"fru MARCM","F","SN-d"
+"SAGN11","SAGN11-1.lsm","SAGN11-1","L",3941,5,"fru MARCM","F","SN-c"
+"SAGN11","SAGN11-1.lsm","SAGN11-1","R",831,1,"fru MARCM","F",NA
+"SAGN13","SAGN13-1.lsm","SAGN13-1","R",810,4,"fru MARCM","F","aSP-m"
+"SAGN13","SAGN13-1.lsm","SAGN13-1","L",809,3,"fru MARCM","F","aSP-i"
+"SAGN13","SAGN13-1.lsm","SAGN13-1","R",812,6,"fru MARCM","F",NA
+"SAGN13","SAGN13-1.lsm","SAGN13-1","L",808,2,"fru MARCM","F","aIP-a"
+"SAGN13","SAGN13-1.lsm","SAGN13-1","R",807,1,"fru MARCM","F","aDT-e"
+"SAGN13","SAGN13-1.lsm","SAGN13-1","L",811,5,"fru MARCM","F",NA
+"SAGN15","SAGN15-1.lsm","SAGN15-1","L",814,2,"fru MARCM","F",NA
+"SAGN15","SAGN15-1.lsm","SAGN15-1","R",813,1,"fru MARCM","F","aIP-e"
+"SAGN16","SAGN16-1.lsm","SAGN16-1","L",834,1,"fru MARCM","F","aIP-a"
+"SAGN17","SAGN17-1.lsm","SAGN17-1","R",815,1,"fru MARCM","F","aDT-f"
+"SAGN19","SAGN19-1.lsm","SAGN19-1","R",2345,3,"fru MARCM","F","pSP-f"
+"SAGN19","SAGN19-1.lsm","SAGN19-1","L",816,1,"fru MARCM","F",NA
+"SAGN19","SAGN19-1.lsm","SAGN19-1","R",2344,2,"fru MARCM","F",NA
+"SAGN19","SAGN19-1.lsm","SAGN19-1","R",3942,4,"fru MARCM","F","SN-d"
+"SAGN2","SAGN2-1.lsm","SAGN2-1","L",819,1,"fru MARCM","F","aSP-l"
+"SAGN21","SAGN21-1.lsm","SAGN21-1","L",817,1,"fru MARCM","F","pIP-c"
+"SAGN22","SAGN22-1.lsm","SAGN22-1","L",818,1,"fru MARCM","F","aIP-e"
+"SAGN22","SAGN22-1.lsm","SAGN22-1","L",835,2,"fru MARCM","F",NA
+"SAGN4","SAGN4-1.lsm","SAGN4-1","L",1600,2,"fru MARCM","F","aSP-a"
+"SAGN4","SAGN4-1.lsm","SAGN4-1","R",3943,3,"fru MARCM","F","SN-d"
+"SAGN4","SAGN4-1.lsm","SAGN4-1","R",1592,1,"fru MARCM","F","aSP-c"
+"SAGN6","SAGN6-1.lsm","SAGN6-1","L",822,1,"fru MARCM","F","aSP-a"
+"SAGN6","SAGN6-1.lsm","SAGN6-1","R",825,4,"fru MARCM","F","pSP-c"
+"SAGN6","SAGN6-1.lsm","SAGN6-1","L",823,2,"fru MARCM","F",NA
+"SAGN6","SAGN6-1.lsm","SAGN6-1","R",824,3,"fru MARCM","F","pMP-b"
+"SAGN6","SAGN6-1.lsm","SAGN6-1","R",826,5,"fru MARCM","F",NA
+"SAGN7","SAGN7-1.lsm","SAGN7-1","R",828,2,"fru MARCM","F","pSP-c"
+"SAGN7","SAGN7-1.lsm","SAGN7-1","L",827,1,"fru MARCM","F","pSP-c"
+"SAGO1","SAGO1-1.lsm","SAGO1-1","L",1646,NA,"fru MARCM","M","MB"
+"SAGO1","SAGO1-1.lsm","SAGO1-1","R",1620,NA,"fru MARCM","M","pSP-b"
+"SAGO1","SAGO1-1.lsm","SAGO1-1","R",1706,NA,"fru MARCM","M","pIP-c"
+"SAGO11","SAGO11-1.lsm","SAGO11-1","L",4124,3,"fru MARCM","M","SN-d"
+"SAGO11","SAGO11-1.lsm","SAGO11-1","R",1652,2,"fru MARCM","M","aDT-g"
+"SAGO11","SAGO11-1.lsm","SAGO11-1","L",1631,1,"fru MARCM","M","aSP-g"
+"SAGO12","SAGO12-1.lsm","SAGO12-1","L",2000,1,"fru MARCM","M","pSG-b"
+"SAGO12","SAGO12-1.lsm","SAGO12-1","R",1771,2,"fru MARCM","M","pSP-c"
+"SAGO13","SAGO13-1.lsm","SAGO13-1","R",1571,NA,"fru MARCM","M","aIP-d"
+"SAGO14","SAGO14-1.lsm","SAGO14-1","L",4125,3,"fru MARCM","M","SN-a"
+"SAGO14","SAGO14-1.lsm","SAGO14-1","R",1666,2,"fru MARCM","M","pMP-f"
+"SAGO14","SAGO14-1.lsm","SAGO14-1","L",4126,4,"fru MARCM","M","SN-a"
+"SAGO14","SAGO14-1.lsm","SAGO14-1","L",1551,1,"fru MARCM","M","aDT-e"
+"SAGO16","SAGO16-1.lsm","SAGO16-1","R",1619,1,"fru MARCM","M","aSP-i"
+"SAGO2","SAGO2-1.lsm","SAGO2-1","L",1522,2,"fru MARCM","M","pSP-f"
+"SAGO2","SAGO2-1.lsm","SAGO2-1","R",1772,3,"fru MARCM","M",NA
+"SAGO2","SAGO2-1.lsm","SAGO2-1","R",1513,1,"fru MARCM","M","pIP-b"
+"SAGO5","SAGO5-1.lsm","SAGO5-1","R",1644,1,"fru MARCM","M","aDT-a"
+"SAGO6","SAGO6-1.lsm","SAGO6-1","R",4127,2,"fru MARCM","M","SN-c"
+"SAGO6","SAGO6-1.lsm","SAGO6-1","R",1500,1,"fru MARCM","M","pIP-d"
+"SAGO7","SAGO7-1.lsm","SAGO7-1","L",1716,1,"fru MARCM","M",NA
+"SAGO7","SAGO7-1.lsm","SAGO7-1","L",1742,2,"fru MARCM","M","pIP-"
+"SAGP10","SAGP10-1.lsm","SAGP10-1","L",2411,1,"fru MARCM","F","vMt-d"
+"SAGP11","SAGP11-1.lsm","SAGP11-1","L",1813,1,"fru MARCM","F","pSG-b"
+"SAGP11","SAGP11-1.lsm","SAGP11-1","R",2413,3,"fru MARCM","F","SN-g"
+"SAGP11","SAGP11-1.lsm","SAGP11-1","L",2412,2,"fru MARCM","F","vMs-j"
+"SAGP11","SAGP11-1.lsm","SAGP11-1","L",2418,4,"fru MARCM","F","dMs-b"
+"SAGP12","SAGP12-1.lsm","SAGP12-1","R",1755,3,"fru MARCM","F","pIP-h"
+"SAGP12","SAGP12-1.lsm","SAGP12-1","R",4013,5,"fru MARCM","F","SN-c"
+"SAGP12","SAGP12-1.lsm","SAGP12-1","R",1636,1,"fru MARCM","F","pSP-e"
+"SAGP12","SAGP12-1.lsm","SAGP12-1","L",1717,2,"fru MARCM","F",NA
+"SAGP12","SAGP12-1.lsm","SAGP12-1","L",3037,4,"fru MARCM","F","MB"
+"SAGP15","SAGP15-1.lsm","SAGP15-1","L",1526,NA,"fru MARCM","F",NA
+"SAGP17","SAGP17-1.lsm","SAGP17-1","L",1667,NA,"fru MARCM","F",NA
+"SAGP17","SAGP17-1.lsm","SAGP17-1","L",1796,NA,"fru MARCM","F","pSG-a"
+"SAGP18","SAGP18-1.lsm","SAGP18-1","L",1718,NA,"fru MARCM","F",NA
+"SAGP19","SAGP19-1.lsm","SAGP19-1","L",1793,2,"fru MARCM","F",NA
+"SAGP19","SAGP19-1.lsm","SAGP19-1","L",1563,1,"fru MARCM","F","aDT-c"
+"SAGP20","SAGP20-1.lsm","SAGP20-1","R",1699,NA,"fru MARCM","F","pMP-a"
+"SAGP20","SAGP20-1.lsm","SAGP20-1","L",2422,4,"fru MARCM","F",NA
+"SAGP20","SAGP20-1.lsm","SAGP20-1","L",2420,3,"fru MARCM","F","vMt-d"
+"SAGP21","SAGP21-1.lsm","SAGP21-1","L",1743,2,"fru MARCM","F","aDT-h"
+"SAGP21","SAGP21-1.lsm","SAGP21-1","L",2425,3,"fru MARCM","F","vPr-d"
+"SAGP21","SAGP21-1.lsm","SAGP21-1","L",1614,1,"fru MARCM","F","aSP-k"
+"SAGP22","SAGP22-1.lsm","SAGP22-1","L",1637,1,"fru MARCM","F","pSP-e"
+"SAGP23","SAGP23-1.lsm","SAGP23-1","R",1733,1,"fru MARCM","F","pMP-c"
+"SAGP24","SAGP24-1.lsm","SAGP24-1","R",1719,2,"fru MARCM","F",NA
+"SAGP24","SAGP24-1.lsm","SAGP24-1","L",1746,3,"fru MARCM","F",NA
+"SAGP24","SAGP24-1.lsm","SAGP24-1","L",1621,1,"fru MARCM","F","pSP-b"
+"SAGP24","SAGP24-1.lsm","SAGP24-1","R",4014,4,"fru MARCM","F","SN-e"
+"SAGP25","SAGP25-1.lsm","SAGP25-1","L",1622,NA,"fru MARCM","F","pSP-b"
+"SAGP25","SAGP25-1.lsm","SAGP25-1","R",1604,NA,"fru MARCM","F",NA
+"SAGP25","SAGP25-1.lsm","SAGP25-1","L",1568,NA,"fru MARCM","F","aIP-i"
+"SAGP28","SAGP28-1.lsm","SAGP28-1","L",2424,3,"fru MARCM","F",NA
+"SAGP28","SAGP28-1.lsm","SAGP28-1","L",1539,NA,"fru MARCM","F","aIP-b"
+"SAGP29","SAGP29-1.lsm","SAGP29-1","R",1655,2,"fru MARCM","F","aDT-g"
+"SAGP29","SAGP29-1.lsm","SAGP29-1","R",1701,3,"fru MARCM","F","pMP-a"
+"SAGP29","SAGP29-1.lsm","SAGP29-1","L",1552,1,"fru MARCM","F","aDT-e"
+"SAGP3","SAGP3-1.lsm","SAGP3-1","R",1626,1,"fru MARCM","F","aSP-h"
+"SAGP3","SAGP3-1.lsm","SAGP3-1","L",4015,2,"fru MARCM","F","SN-a"
+"SAGP31","SAGP31-1.lsm","SAGP31-1","L",1734,1,"fru MARCM","F","pMP-b"
+"SAGP32","SAGP32-1.lsm","SAGP32-1","L",1720,NA,"fru MARCM","F",NA
+"SAGP32","SAGP32-1.lsm","SAGP32-1","L",1527,NA,"fru MARCM","F",NA
+"SAGP33","SAGP33-1.lsm","SAGP33-1","L",1618,NA,"fru MARCM","F",NA
+"SAGP33","SAGP33-1.lsm","SAGP33-1","L",1797,NA,"fru MARCM","F","pIP-i"
+"SAGP34","SAGP34-1.lsm","SAGP34-1","R",1528,NA,"fru MARCM","F",NA
+"SAGP35","SAGP35-1.lsm","SAGP35-1","R",1669,1,"fru MARCM","F","pIP-j"
+"SAGP35","SAGP35-1.lsm","SAGP35-1","L",1735,2,"fru MARCM","F","pMP-b"
+"SAGP35","SAGP35-1.lsm","SAGP35-1","L",1790,3,"fru MARCM","F","pSP-a"
+"SAGP37","SAGP37-1.lsm","SAGP37-1","R",1721,NA,"fru MARCM","F",NA
+"SAGP37","SAGP37-1.lsm","SAGP37-1","R",1670,NA,"fru MARCM","F","pMP-c"
+"SAGP38","SAGP38-1.lsm","SAGP38-1","L",1791,1,"fru MARCM","F","pSP-a"
+"SAGP38","SAGP38-1.lsm","SAGP38-1","L",3968,2,"fru MARCM","F","SN-c"
+"SAGP39","SAGP39-1.lsm","SAGP39-1","L",2892,3,"fru MARCM","F",NA
+"SAGP39","SAGP39-1.lsm","SAGP39-1","L",1722,NA,"fru MARCM","F",NA
+"SAGP39","SAGP39-1.lsm","SAGP39-1","L",2427,2,"fru MARCM","F",NA
+"SAGP40","SAGP40-1.lsm","SAGP40-1","R",1529,NA,"fru MARCM","F",NA
+"SAGP42","SAGP42-1.lsm","SAGP42-1","L",2346,2,"fru MARCM","F","pSG-b"
+"SAGP42","SAGP42-1.lsm","SAGP42-1","R",1540,1,"fru MARCM","F","aIP-b"
+"SAGP43","SAGP43-1.lsm","SAGP43-1","L",1517,NA,"fru MARCM","F","aSP-m"
+"SAGP45","SAGP45-1.lsm","SAGP45-1","L",1502,NA,"fru MARCM","F",NA
+"SAGP46","SAGP46-1.lsm","SAGP46-1","L",1671,NA,"fru MARCM","F",NA
+"SAGP49","SAGP49-1.lsm","SAGP49-1","L",1627,NA,"fru MARCM","F","aSP-h"
+"SAGP49","SAGP49-1.lsm","SAGP49-1","L",1653,NA,"fru MARCM","F","aDT-g"
+"SAGP5","SAGP5-1.lsm","SAGP5-1","L",1605,1,"fru MARCM","F","pSP-d"
+"SAGP5","SAGP5-1.lsm","SAGP5-1","R",1759,3,"fru MARCM","F","pIP-j"
+"SAGP5","SAGP5-1.lsm","SAGP5-1","R",1628,2,"fru MARCM","F","aSP-h"
+"SAGP50","SAGP50-1.lsm","SAGP50-1","R",4016,3,"fru MARCM","F","SN-e"
+"SAGP50","SAGP50-1.lsm","SAGP50-1","R",1723,2,"fru MARCM","F",NA
+"SAGP50","SAGP50-1.lsm","SAGP50-1","R",1606,1,"fru MARCM","F","pSP-d"
+"SAGP52","SAGP52-1.lsm","SAGP52-1","L",1773,1,"fru MARCM","F",NA
+"SAGP53","SAGP53-1.lsm","SAGP53-1","R",1774,2,"fru MARCM","F",NA
+"SAGP53","SAGP53-1.lsm","SAGP53-1","R",4017,3,"fru MARCM","F","aIP-f"
+"SAGP53","SAGP53-1.lsm","SAGP53-1","R",1672,1,"fru MARCM","F","pIP-j"
+"SAGP55","SAGP55-1.lsm","SAGP55-1","R",1553,1,"fru MARCM","F","aDT-e"
+"SAGP55","SAGP55-1.lsm","SAGP55-1","R",2347,2,"fru MARCM","F",NA
+"SAGP56","SAGP56-1.lsm","SAGP56-1","L",1724,2,"fru MARCM","F",NA
+"SAGP56","SAGP56-1.lsm","SAGP56-1","R",2348,3,"fru MARCM","F","pMP-e"
+"SAGP56","SAGP56-1.lsm","SAGP56-1","R",1523,1,"fru MARCM","F","pSP-f"
+"SAGP57","SAGP57-1.lsm","SAGP57-1","R",1103,1,"fru MARCM","F","pSP-c"
+"SAGP58","SAGP58-1.lsm","SAGP58-1","R",1530,1,"fru MARCM","F",NA
+"SAGP58","SAGP58-1.lsm","SAGP58-1","L",1765,2,"fru MARCM","F",NA
+"SAGP58","SAGP58-1.lsm","SAGP58-1","L",2349,3,"fru MARCM","F","pIP-j"
+"SAGP59","SAGP59-1.lsm","SAGP59-1","L",1573,1,"fru MARCM","F","aIP-f"
+"SAGP59","SAGP59-1.lsm","SAGP59-1","L",1766,2,"fru MARCM","F",NA
+"SAGP59","SAGP59-1.lsm","SAGP59-1","L",4018,3,"fru MARCM","F","SN-e"
+"SAGP6","SAGP6-1.lsm","SAGP6-1","L",1760,NA,"fru MARCM","F","pIP-j"
+"SAGP60","SAGP60-1.lsm","SAGP60-1","L",1647,1,"fru MARCM","F","MB"
+"SAGP60","SAGP60-1.lsm","SAGP60-1","L",1798,3,"fru MARCM","F",NA
+"SAGP60","SAGP60-1.lsm","SAGP60-1","L",1707,2,"fru MARCM","F","pIP-c"
+"SAGP63","SAGP63-1.lsm","SAGP63-1","R",1640,1,"fru MARCM","F","pSP-c"
+"SAGP63","SAGP63-1.lsm","SAGP63-1","L",1744,2,"fru MARCM","F","pIP-"
+"SAGP7","SAGP7-1.lsm","SAGP7-1","L",1673,NA,"fru MARCM","F",NA
+"SAGP7","SAGP7-1.lsm","SAGP7-1","R",1752,NA,"fru MARCM","F","pIP-g"
+"SAGP7","SAGP7-1.lsm","SAGP7-1","L",1564,NA,"fru MARCM","F","aDT-c"
+"SAGQ1","SAGQ1-1.lsm","SAGQ1-1","L",1585,1,"fru MARCM","F","aSP-a"
+"SAGQ2","SAGQ2-1.lsm","SAGQ2-1","R",1745,NA,"fru MARCM","F","pIP-"
+"SAGQ2","SAGQ2-1.lsm","SAGQ2-1","R",1638,NA,"fru MARCM","F","pSP-e"
+"SAGQ2","SAGQ2-1.lsm","SAGQ2-1","L",1524,NA,"fru MARCM","F","pSP-f"
+"SAGQ4","SAGQ4-1.lsm","SAGQ4-1","R",1615,NA,"fru MARCM","F","aSP-k"
+"SAGQ4","SAGQ4-1.lsm","SAGQ4-1","R",1741,NA,"fru MARCM","F","pIP-e"
+"SAGQ4","SAGQ4-1.lsm","SAGQ4-1","L",1708,NA,"fru MARCM","F","pIP-c"
+"SAGQ4","SAGQ4-1.lsm","SAGQ4-1","R",1674,NA,"fru MARCM","F",NA
+"SAGQ6","SAGQ6-1.lsm","SAGQ6-1","R",1504,NA,"fru MARCM","F",NA
+"SAGQ7","SAGQ7-1.lsm","SAGQ7-1","L",1799,NA,"fru MARCM","F",NA
+"SAGQ7","SAGQ7-1.lsm","SAGQ7-1","R",1709,NA,"fru MARCM","F","pIP-c"
+"SAGQ7","SAGQ7-1.lsm","SAGQ7-1","R",1565,NA,"fru MARCM","F","aDT-c"
+"SAGQ7","SAGQ7-1.lsm","SAGQ7-1","L",1675,NA,"fru MARCM","F",NA
+"SAGQ7","SAGQ7-1.lsm","SAGQ7-1","L",1534,NA,"fru MARCM","F","aIP-c"
+"SAGR10","SAGR10-1.lsm","SAGR10-1","L",2350,3,"fru MARCM","F",NA
+"SAGR10","SAGR10-1.lsm","SAGR10-1","R",1676,1,"fru MARCM","F","pMP-e"
+"SAGR10","SAGR10-1.lsm","SAGR10-1","R",1710,2,"fru MARCM","F","pIP-c"
+"SAGR11","SAGR11-1.lsm","SAGR11-1","L",1607,NA,"fru MARCM","F","aSP-e"
+"SAGR13","SAGR13-1.lsm","SAGR13-1","R",1554,NA,"fru MARCM","F","aDT-e"
+"SAGR14","SAGR14-1.lsm","SAGR14-1","L",1648,NA,"fru MARCM","F","MB"
+"SAGR14","SAGR14-1.lsm","SAGR14-1","R",1547,NA,"fru MARCM","F","aIP-a"
+"SAGR14","SAGR14-1.lsm","SAGR14-1","R",1677,NA,"fru MARCM","F",NA
+"SAGR15","SAGR15-1.lsm","SAGR15-1","R",1702,NA,"fru MARCM","F","pMP-a"
+"SAGR17","SAGR17-1.lsm","SAGR17-1","L",1678,NA,"fru MARCM","F","pIP-h"
+"SAGR17","SAGR17-1.lsm","SAGR17-1","R",1649,NA,"fru MARCM","F","MB"
+"SAGR17","SAGR17-1.lsm","SAGR17-1","L",1532,NA,"fru MARCM","F",NA
+"SAGR18","SAGR18-1.lsm","SAGR18-1","L",1775,NA,"fru MARCM","F",NA
+"SAGR18","SAGR18-1.lsm","SAGR18-1","L",1586,NA,"fru MARCM","F","aSP-b"
+"SAGR19","SAGR19-1.lsm","SAGR19-1","R",1679,NA,"fru MARCM","F","pIP-e"
+"SAGR21","SAGR21-1.lsm","SAGR21-1","R",1736,NA,"fru MARCM","F","pMP-b"
+"SAGR22","SAGR22-1.lsm","SAGR22-1","R",1680,1,"fru MARCM","F","pIP-i"
+"SAGR22","SAGR22-1.lsm","SAGR22-1","L",3038,2,"fru MARCM","F",NA
+"SAGR24","SAGR24-1.lsm","SAGR24-1","R",3040,1,"fru MARCM","F","pMP-e"
+"SAGR3","SAGR3-1.lsm","SAGR3-1","R",2904,2,"fru MARCM","F","pSP-a"
+"SAGR3","SAGR3-1.lsm","SAGR3-1","L",2284,1,"fru MARCM","F","pIP-e"
+"SAGR3","SAGR3-1.lsm","SAGR3-1","L",4019,3,"fru MARCM","F","aIP-i"
+"SAGR5","SAGR5-1.lsm","SAGR5-1","L",1505,NA,"fru MARCM","F","aIP-d"
+"SAGR5","SAGR5-1.lsm","SAGR5-1","R",1608,NA,"fru MARCM","F","aSP-h"
+"SAGR5","SAGR5-1.lsm","SAGR5-1","R",1681,NA,"fru MARCM","F","pIP-h"
+"SAGR7","SAGR7-1.lsm","SAGR7-1","R",1800,1,"fru MARCM","F","pSG-a"
+"SAGR8","SAGR8-1.lsm","SAGR8-1","R",1550,NA,"fru MARCM","F","aIP-g"
+"SAGR8","SAGR8-1.lsm","SAGR8-1","R",1725,NA,"fru MARCM","F",NA
+"SAGS12","SAGS12-1.lsm","SAGS12-1","L",1711,2,"fru MARCM","M","pIP-c"
+"SAGS12","SAGS12-1.lsm","SAGS12-1","R",3039,3,"fru MARCM","M","MB"
+"SAGS12","SAGS12-1.lsm","SAGS12-1","L",1514,1,"fru MARCM","M","pIP-b"
+"SAGS20","SAGS20-1.lsm","SAGS20-1","L",1555,NA,"fru MARCM","M","aDT-e"
+"SAGS21","SAGS21-1.lsm","SAGS21-1","R",1515,NA,"fru MARCM","M","pIP-b"
+"SAGS23","SAGS23-1.lsm","SAGS23-1","R",1683,NA,"fru MARCM","M",NA
+"SAGS23","SAGS23-1.lsm","SAGS23-1","L",1632,NA,"fru MARCM","M","aSP-g"
+"SAGS23","SAGS23-1.lsm","SAGS23-1","R",1601,NA,"fru MARCM","M","aSP-b"
+"SAGS3","SAGS3-1.lsm","SAGS3-1","R",1572,NA,"fru MARCM","M","aIP-d"
+"SAGS5","SAGS5-1.lsm","SAGS5-1","R",1712,NA,"fru MARCM","M","pIP-c"
+"SAGS5","SAGS5-1.lsm","SAGS5-1","L",1650,NA,"fru MARCM","M","MB"
+"SAGS9","SAGS9-1.lsm","SAGS9-1","L",1684,NA,"fru MARCM","M",NA
+"SAGS9","SAGS9-1.lsm","SAGS9-1","L",1541,NA,"fru MARCM","M","aIP-b"
+"SAGT1","SAGT1-1.lsm","SAGT1-1","R",3500,3,"fru MARCM","M",NA
+"SAGT1","SAGT1-1.lsm","SAGT1-1","L",4128,4,"fru MARCM","M","SN-c"
+"SAGT1","SAGT1-1.lsm","SAGT1-1","R",3499,2,"fru MARCM","M","MB"
+"SAGT1","SAGT1-1.lsm","SAGT1-1","L",3498,1,"fru MARCM","M","pMP-f"
+"SAGT10","SAGT10-1.lsm","SAGT10-1","R",3501,1,"fru MARCM","M","aSP-k"
+"SAGT11","SAGT11-1.lsm","SAGT11-1","R",3502,1,"fru MARCM","M","pMP-f"
+"SAGT11","SAGT11-1.lsm","SAGT11-1","R",4129,2,"fru MARCM","M","SN-a"
+"SAGT3","SAGT3-1.lsm","SAGT3-1","R",3503,1,"fru MARCM","M","pSG-b"
+"SAGT5","SAGT5-1.lsm","SAGT5-1","R",3504,1,"fru MARCM","M","aSP-k"
+"SAGT7","SAGT7-1.lsm","SAGT7-1","R",3505,1,"fru MARCM","M","pIP-j"
+"SAGT8","SAGT8-1.lsm","SAGT8-1","R",3506,1,"fru MARCM","M","aDT-g"
+"SAGT8","SAGT8-1.lsm","SAGT8-1","R",3507,2,"fru MARCM","M",NA
+"SAGV11","SAGV11-1.lsm","SAGV11-1","L",1609,NA,"fru MARCM","M",NA
+"SAGV12","SAGV12-1.lsm","SAGV12-1","L",1659,NA,"fru MARCM","M","aDT-f"
+"SAGV12","SAGV12-1.lsm","SAGV12-1","L",1801,NA,"fru MARCM","M","aSG-a"
+"SAGV14","SAGV14-1.lsm","SAGV14-1","R",1726,2,"fru MARCM","M",NA
+"SAGV14","SAGV14-1.lsm","SAGV14-1","R",4130,4,"fru MARCM","M","SN-a"
+"SAGV14","SAGV14-1.lsm","SAGV14-1","R",1756,3,"fru MARCM","M","pMP-f"
+"SAGV14","SAGV14-1.lsm","SAGV14-1","L",1556,1,"fru MARCM","M","aDT-e"
+"SAGV15","SAGV15-1.lsm","SAGV15-1","L",1656,1,"fru MARCM","M","aDT-h"
+"SAGV15","SAGV15-1.lsm","SAGV15-1","L",1757,2,"fru MARCM","M","pMP-f"
+"SAGV15","SAGV15-1.lsm","SAGV15-1","R",3041,3,"fru MARCM","M","MB"
+"SAGV15","SAGV15-1.lsm","SAGV15-1","L",4131,4,"fru MARCM","M","SN-a"
+"SAGV19","SAGV19-1.lsm","SAGV19-1","R",1792,NA,"fru MARCM","M","pSP-a"
+"SAGV19","SAGV19-1.lsm","SAGV19-1","R",1557,NA,"fru MARCM","M","aDT-e"
+"SAGV19","SAGV19-1.lsm","SAGV19-1","R",1703,NA,"fru MARCM","M","pMP-a"
+"SAGV20","SAGV20-1.lsm","SAGV20-1","L",4132,3,"fru MARCM","M","SN-a"
+"SAGV20","SAGV20-1.lsm","SAGV20-1","R",1506,1,"fru MARCM","M","aIP-f"
+"SAGV20","SAGV20-1.lsm","SAGV20-1","R",1803,2,"fru MARCM","M",NA
+"SAGV23","SAGV23-1.lsm","SAGV23-1","L",1685,NA,"fru MARCM","M","pMP-f"
+"SAGV23","SAGV23-1.lsm","SAGV23-1","R",1804,NA,"fru MARCM","M",NA
+"SAGV28","SAGV28-1.lsm","SAGV28-1","R",1634,NA,"fru MARCM","M",NA
+"SAGV6","SAGV6-1.lsm","SAGV6-1","R",1805,2,"fru MARCM","M","aSG-a"
+"SAGV6","SAGV6-1.lsm","SAGV6-1","L",1642,1,"fru MARCM","M","aSP-e"
+"SAGW10","SAGW10-1.lsm","SAGW10-1","R",1643,NA,"fru MARCM","M","aDT-b"
+"SAGW10","SAGW10-1.lsm","SAGW10-1","L",1651,NA,"fru MARCM","M","MB"
+"SAGW11","SAGW11-1.lsm","SAGW11-1","R",1713,1,"fru MARCM","M","pIP-c"
+"SAGW11","SAGW11-1.lsm","SAGW11-1","L",4133,2,"fru MARCM","M","SN-a"
+"SAGW14","SAGW14-1.lsm","SAGW14-1","R",3043,2,"fru MARCM","M","pSG-b"
+"SAGW14","SAGW14-1.lsm","SAGW14-1","R",3042,1,"fru MARCM","M",NA
+"SAGW15","SAGW15-1.lsm","SAGW15-1","R",4134,1,"fru MARCM","M","aSP-f"
+"SAGW15","SAGW15-1.lsm","SAGW15-1","R",4136,3,"fru MARCM","M","SN-c"
+"SAGW15","SAGW15-1.lsm","SAGW15-1","R",4135,2,"fru MARCM","M","MB"
+"SAGW16","SAGW16-1.lsm","SAGW16-1","L",3044,1,"fru MARCM","M",NA
+"SAGW17","SAGW17-1.lsm","SAGW17-1","R",1698,NA,"fru MARCM","M","pMP-e"
+"SAGW19","SAGW19-1.lsm","SAGW19-1","R",4137,2,"fru MARCM","M","SN-a"
+"SAGW19","SAGW19-1.lsm","SAGW19-1","L",1686,1,"fru MARCM","M","pMP-f"
+"SAGW20","SAGW20-1.lsm","SAGW20-1","L",1687,NA,"fru MARCM","M",NA
+"SAGW20","SAGW20-1.lsm","SAGW20-1","R",1507,NA,"fru MARCM","M","aDT-c"
+"SAGW20","SAGW20-1.lsm","SAGW20-1","L",1633,NA,"fru MARCM","M","aSP-g"
+"SAGW22","SAGW22-1.lsm","SAGW22-1","L",1625,NA,"fru MARCM","M","aSP-f"
+"SAGW26","SAGW26-1.lsm","SAGW26-1","R",1623,NA,"fru MARCM","M",NA
+"SAGW26","SAGW26-1.lsm","SAGW26-1","L",1519,NA,"fru MARCM","M","aIP-e"
+"SAGW3","SAGW3-1.lsm","SAGW3-1","L",1624,NA,"fru MARCM","M","pSP-b"
+"SAGW5","SAGW5-1.lsm","SAGW5-1","L",1704,1,"fru MARCM","M","pMP-a"
+"SAGW5","SAGW5-1.lsm","SAGW5-1","L",4138,2,"fru MARCM","M","SN-a"
+"SAGW7","SAGW7-1.lsm","SAGW7-1","R",1533,NA,"fru MARCM","M",NA
+"SAGX10","SAGX10-1.lsm","SAGX10-1","R",1639,NA,"fru MARCM","F","pSP-e"
+"SAGX10","SAGX10-1.lsm","SAGX10-1","R",1689,NA,"fru MARCM","F",NA
+"SAGX10","SAGX10-1.lsm","SAGX10-1","R",1558,NA,"fru MARCM","F","aDT-e"
+"SAGX10","SAGX10-1.lsm","SAGX10-1","R",1593,NA,"fru MARCM","F","aSP-c"
+"SAGX11","SAGX11-1.lsm","SAGX11-1","L",1812,NA,"fru MARCM","F","pSG-a"
+"SAGX11","SAGX11-1.lsm","SAGX11-1","L",1727,NA,"fru MARCM","F",NA
+"SAGX12","SAGX12-1.lsm","SAGX12-1","R",1776,NA,"fru MARCM","F",NA
+"SAGX12","SAGX12-1.lsm","SAGX12-1","L",1728,NA,"fru MARCM","F",NA
+"SAGX12","SAGX12-1.lsm","SAGX12-1","L",1570,NA,"fru MARCM","F","aIP-i"
+"SAGX15","SAGX15-1.lsm","SAGX15-1","R",1594,NA,"fru MARCM","F","aSP-c"
+"SAGX15","SAGX15-1.lsm","SAGX15-1","L",1806,NA,"fru MARCM","F",NA
+"SAGX15","SAGX15-1.lsm","SAGX15-1","L",1542,NA,"fru MARCM","F","aIP-b"
+"SAGX16","SAGX16-1.lsm","SAGX16-1","L",1747,NA,"fru MARCM","F",NA
+"SAGX16","SAGX16-1.lsm","SAGX16-1","L",1525,NA,"fru MARCM","F","pSP-f"
+"SAGX16","SAGX16-1.lsm","SAGX16-1","L",1616,NA,"fru MARCM","F","aSP-k"
+"SAGX16","SAGX16-1.lsm","SAGX16-1","R",1654,NA,"fru MARCM","F","aDT-g"
+"SAGX16","SAGX16-1.lsm","SAGX16-1","L",1730,NA,"fru MARCM","F",NA
+"SAGX17","SAGX17-1.lsm","SAGX17-1","L",1520,NA,"fru MARCM","F","aIP-e"
+"SAGX18","SAGX18-1.lsm","SAGX18-1","R",4020,3,"fru MARCM","F","pMP-g"
+"SAGX18","SAGX18-1.lsm","SAGX18-1","L",1731,2,"fru MARCM","F",NA
+"SAGX18","SAGX18-1.lsm","SAGX18-1","L",1690,1,"fru MARCM","F","pMP-g"
+"SAGX19","SAGX19-1.lsm","SAGX19-1","L",1754,NA,"fru MARCM","F","pIP-g"
+"SAGX19","SAGX19-1.lsm","SAGX19-1","R",1566,NA,"fru MARCM","F","aDT-c"
+"SAGX2","SAGX2-1.lsm","SAGX2-1","R",1596,NA,"fru MARCM","F","aSP-a"
+"SAGX20","SAGX20-1.lsm","SAGX20-1","L",1521,NA,"fru MARCM","F","aIP-e"
+"SAGX22","SAGX22-1.lsm","SAGX22-1","R",4021,4,"fru MARCM","F","SN-a"
+"SAGX22","SAGX22-1.lsm","SAGX22-1","R",1705,NA,"fru MARCM","F","pMP-a"
+"SAGX22","SAGX22-1.lsm","SAGX22-1","L",1794,NA,"fru MARCM","F","pSP-a"
+"SAGX22","SAGX22-1.lsm","SAGX22-1","L",1807,NA,"fru MARCM","F","pSG-e"
+"SAGX23","SAGX23-1.lsm","SAGX23-1","L",1567,NA,"fru MARCM","F","aDT-c"
+"SAGX26","SAGX26-1.lsm","SAGX26-1","R",3047,3,"fru MARCM","F",NA
+"SAGX26","SAGX26-1.lsm","SAGX26-1","R",3046,2,"fru MARCM","F","pSP-a"
+"SAGX26","SAGX26-1.lsm","SAGX26-1","L",3045,1,"fru MARCM","F","pMP-f"
+"SAGX27","SAGX27-1.lsm","SAGX27-1","R",1714,NA,"fru MARCM","F","pIP-c"
+"SAGX4","SAGX4-1.lsm","SAGX4-1","R",3048,2,"fru MARCM","F","MB"
+"SAGX4","SAGX4-1.lsm","SAGX4-1","R",1597,1,"fru MARCM","F","aSP-a"
+"SAGX5","SAGX5-1.lsm","SAGX5-1","R",1598,NA,"fru MARCM","F","aSP-a"
+"SAGX5","SAGX5-1.lsm","SAGX5-1","R",1660,NA,"fru MARCM","F","aDT-f"
+"SAGX6","SAGX6-1.lsm","SAGX6-1","L",1808,NA,"fru MARCM","F",NA
+"SAGX6","SAGX6-1.lsm","SAGX6-1","R",1737,NA,"fru MARCM","F","pMP-b"
+"SAGX6","SAGX6-1.lsm","SAGX6-1","L",1548,NA,"fru MARCM","F","aIP-a"
+"SAGX7","SAGX7-1.lsm","SAGX7-1","L",1587,NA,"fru MARCM","F",NA
+"SAGX7","SAGX7-1.lsm","SAGX7-1","R",1795,NA,"fru MARCM","F",NA
+"SAGY1","SAGY1-1.lsm","SAGY1-1","L",1738,NA,"fru MARCM","F","pMP-b"
+"SAGY10","SAGY10-1.lsm","SAGY10-1","R",1602,NA,"fru MARCM","F","aSP-a"
+"SAGY10","SAGY10-1.lsm","SAGY10-1","L",1543,NA,"fru MARCM","F","aIP-b"
+"SAGY13","SAGY13-1.lsm","SAGY13-1","R",2352,2,"fru MARCM","F","pSP-e"
+"SAGY13","SAGY13-1.lsm","SAGY13-1","R",4022,3,"fru MARCM","F","SN-a"
+"SAGY13","SAGY13-1.lsm","SAGY13-1","R",1691,1,"fru MARCM","F",NA
+"SAGY15","SAGY15-1.lsm","SAGY15-1","R",1692,NA,"fru MARCM","F","pIP-h"
+"SAGY18","SAGY18-1.lsm","SAGY18-1","R",1693,1,"fru MARCM","F","pIP-f"
+"SAGY2","SAGY2-1.lsm","SAGY2-1","L",1535,NA,"fru MARCM","F","aIP-c"
+"SAGY3","SAGY3-1.lsm","SAGY3-1","R",1611,NA,"fru MARCM","F","pIP-e"
+"SAGY4","SAGY4-1.lsm","SAGY4-1","L",1509,1,"fru MARCM","F",NA
+"SAGY4","SAGY4-1.lsm","SAGY4-1","L",1612,2,"fru MARCM","F","aSP-h"
+"SAGY4","SAGY4-1.lsm","SAGY4-1","L",3000,3,"fru MARCM","F","aSP-m"
+"SAGY5","SAGY5-1.lsm","SAGY5-1","R",1694,NA,"fru MARCM","F",NA
+"SAGY6","SAGY6-1.lsm","SAGY6-1","L",1510,1,"fru MARCM","F",NA
+"SAGY6","SAGY6-1.lsm","SAGY6-1","L",2946,2,"fru MARCM","F",NA
+"SAGY7","SAGY7-1.lsm","SAGY7-1","R",1544,NA,"fru MARCM","F","aIP-d"
+"SAGY7","SAGY7-1.lsm","SAGY7-1","R",1603,NA,"fru MARCM","F","aSP-a"
+"SAHA2","SAHA2-1.lsm","SAHA2-1","R",3049,1,"fru MARCM","F","aSP-h"
+"SAHA3","SAHA3-1.lsm","SAHA3-1","R",4023,3,"fru MARCM","F","SN-e"
+"SAHA3","SAHA3-1.lsm","SAHA3-1","L",1582,1,"fru MARCM","F","aSP-b"
+"SAHA3","SAHA3-1.lsm","SAHA3-1","L",1777,2,"fru MARCM","F","pSP-a"
+"SAHA5","SAHA5-1.lsm","SAHA5-1","L",1559,NA,"fru MARCM","F","aDT-e"
+"SAHA5","SAHA5-1.lsm","SAHA5-1","R",1778,NA,"fru MARCM","F",NA
+"SAHB10","SAHB10-1.lsm","SAHB10-1","R",2947,2,"fru MARCM","F",NA
+"SAHB10","SAHB10-1.lsm","SAHB10-1","L",1695,1,"fru MARCM","F","pMP-b"
+"SAHB14","SAHB14-1.lsm","SAHB14-1","R",1696,1,"fru MARCM","F","pIP-h"
+"SAHB14","SAHB14-1.lsm","SAHB14-1","R",4024,2,"fru MARCM","F","SN-a"
+"SAHB2","SAHB2-1.lsm","SAHB2-1","L",1545,1,"fru MARCM","F","aIP-b"
+"SAHB2","SAHB2-1.lsm","SAHB2-1","L",4025,2,"fru MARCM","F","SN-e"
+"SAHB3","SAHB3-1.lsm","SAHB3-1","L",1516,NA,"fru MARCM","F","pIP-b"
+"SAHB3","SAHB3-1.lsm","SAHB3-1","R",1657,NA,"fru MARCM","F","aDT-h"
+"SAHB5","SAHB5-1.lsm","SAHB5-1","R",1549,NA,"fru MARCM","F","aIP-a"
+"SAHB9","SAHB9-1.lsm","SAHB9-1","L",3929,6,"fru MARCM","F","SN-c"
+"SAHB9","SAHB9-1.lsm","SAHB9-1","L",1613,2,"fru MARCM","F","pSP-c"
+"SAHB9","SAHB9-1.lsm","SAHB9-1","R",1732,4,"fru MARCM","F",NA
+"SAHB9","SAHB9-1.lsm","SAHB9-1","L",1810,5,"fru MARCM","F",NA
+"SAHB9","SAHB9-1.lsm","SAHB9-1","L",1697,3,"fru MARCM","F","pIP-j"
+"SAHC11","SAHC11-1.lsm","SAHC11-1","R",4139,2,"fru MARCM","M","SN-a"
+"SAHC11","SAHC11-1.lsm","SAHC11-1","R",2008,1,"fru MARCM","M","aIP-c"
+"SAHC13","SAHC13-1.lsm","SAHC13-1","L",2009,1,"fru MARCM","M","aSP-f"
+"SAHC16","SAHC16-1.lsm","SAHC16-1","L",2999,2,"fru MARCM","M","MB"
+"SAHC16","SAHC16-1.lsm","SAHC16-1","R",2010,1,"fru MARCM","M","aIP-g"
+"SAHC17","SAHC17-1.lsm","SAHC17-1","R",4140,4,"fru MARCM","M","SN-b"
+"SAHC17","SAHC17-1.lsm","SAHC17-1","R",2012,2,"fru MARCM","M",NA
+"SAHC17","SAHC17-1.lsm","SAHC17-1","R",2011,1,"fru MARCM","M","pSP-f"
+"SAHC17","SAHC17-1.lsm","SAHC17-1","L",3009,3,"fru MARCM","M","MB"
+"SAHC20","SAHC20-1.lsm","SAHC20-1","L",2013,1,"fru MARCM","M","pSP-f"
+"SAHC5","SAHC5-1.lsm","SAHC5-1","L",2006,2,"fru MARCM","M","pIP-"
+"SAHC5","SAHC5-1.lsm","SAHC5-1","R",2005,1,"fru MARCM","M","aDT-e"
+"SAHC7","SAHC7-1.lsm","SAHC7-1","L",2007,1,"fru MARCM","M","aSP-k"
+"SAHD11","SAHD11-1.lsm","SAHD11-1","L",2015,1,"fru MARCM","M","pSP-a"
+"SAHD11","SAHD11-1.lsm","SAHD11-1","L",2016,2,"fru MARCM","M","aIP-g"
+"SAHD12","SAHD12-1.lsm","SAHD12-1","R",2017,1,"fru MARCM","M","aIP-g"
+"SAHD12","SAHD12-1.lsm","SAHD12-1","R",2018,2,"fru MARCM","M","aIP-f"
+"SAHD12","SAHD12-1.lsm","SAHD12-1","R",2019,3,"fru MARCM","M","aSP-f"
+"SAHD16","SAHD16-1.lsm","SAHD16-1","R",2020,1,"fru MARCM","M","aSP-m"
+"SAHD16","SAHD16-1.lsm","SAHD16-1","R",2021,2,"fru MARCM","M","aSP-i"
+"SAHD17","SAHD17-1.lsm","SAHD17-1","R",2022,1,"fru MARCM","M","aDT-e"
+"SAHD17","SAHD17-1.lsm","SAHD17-1","R",4141,2,"fru MARCM","M","SN-c"
+"SAHD6","SAHD6-1.lsm","SAHD6-1","L",4142,2,"fru MARCM","M","SN-c"
+"SAHD6","SAHD6-1.lsm","SAHD6-1","R",2014,1,"fru MARCM","M","aIP-b"
+"SAHE15","SAHE15-1.lsm","SAHE15-1","R",4144,4,"fru MARCM","M","SN-a"
+"SAHE15","SAHE15-1.lsm","SAHE15-1","L",2028,1,"fru MARCM","M","aIP-c"
+"SAHE15","SAHE15-1.lsm","SAHE15-1","L",4143,3,"fru MARCM","M","SN-a"
+"SAHE15","SAHE15-1.lsm","SAHE15-1","L",2029,2,"fru MARCM","M","pIP-e"
+"SAHE17","SAHE17-1.lsm","SAHE17-1","R",2035,4,"fru MARCM","M","pIP-f"
+"SAHE17","SAHE17-1.lsm","SAHE17-1","L",2032,2,"fru MARCM","M",NA
+"SAHE17","SAHE17-1.lsm","SAHE17-1","L",2034,3,"fru MARCM","M","pIP-g"
+"SAHE17","SAHE17-1.lsm","SAHE17-1","R",2031,1,"fru MARCM","M","pSP-a"
+"SAHE6","SAHE6-1.lsm","SAHE6-1","L",2024,2,"fru MARCM","M","pIP-c"
+"SAHE6","SAHE6-1.lsm","SAHE6-1","R",2023,1,"fru MARCM","M","aIP-c"
+"SAHE9","SAHE9-1.lsm","SAHE9-1","R",4145,4,"fru MARCM","M","SN-a"
+"SAHE9","SAHE9-1.lsm","SAHE9-1","R",2025,1,"fru MARCM","M","aSP-f"
+"SAHE9","SAHE9-1.lsm","SAHE9-1","R",2026,2,"fru MARCM","M","pSG-d"
+"SAHE9","SAHE9-1.lsm","SAHE9-1","L",2027,3,"fru MARCM","M","pIP-g"
+"SAHE9","SAHE9-1.lsm","SAHE9-1","R",4146,5,"fru MARCM","M","SN-d"
+"SAHF1","SAHF1-1.lsm","SAHF1-1","L",2037,1,"fru MARCM","M","aDT-c"
+"SAHF1","SAHF1-1.lsm","SAHF1-1","L",2038,2,"fru MARCM","M","aDT-d"
+"SAHF10","SAHF10-1.lsm","SAHF10-1","L",2041,1,"fru MARCM","M","aSP-g"
+"SAHF6","SAHF6-1.lsm","SAHF6-1","L",2040,2,"fru MARCM","M",NA
+"SAHF6","SAHF6-1.lsm","SAHF6-1","R",4148,4,"fru MARCM","M","SN-d"
+"SAHF6","SAHF6-1.lsm","SAHF6-1","L",4147,3,"fru MARCM","M","SN-a"
+"SAHF6","SAHF6-1.lsm","SAHF6-1","R",2039,1,"fru MARCM","M","pSP-b"
+"SAHG1","SAHG1-1.lsm","SAHG1-1","L",2042,1,"fru MARCM","F",NA
+"SAHG1","SAHG1-1.lsm","SAHG1-1","L",2043,2,"fru MARCM","F","pMP-e"
+"SAHG10","SAHG10-1.lsm","SAHG10-1","R",2081,1,"fru MARCM","F","pIP-a"
+"SAHG10","SAHG10-1.lsm","SAHG10-1","L",2426,2,"fru MARCM","F",NA
+"SAHG2","SAHG2-1.lsm","SAHG2-1","R",2044,1,"fru MARCM","F","aDT-a"
+"SAHG2","SAHG2-1.lsm","SAHG2-1","R",4026,2,"fru MARCM","F","SN-d"
+"SAHG3","SAHG3-1.lsm","SAHG3-1","L",2046,2,"fru MARCM","F",NA
+"SAHG3","SAHG3-1.lsm","SAHG3-1","R",2045,1,"fru MARCM","F","aDT-e"
+"SAHG4","SAHG4-1.lsm","SAHG4-1","R",2432,5,"fru MARCM","F",NA
+"SAHG4","SAHG4-1.lsm","SAHG4-1","L",2047,1,"fru MARCM","F","aDT-a"
+"SAHG4","SAHG4-1.lsm","SAHG4-1","L",2430,4,"fru MARCM","F",NA
+"SAHG4","SAHG4-1.lsm","SAHG4-1","R",2049,3,"fru MARCM","F","pIP-i"
+"SAHG4","SAHG4-1.lsm","SAHG4-1","L",2048,2,"fru MARCM","F",NA
+"SAHG5","SAHG5-1.lsm","SAHG5-1","L",2429,2,"fru MARCM","F",NA
+"SAHG5","SAHG5-1.lsm","SAHG5-1","L",2057,1,"fru MARCM","F","pIP-i"
+"SAHG6","SAHG6-1.lsm","SAHG6-1","L",2060,1,"fru MARCM","F",NA
+"SAHG6","SAHG6-1.lsm","SAHG6-1","L",2062,2,"fru MARCM","F",NA
+"SAHG6","SAHG6-1.lsm","SAHG6-1","L",2064,3,"fru MARCM","F",NA
+"SAHG7","SAHG7-1.lsm","SAHG7-1","L",2069,3,"fru MARCM","F","pSP-f"
+"SAHG7","SAHG7-1.lsm","SAHG7-1","L",2066,1,"fru MARCM","F","pSP-a"
+"SAHG7","SAHG7-1.lsm","SAHG7-1","L",2431,4,"fru MARCM","F","dPr-a"
+"SAHG7","SAHG7-1.lsm","SAHG7-1","L",2068,2,"fru MARCM","F","pIP-h"
+"SAHG8","SAHG8-1.lsm","SAHG8-1","L",2433,1,"fru MARCM","F",NA
+"SAHG9","SAHG9-1.lsm","SAHG9-1","L",2077,4,"fru MARCM","F","aSG-a"
+"SAHG9","SAHG9-1.lsm","SAHG9-1","L",2076,3,"fru MARCM","F","pSP-a"
+"SAHG9","SAHG9-1.lsm","SAHG9-1","L",2072,1,"fru MARCM","F","aDT-e"
+"SAHG9","SAHG9-1.lsm","SAHG9-1","R",2074,2,"fru MARCM","F","pIP-g"
+"SAHH1","SAHH1-1.lsm","SAHH1-1","L",2086,2,"fru MARCM","F","aSP-a"
+"SAHH1","SAHH1-1.lsm","SAHH1-1","R",2085,1,"fru MARCM","F","aIP-e"
+"SAHH1","SAHH1-1.lsm","SAHH1-1","R",2088,3,"fru MARCM","F","pSP-a"
+"SAHH1","SAHH1-1.lsm","SAHH1-1","L",2089,4,"fru MARCM","F",NA
+"SAHH12","SAHH12-1.lsm","SAHH12-1","L",2106,1,"fru MARCM","F","pIP-a"
+"SAHH13","SAHH13-1.lsm","SAHH13-1","L",2107,1,"fru MARCM","F","aDT-e"
+"SAHH13","SAHH13-1.lsm","SAHH13-1","R",2108,2,"fru MARCM","F","aSP-k"
+"SAHH13","SAHH13-1.lsm","SAHH13-1","R",2109,3,"fru MARCM","F","pMP-e"
+"SAHH14","SAHH14-1.lsm","SAHH14-1","R",2111,2,"fru MARCM","F","aSG-a"
+"SAHH14","SAHH14-1.lsm","SAHH14-1","R",2110,1,"fru MARCM","F","aDT-e"
+"SAHH15","SAHH15-1.lsm","SAHH15-1","R",2112,1,"fru MARCM","F","pSP-a"
+"SAHH15","SAHH15-1.lsm","SAHH15-1","R",2113,2,"fru MARCM","F","aSP-g"
+"SAHH18","SAHH18-1.lsm","SAHH18-1","R",2118,3,"fru MARCM","F","aIP-c"
+"SAHH18","SAHH18-1.lsm","SAHH18-1","R",2116,2,"fru MARCM","F","pIP-c"
+"SAHH18","SAHH18-1.lsm","SAHH18-1","R",2119,4,"fru MARCM","F","pMP-f"
+"SAHH18","SAHH18-1.lsm","SAHH18-1","L",2115,1,"fru MARCM","F","pIP-c"
+"SAHH20","SAHH20-1.lsm","SAHH20-1","R",2123,1,"fru MARCM","F","aIP-e"
+"SAHH22","SAHH22-1.lsm","SAHH22-1","L",2124,1,"fru MARCM","F","aSP-a"
+"SAHH23","SAHH23-1.lsm","SAHH23-1","R",2125,1,"fru MARCM","F","aSP-a"
+"SAHH23","SAHH23-1.lsm","SAHH23-1","R",2126,2,"fru MARCM","F","pSG-d"
+"SAHH28","SAHH28-1.lsm","SAHH28-1","L",2130,2,"fru MARCM","F",NA
+"SAHH28","SAHH28-1.lsm","SAHH28-1","R",2127,1,"fru MARCM","F","pMP-a"
+"SAHH29","SAHH29-1.lsm","SAHH29-1","L",4027,3,"fru MARCM","F","SN-a"
+"SAHH29","SAHH29-1.lsm","SAHH29-1","R",2137,2,"fru MARCM","F","pMP-a"
+"SAHH29","SAHH29-1.lsm","SAHH29-1","L",2134,1,"fru MARCM","F","aDT-d"
+"SAHH3","SAHH3-1.lsm","SAHH3-1","R",2090,1,"fru MARCM","F","aSP-k"
+"SAHH30","SAHH30-1.lsm","SAHH30-1","R",2141,1,"fru MARCM","F","aIP-b"
+"SAHH31","SAHH31-1.lsm","SAHH31-1","R",2143,1,"fru MARCM","F","pMP-f"
+"SAHH5","SAHH5-1.lsm","SAHH5-1","R",2091,1,"fru MARCM","F","aIP-a"
+"SAHH5","SAHH5-1.lsm","SAHH5-1","L",2092,2,"fru MARCM","F","pSP-b"
+"SAHH5","SAHH5-1.lsm","SAHH5-1","R",2093,3,"fru MARCM","F",NA
+"SAHH5","SAHH5-1.lsm","SAHH5-1","L",2095,4,"fru MARCM","F",NA
+"SAHH6","SAHH6-1.lsm","SAHH6-1","L",2098,3,"fru MARCM","F",NA
+"SAHH6","SAHH6-1.lsm","SAHH6-1","L",2097,2,"fru MARCM","F","pIP-c"
+"SAHH6","SAHH6-1.lsm","SAHH6-1","R",2096,1,"fru MARCM","F","aIP-g"
+"SAHH7","SAHH7-1.lsm","SAHH7-1","L",2100,1,"fru MARCM","F",NA
+"SAHH7","SAHH7-1.lsm","SAHH7-1","R",2104,3,"fru MARCM","F",NA
+"SAHH7","SAHH7-1.lsm","SAHH7-1","L",2101,2,"fru MARCM","F","pIP-g"
+"SAHH8","SAHH8-1.lsm","SAHH8-1","R",2105,1,"fru MARCM","F","aDT-e"
+"SAHI1","SAHI1-1.lsm","SAHI1-1","R",2050,1,"fru MARCM","F","pSP-f"
+"SAHI1","SAHI1-1.lsm","SAHI1-1","L",2051,2,"fru MARCM","F",NA
+"SAHI10","SAHI10-1.lsm","SAHI10-1","R",2067,1,"fru MARCM","F","pSP-e"
+"SAHI11","SAHI11-1.lsm","SAHI11-1","R",2082,2,"fru MARCM","F","aSP-l"
+"SAHI11","SAHI11-1.lsm","SAHI11-1","L",2070,1,"fru MARCM","F","aSP-a"
+"SAHI12","SAHI12-1.lsm","SAHI12-1","R",2073,1,"fru MARCM","F","pSP-f"
+"SAHI12","SAHI12-1.lsm","SAHI12-1","R",2075,2,"fru MARCM","F",NA
+"SAHI13","SAHI13-1.lsm","SAHI13-1","L",2084,3,"fru MARCM","F","aDT-a"
+"SAHI13","SAHI13-1.lsm","SAHI13-1","L",2078,1,"fru MARCM","F","aDT-b"
+"SAHI13","SAHI13-1.lsm","SAHI13-1","L",2083,2,"fru MARCM","F","aSP-l"
+"SAHI14","SAHI14-1.lsm","SAHI14-1","L",2087,1,"fru MARCM","F","pSG-b"
+"SAHI18","SAHI18-1.lsm","SAHI18-1","R",3928,4,"fru MARCM","F","Lo"
+"SAHI18","SAHI18-1.lsm","SAHI18-1","L",2102,2,"fru MARCM","F",NA
+"SAHI18","SAHI18-1.lsm","SAHI18-1","L",2099,1,"fru MARCM","F","pIP-d"
+"SAHI18","SAHI18-1.lsm","SAHI18-1","L",4028,5,"fru MARCM","F","SN-e"
+"SAHI18","SAHI18-1.lsm","SAHI18-1","R",2103,3,"fru MARCM","F",NA
+"SAHI19","SAHI19-1.lsm","SAHI19-1","L",2117,2,"fru MARCM","F",NA
+"SAHI19","SAHI19-1.lsm","SAHI19-1","R",4029,3,"fru MARCM","F","SN-a"
+"SAHI19","SAHI19-1.lsm","SAHI19-1","R",2114,1,"fru MARCM","F","aSG-a"
+"SAHI2","SAHI2-1.lsm","SAHI2-1","L",2052,1,"fru MARCM","F","aDT-e"
+"SAHI2","SAHI2-1.lsm","SAHI2-1","R",2054,3,"fru MARCM","F","aIP-e"
+"SAHI2","SAHI2-1.lsm","SAHI2-1","L",2053,2,"fru MARCM","F","pIP-h"
+"SAHI20","SAHI20-1.lsm","SAHI20-1","L",2121,2,"fru MARCM","F",NA
+"SAHI20","SAHI20-1.lsm","SAHI20-1","R",2122,3,"fru MARCM","F",NA
+"SAHI20","SAHI20-1.lsm","SAHI20-1","L",2120,1,"fru MARCM","F","pMP-f"
+"SAHI21","SAHI21-1.lsm","SAHI21-1","L",2129,2,"fru MARCM","F","aDT-d"
+"SAHI21","SAHI21-1.lsm","SAHI21-1","L",2128,1,"fru MARCM","F",NA
+"SAHI22","SAHI22-1.lsm","SAHI22-1","L",2963,3,"fru MARCM","F","pMP-f"
+"SAHI22","SAHI22-1.lsm","SAHI22-1","R",2961,1,"fru MARCM","F","aSP-f"
+"SAHI22","SAHI22-1.lsm","SAHI22-1","R",2962,2,"fru MARCM","F","aSP-m"
+"SAHI23","SAHI23-1.lsm","SAHI23-1","L",2133,3,"fru MARCM","F","pMP-b"
+"SAHI23","SAHI23-1.lsm","SAHI23-1","R",2132,2,"fru MARCM","F",NA
+"SAHI23","SAHI23-1.lsm","SAHI23-1","R",2135,4,"fru MARCM","F","aSP-m"
+"SAHI23","SAHI23-1.lsm","SAHI23-1","L",2131,1,"fru MARCM","F","pMP-f"
+"SAHI23","SAHI23-1.lsm","SAHI23-1","R",2136,5,"fru MARCM","F","aSP-f"
+"SAHI26","SAHI26-1.lsm","SAHI26-1","L",2138,1,"fru MARCM","F","pMP-a"
+"SAHI26","SAHI26-1.lsm","SAHI26-1","L",2139,2,"fru MARCM","F","aIP-c"
+"SAHI27","SAHI27-1.lsm","SAHI27-1","L",2140,1,"fru MARCM","F","pSP-f"
+"SAHI3","SAHI3-1.lsm","SAHI3-1","R",2056,2,"fru MARCM","F","pMP-e"
+"SAHI3","SAHI3-1.lsm","SAHI3-1","R",2055,1,"fru MARCM","F",NA
+"SAHI4","SAHI4-1.lsm","SAHI4-1","R",2058,1,"fru MARCM","F","pIP-a"
+"SAHI7","SAHI7-1.lsm","SAHI7-1","R",2059,1,"fru MARCM","F","aDT-e"
+"SAHI7","SAHI7-1.lsm","SAHI7-1","R",2061,1,"fru MARCM","F",NA
+"SAHI9","SAHI9-1.lsm","SAHI9-1","L",2063,1,"fru MARCM","F","aIP-g"
+"SAHI9","SAHI9-1.lsm","SAHI9-1","R",2065,2,"fru MARCM","F","pIP-i"
+"SAHJ11","SAHJ11-1.lsm","SAHJ11-1","L",2167,2,"fru MARCM","F","pSG-a"
+"SAHJ11","SAHJ11-1.lsm","SAHJ11-1","R",2164,1,"fru MARCM","F","aSP-b"
+"SAHJ14","SAHJ14-1.lsm","SAHJ14-1","L",2168,1,"fru MARCM","F","aDT-c"
+"SAHJ14","SAHJ14-1.lsm","SAHJ14-1","L",2171,2,"fru MARCM","F","pIP-c"
+"SAHJ14","SAHJ14-1.lsm","SAHJ14-1","L",2173,3,"fru MARCM","F","pIP-e"
+"SAHJ16","SAHJ16-1.lsm","SAHJ16-1","R",2174,1,"fru MARCM","F","pSP-e"
+"SAHJ18","SAHJ18-1.lsm","SAHJ18-1","L",2176,2,"fru MARCM","F","aSP-f"
+"SAHJ18","SAHJ18-1.lsm","SAHJ18-1","L",2175,1,"fru MARCM","F","aIP-e"
+"SAHJ2","SAHJ2-1.lsm","SAHJ2-1","L",2147,1,"fru MARCM","F","aSP-a"
+"SAHJ3","SAHJ3-1.lsm","SAHJ3-1","L",2150,2,"fru MARCM","F","pIP-c"
+"SAHJ3","SAHJ3-1.lsm","SAHJ3-1","R",2149,1,"fru MARCM","F","aSP-m"
+"SAHJ5","SAHJ5-1.lsm","SAHJ5-1","R",2154,2,"fru MARCM","F","pSP-c"
+"SAHJ5","SAHJ5-1.lsm","SAHJ5-1","R",2152,1,"fru MARCM","F","aIP-i"
+"SAHJ6","SAHJ6-1.lsm","SAHJ6-1","L",2157,1,"fru MARCM","F","pIP-g"
+"SAHJ6","SAHJ6-1.lsm","SAHJ6-1","L",2158,1,"fru MARCM","F",NA
+"SAHJ8","SAHJ8-1.lsm","SAHJ8-1","R",2160,2,"fru MARCM","F","aIP-h"
+"SAHJ8","SAHJ8-1.lsm","SAHJ8-1","R",2161,3,"fru MARCM","F",NA
+"SAHJ8","SAHJ8-1.lsm","SAHJ8-1","R",2159,1,"fru MARCM","F",NA
+"SAHK1","SAHK1-1.lsm","SAHK1-1","R",2142,1,"fru MARCM","F",NA
+"SAHK10","SAHK10-1.lsm","SAHK10-1","L",2155,1,"fru MARCM","F","pSP-a"
+"SAHK10","SAHK10-1.lsm","SAHK10-1","L",3050,3,"fru MARCM","F",NA
+"SAHK10","SAHK10-1.lsm","SAHK10-1","L",2156,2,"fru MARCM","F","aIP-d"
+"SAHK11","SAHK11-1.lsm","SAHK11-1","L",2162,1,"fru MARCM","F","aIP-h"
+"SAHK11","SAHK11-1.lsm","SAHK11-1","L",2163,2,"fru MARCM","F","pIP-"
+"SAHK12","SAHK12-1.lsm","SAHK12-1","L",2166,2,"fru MARCM","F","pIP-j"
+"SAHK12","SAHK12-1.lsm","SAHK12-1","L",2165,1,"fru MARCM","F","pSP-f"
+"SAHK13","SAHK13-1.lsm","SAHK13-1","L",2170,2,"fru MARCM","F","aSP-h"
+"SAHK13","SAHK13-1.lsm","SAHK13-1","R",2172,3,"fru MARCM","F",NA
+"SAHK13","SAHK13-1.lsm","SAHK13-1","L",2169,1,"fru MARCM","F","aSP-l"
+"SAHK15","SAHK15-1.lsm","SAHK15-1","L",2182,3,"fru MARCM","F","pMP-c"
+"SAHK15","SAHK15-1.lsm","SAHK15-1","R",2177,1,"fru MARCM","F","aDT-e"
+"SAHK15","SAHK15-1.lsm","SAHK15-1","L",4030,4,"fru MARCM","F","SN-a"
+"SAHK15","SAHK15-1.lsm","SAHK15-1","L",2180,2,"fru MARCM","F","aSP-f"
+"SAHK16","SAHK16-1.lsm","SAHK16-1","L",3051,3,"fru MARCM","F","MB"
+"SAHK16","SAHK16-1.lsm","SAHK16-1","L",2184,1,"fru MARCM","F","aDT-e"
+"SAHK16","SAHK16-1.lsm","SAHK16-1","R",2185,2,"fru MARCM","F",NA
+"SAHK18","SAHK18-1.lsm","SAHK18-1","R",2188,1,"fru MARCM","F","pIP-j"
+"SAHK19","SAHK19-1.lsm","SAHK19-1","R",2189,2,"fru MARCM","F",NA
+"SAHK19","SAHK19-1.lsm","SAHK19-1","L",2186,1,"fru MARCM","F","aSP-g"
+"SAHK2","SAHK2-1.lsm","SAHK2-1","R",2144,1,"fru MARCM","F","aIP-c"
+"SAHK2","SAHK2-1.lsm","SAHK2-1","R",3052,4,"fru MARCM","F","MB"
+"SAHK2","SAHK2-1.lsm","SAHK2-1","L",2146,3,"fru MARCM","F","pMP-b"
+"SAHK2","SAHK2-1.lsm","SAHK2-1","R",2145,2,"fru MARCM","F","pMP-b"
+"SAHK2","SAHK2-1.lsm","SAHK2-1","L",4031,5,"fru MARCM","F","SN-a"
+"SAHK20","SAHK20-1.lsm","SAHK20-1","R",2191,1,"fru MARCM","F","aSP-a"
+"SAHK20","SAHK20-1.lsm","SAHK20-1","R",2192,2,"fru MARCM","F",NA
+"SAHK21","SAHK21-1.lsm","SAHK21-1","L",3053,4,"fru MARCM","F","MB"
+"SAHK21","SAHK21-1.lsm","SAHK21-1","R",2203,2,"fru MARCM","F","pSP-b"
+"SAHK21","SAHK21-1.lsm","SAHK21-1","R",2201,1,"fru MARCM","F","aSP-b"
+"SAHK21","SAHK21-1.lsm","SAHK21-1","L",2205,3,"fru MARCM","F",NA
+"SAHK22","SAHK22-1.lsm","SAHK22-1","L",2206,1,"fru MARCM","F","aDT-e"
+"SAHK22","SAHK22-1.lsm","SAHK22-1","L",2208,3,"fru MARCM","F","aSP-a"
+"SAHK22","SAHK22-1.lsm","SAHK22-1","R",2207,2,"fru MARCM","F",NA
+"SAHK23","SAHK23-1.lsm","SAHK23-1","R",2210,1,"fru MARCM","F","aDT-e"
+"SAHK23","SAHK23-1.lsm","SAHK23-1","L",2211,2,"fru MARCM","F",NA
+"SAHK23","SAHK23-1.lsm","SAHK23-1","L",2212,3,"fru MARCM","F",NA
+"SAHK5","SAHK5-1.lsm","SAHK5-1","L",2148,1,"fru MARCM","F","pMP-b"
+"SAHK7","SAHK7-1.lsm","SAHK7-1","L",2151,1,"fru MARCM","F","aIP-e"
+"SAHK9","SAHK9-1.lsm","SAHK9-1","R",2153,1,"fru MARCM","F","pMP-b"
+"SAHL1","SAHL1-1.lsm","SAHL1-1","L",2178,1,"fru MARCM","F","pIP-c"
+"SAHL1","SAHL1-1.lsm","SAHL1-1","L",2181,3,"fru MARCM","F","pSP-e"
+"SAHL1","SAHL1-1.lsm","SAHL1-1","R",2179,2,"fru MARCM","F","pIP-g"
+"SAHL2","SAHL2-1.lsm","SAHL2-1","L",2187,2,"fru MARCM","F",NA
+"SAHL2","SAHL2-1.lsm","SAHL2-1","R",2183,1,"fru MARCM","F","pIP-g"
+"SAHL3","SAHL3-1.lsm","SAHL3-1","L",2194,3,"fru MARCM","F",NA
+"SAHL3","SAHL3-1.lsm","SAHL3-1","L",2190,1,"fru MARCM","F","pIP-j"
+"SAHL3","SAHL3-1.lsm","SAHL3-1","L",2193,2,"fru MARCM","F","pMP-c"
+"SAHL4","SAHL4-1.lsm","SAHL4-1","L",2196,1,"fru MARCM","F","aIP-c"
+"SAHL4","SAHL4-1.lsm","SAHL4-1","L",2197,2,"fru MARCM","F",NA
+"SAHL6","SAHL6-1.lsm","SAHL6-1","L",2199,2,"fru MARCM","F","aDT-g"
+"SAHL6","SAHL6-1.lsm","SAHL6-1","L",2198,1,"fru MARCM","F","pIP-c"
+"SAHL6","SAHL6-1.lsm","SAHL6-1","R",2200,3,"fru MARCM","F","pSG-e"
+"SAHL7","SAHL7-1.lsm","SAHL7-1","L",2202,1,"fru MARCM","F","aSP-a"
+"SAHL7","SAHL7-1.lsm","SAHL7-1","R",2204,2,"fru MARCM","F","pSG-a"
+"SAHL8","SAHL8-1.lsm","SAHL8-1","R",2213,2,"fru MARCM","F",NA
+"SAHL8","SAHL8-1.lsm","SAHL8-1","L",2209,1,"fru MARCM","F","aSP-j"
+"SAHL9","SAHL9-1.lsm","SAHL9-1","R",2214,1,"fru MARCM","F","aDT-g"
+"SAHL9","SAHL9-1.lsm","SAHL9-1","L",4033,4,"fru MARCM","F","SN-a"
+"SAHL9","SAHL9-1.lsm","SAHL9-1","L",2215,2,"fru MARCM","F","aSP-k"
+"SAHL9","SAHL9-1.lsm","SAHL9-1","L",4032,3,"fru MARCM","F","MB"
+"SAHM1","SAHM1-1.lsm","SAHM1-1","R",2218,1,"fru MARCM","M","aSP-d"
+"SAHM10","SAHM10-1.lsm","SAHM10-1","L",2227,2,"fru MARCM","M",NA
+"SAHM10","SAHM10-1.lsm","SAHM10-1","L",3930,3,"fru MARCM","M","SN-a"
+"SAHM10","SAHM10-1.lsm","SAHM10-1","R",2226,1,"fru MARCM","M","pIP-j"
+"SAHM14","SAHM14-1.lsm","SAHM14-1","L",2228,1,"fru MARCM","M","aIP-c"
+"SAHM14","SAHM14-1.lsm","SAHM14-1","R",4149,2,"fru MARCM","M","SN-d"
+"SAHM16","SAHM16-1.lsm","SAHM16-1","R",2229,1,"fru MARCM","M","aSP-m"
+"SAHM4","SAHM4-1.lsm","SAHM4-1","L",2967,3,"fru MARCM","M",NA
+"SAHM4","SAHM4-1.lsm","SAHM4-1","L",3935,4,"fru MARCM","M","SN-d"
+"SAHM4","SAHM4-1.lsm","SAHM4-1","L",2220,2,"fru MARCM","M","M"
+"SAHM4","SAHM4-1.lsm","SAHM4-1","L",2219,1,"fru MARCM","M","pMP-f"
+"SAHM9","SAHM9-1.lsm","SAHM9-1","L",2221,1,"fru MARCM","M","aSP-k"
+"SAHM9","SAHM9-1.lsm","SAHM9-1","R",2224,4,"fru MARCM","M","aDT-d"
+"SAHM9","SAHM9-1.lsm","SAHM9-1","R",2225,1,"fru MARCM","M","pIP-j"
+"SAHM9","SAHM9-1.lsm","SAHM9-1","R",2223,3,"fru MARCM","M","aIP-i"
+"SAHM9","SAHM9-1.lsm","SAHM9-1","L",2222,2,"fru MARCM","M","pSP-b"
+"SAHN14","SAHN14-1.lsm","SAHN14-1","R",2302,2,"fru MARCM","M",NA
+"SAHN14","SAHN14-1.lsm","SAHN14-1","R",2301,1,"fru MARCM","M","aSP-k"
+"SAHN14","SAHN14-1.lsm","SAHN14-1","L",3931,3,"fru MARCM","M","SN-a"
+"SAHN14","SAHN14-1.lsm","SAHN14-1","R",3932,4,"fru MARCM","M","SN-a"
+"SAHN14","SAHN14-1.lsm","SAHN14-1","L",4150,5,"fru MARCM","M","SN-b"
+"SAHN2","SAHN2-1.lsm","SAHN2-1","L",2297,2,"fru MARCM","M",NA
+"SAHN2","SAHN2-1.lsm","SAHN2-1","R",2296,1,"fru MARCM","M","aSP-j"
+"SAHN2","SAHN2-1.lsm","SAHN2-1","L",4151,3,"fru MARCM","M","SN-a"
+"SAHN8","SAHN8-1.lsm","SAHN8-1","R",2300,2,"fru MARCM","M",NA
+"SAHN8","SAHN8-1.lsm","SAHN8-1","L",2298,1,"fru MARCM","M","pSP-f"
+"SAHO1","SAHO1-1.lsm","SAHO1-1","L",2230,1,"fru MARCM","F","aSP-l"
+"SAHO10","SAHO10-1.lsm","SAHO10-1","R",2245,1,"fru MARCM","F","pIP-i"
+"SAHO11","SAHO11-1.lsm","SAHO11-1","L",2246,1,"fru MARCM","F","aIP-c"
+"SAHO12","SAHO12-1.lsm","SAHO12-1","R",2247,1,"fru MARCM","F","pIP-d"
+"SAHO12","SAHO12-1.lsm","SAHO12-1","L",2248,2,"fru MARCM","F","aSP-d"
+"SAHO15","SAHO15-1.lsm","SAHO15-1","R",2249,1,"fru MARCM","F","aDT-c"
+"SAHO16","SAHO16-1.lsm","SAHO16-1","R",2250,1,"fru MARCM","F","aDT-f"
+"SAHO16","SAHO16-1.lsm","SAHO16-1","R",2251,2,"fru MARCM","F","pSP-e"
+"SAHO17","SAHO17-1.lsm","SAHO17-1","R",2252,1,"fru MARCM","F","aSP-g"
+"SAHO17","SAHO17-1.lsm","SAHO17-1","R",2253,2,"fru MARCM","F","pSG-a"
+"SAHO17","SAHO17-1.lsm","SAHO17-1","L",4034,3,"fru MARCM","F","SN-d"
+"SAHO18","SAHO18-1.lsm","SAHO18-1","R",2968,2,"fru MARCM","F",NA
+"SAHO18","SAHO18-1.lsm","SAHO18-1","L",2254,1,"fru MARCM","F","pIP-a"
+"SAHO19","SAHO19-1.lsm","SAHO19-1","R",2966,3,"fru MARCM","F",NA
+"SAHO19","SAHO19-1.lsm","SAHO19-1","R",2504,2,"fru MARCM","F",NA
+"SAHO19","SAHO19-1.lsm","SAHO19-1","L",2255,1,"fru MARCM","F","pSG-c"
+"SAHO2","SAHO2-1.lsm","SAHO2-1","R",2231,1,"fru MARCM","F","aIP-e"
+"SAHO23","SAHO23-1.lsm","SAHO23-1","R",2259,3,"fru MARCM","F","pSP-a"
+"SAHO23","SAHO23-1.lsm","SAHO23-1","R",2258,2,"fru MARCM","F","pMP-f"
+"SAHO23","SAHO23-1.lsm","SAHO23-1","L",2257,1,"fru MARCM","F","aDT-h"
+"SAHO24","SAHO24-1.lsm","SAHO24-1","R",2965,3,"fru MARCM","F","pIP-a"
+"SAHO24","SAHO24-1.lsm","SAHO24-1","L",2260,1,"fru MARCM","F","aIP-a"
+"SAHO24","SAHO24-1.lsm","SAHO24-1","R",2261,2,"fru MARCM","F",NA
+"SAHO25","SAHO25-1.lsm","SAHO25-1","R",2265,4,"fru MARCM","F",NA
+"SAHO25","SAHO25-1.lsm","SAHO25-1","L",2264,3,"fru MARCM","F",NA
+"SAHO25","SAHO25-1.lsm","SAHO25-1","L",2262,1,"fru MARCM","F","pIP-g"
+"SAHO25","SAHO25-1.lsm","SAHO25-1","R",2263,2,"fru MARCM","F",NA
+"SAHO26","SAHO26-1.lsm","SAHO26-1","R",2266,1,"fru MARCM","F","pIP-b"
+"SAHO26","SAHO26-1.lsm","SAHO26-1","L",2267,2,"fru MARCM","F","pMP-f"
+"SAHO29","SAHO29-1.lsm","SAHO29-1","R",2964,3,"fru MARCM","F",NA
+"SAHO29","SAHO29-1.lsm","SAHO29-1","L",4035,4,"fru MARCM","F","SN-d"
+"SAHO29","SAHO29-1.lsm","SAHO29-1","R",2268,1,"fru MARCM","F","aIP-b"
+"SAHO29","SAHO29-1.lsm","SAHO29-1","L",2269,2,"fru MARCM","F","aSP-b"
+"SAHO3","SAHO3-1.lsm","SAHO3-1","R",4036,3,"fru MARCM","F","SN-a"
+"SAHO3","SAHO3-1.lsm","SAHO3-1","L",2232,1,"fru MARCM","F","pSP-a"
+"SAHO3","SAHO3-1.lsm","SAHO3-1","L",4037,4,"fru MARCM","F","SN-d"
+"SAHO3","SAHO3-1.lsm","SAHO3-1","R",2233,2,"fru MARCM","F","pMP-c"
+"SAHO31","SAHO31-1.lsm","SAHO31-1","R",2271,2,"fru MARCM","F","pSG-a"
+"SAHO31","SAHO31-1.lsm","SAHO31-1","L",2270,1,"fru MARCM","F","aSP-l"
+"SAHO31","SAHO31-1.lsm","SAHO31-1","L",2272,3,"fru MARCM","F",NA
+"SAHO32","SAHO32-1.lsm","SAHO32-1","R",2273,1,"fru MARCM","F","aIP-i"
+"SAHO33","SAHO33-1.lsm","SAHO33-1","R",2275,2,"fru MARCM","F",NA
+"SAHO33","SAHO33-1.lsm","SAHO33-1","L",2274,1,"fru MARCM","F","pSP-e"
+"SAHO35","SAHO35-1.lsm","SAHO35-1","R",2276,1,"fru MARCM","F","pIP-c"
+"SAHO36","SAHO36-1.lsm","SAHO36-1","L",2997,2,"fru MARCM","F",NA
+"SAHO36","SAHO36-1.lsm","SAHO36-1","R",2277,1,"fru MARCM","F","aIP-f"
+"SAHO36","SAHO36-1.lsm","SAHO36-1","R",2998,3,"fru MARCM","F",NA
+"SAHO37","SAHO37-1.lsm","SAHO37-1","R",2280,1,"fru MARCM","F","aIP-b"
+"SAHO37","SAHO37-1.lsm","SAHO37-1","L",2281,2,"fru MARCM","F",NA
+"SAHO38","SAHO38-1.lsm","SAHO38-1","R",2282,1,"fru MARCM","F","pIP-h"
+"SAHO39","SAHO39-1.lsm","SAHO39-1","R",2283,1,"fru MARCM","F","aIP-e"
+"SAHO39","SAHO39-1.lsm","SAHO39-1","R",2285,2,"fru MARCM","F","pSP-a"
+"SAHO39","SAHO39-1.lsm","SAHO39-1","L",4038,3,"fru MARCM","F","SN-a"
+"SAHO40","SAHO40-1.lsm","SAHO40-1","L",2288,3,"fru MARCM","F",NA
+"SAHO40","SAHO40-1.lsm","SAHO40-1","R",4039,4,"fru MARCM","F","SN-a"
+"SAHO40","SAHO40-1.lsm","SAHO40-1","L",2287,2,"fru MARCM","F","aIP-g"
+"SAHO40","SAHO40-1.lsm","SAHO40-1","R",4040,5,"fru MARCM","F","SN-d"
+"SAHO40","SAHO40-1.lsm","SAHO40-1","L",2286,1,"fru MARCM","F",NA
+"SAHO41","SAHO41-1.lsm","SAHO41-1","L",2290,2,"fru MARCM","F","aSP-a"
+"SAHO41","SAHO41-1.lsm","SAHO41-1","L",2891,4,"fru MARCM","F","pMP-e"
+"SAHO41","SAHO41-1.lsm","SAHO41-1","L",2291,3,"fru MARCM","F","aDT-f"
+"SAHO41","SAHO41-1.lsm","SAHO41-1","L",2289,1,"fru MARCM","F","pIP-c"
+"SAHO43","SAHO43-1.lsm","SAHO43-1","L",2292,1,"fru MARCM","F","aIP-h"
+"SAHO44","SAHO44-1.lsm","SAHO44-1","R",2295,3,"fru MARCM","F",NA
+"SAHO44","SAHO44-1.lsm","SAHO44-1","R",2294,2,"fru MARCM","F","pIP-i"
+"SAHO44","SAHO44-1.lsm","SAHO44-1","L",2293,1,"fru MARCM","F","aDT-e"
+"SAHO5","SAHO5-1.lsm","SAHO5-1","R",2234,1,"fru MARCM","F","aIP-i"
+"SAHO5","SAHO5-1.lsm","SAHO5-1","R",2235,2,"fru MARCM","F","aSP-f"
+"SAHO5","SAHO5-1.lsm","SAHO5-1","L",2236,3,"fru MARCM","F","pMP-e"
+"SAHO6","SAHO6-1.lsm","SAHO6-1","R",2239,1,"fru MARCM","F","pIP-d"
+"SAHO6","SAHO6-1.lsm","SAHO6-1","L",2237,1,"fru MARCM","F","pIP-h"
+"SAHO6","SAHO6-1.lsm","SAHO6-1","R",2238,1,"fru MARCM","F","pIP-c"
+"SAHO7","SAHO7-1.lsm","SAHO7-1","R",2240,1,"fru MARCM","F","aIP-c"
+"SAHO8","SAHO8-1.lsm","SAHO8-1","R",2241,1,"fru MARCM","F","aIP-e"
+"SAHO8","SAHO8-1.lsm","SAHO8-1","L",2243,3,"fru MARCM","F","aSP-l"
+"SAHO8","SAHO8-1.lsm","SAHO8-1","L",2244,4,"fru MARCM","F",NA
+"SAHO8","SAHO8-1.lsm","SAHO8-1","L",2242,2,"fru MARCM","F","pSP-a"
+"SAHP1","SAHP1-1.lsm","SAHP1-1","L",2303,1,"fru MARCM","M",NA
+"SAHP1","SAHP1-1.lsm","SAHP1-1","L",2304,2,"fru MARCM","M","pSP-e"
+"SAHP10","SAHP10-1.lsm","SAHP10-1","L",2313,1,"fru MARCM","M","MB"
+"SAHP10","SAHP10-1.lsm","SAHP10-1","L",2890,2,"fru MARCM","M",NA
+"SAHP12","SAHP12-1.lsm","SAHP12-1","R",2315,2,"fru MARCM","M","aIP-i"
+"SAHP12","SAHP12-1.lsm","SAHP12-1","L",2314,1,"fru MARCM","M","aSP-f"
+"SAHP12","SAHP12-1.lsm","SAHP12-1","R",4152,3,"fru MARCM","M","SN-a"
+"SAHP16","SAHP16-9.lsm","SAHP16-9","R",2316,1,"fru MARCM","M","pIP-c"
+"SAHP16","SAHP16-9.lsm","SAHP16-9","R",4154,3,"fru MARCM","M","SN-d"
+"SAHP16","SAHP16-9.lsm","SAHP16-9","L",4153,2,"fru MARCM","M","SN-d"
+"SAHP2","SAHP2-1.lsm","SAHP2-1","R",2306,2,"fru MARCM","M","aDT-e"
+"SAHP2","SAHP2-1.lsm","SAHP2-1","L",2305,1,"fru MARCM","M","aDT-e"
+"SAHP3","SAHP3-1.lsm","SAHP3-1","R",2307,1,"fru MARCM","M","pMP-e"
+"SAHP3","SAHP3-1.lsm","SAHP3-1","L",4192,3,"fru MARCM","M","vPr-a"
+"SAHP3","SAHP3-1.lsm","SAHP3-1","R",2960,2,"fru MARCM","M","MB"
+"SAHP5","SAHP5-1.lsm","SAHP5-1","L",2308,1,"fru MARCM","M",NA
+"SAHP5","SAHP5-1.lsm","SAHP5-1","R",2310,2,"fru MARCM","M",NA
+"SAHP6","SAHP6-1.lsm","SAHP6-1","R",2311,1,"fru MARCM","M","aDT-e"
+"SAHP7","SAHP7-1.lsm","SAHP7-1","R",2312,1,"fru MARCM","M","aSP-e"
+"SAHQ10","SAHQ10-1.lsm","SAHQ10-1","L",2328,2,"fru MARCM","F","aSP-m"
+"SAHQ10","SAHQ10-1.lsm","SAHQ10-1","L",2959,3,"fru MARCM","F",NA
+"SAHQ10","SAHQ10-1.lsm","SAHQ10-1","L",2327,1,"fru MARCM","F",NA
+"SAHQ2","SAHQ2-1.lsm","SAHQ2-1","L",2317,1,"fru MARCM","F","aDT-a"
+"SAHQ2","SAHQ2-1.lsm","SAHQ2-1","R",2318,2,"fru MARCM","F","pMP-b"
+"SAHQ2","SAHQ2-1.lsm","SAHQ2-1","L",4042,4,"fru MARCM","F","SN-d"
+"SAHQ2","SAHQ2-1.lsm","SAHQ2-1","R",4041,3,"fru MARCM","F","SN-a"
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","R",4046,7,"fru MARCM","F","SN-a"
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","L",4047,8,"fru MARCM","F","SN-e"
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","L",4044,5,"fru MARCM","F","SN-a"
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","R",2320,2,"fru MARCM","F","pMP-c"
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","R",2319,1,"fru MARCM","F","pIP-c"
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","L",2321,3,"fru MARCM","F",NA
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","L",4043,4,"fru MARCM","F","SN-d"
+"SAHQ4","SAHQ4-1.lsm","SAHQ4-1","R",4045,6,"fru MARCM","F","SN-d"
+"SAHQ5","SAHQ5-1.lsm","SAHQ5-1","R",2322,1,"fru MARCM","F","aDT-g"
+"SAHQ5","SAHQ5-1.lsm","SAHQ5-1","L",2323,2,"fru MARCM","F",NA
+"SAHQ8","SAHQ8-1.lsm","SAHQ8-1","R",2325,2,"fru MARCM","F","pIP-g"
+"SAHQ8","SAHQ8-1.lsm","SAHQ8-1","L",2324,1,"fru MARCM","F","aDT-b"
+"SAHQ9","SAHQ9-1.lsm","SAHQ9-1","L",2326,1,"fru MARCM","F","aSP-k"
+"SAHR11","SAHR11-1.lsm","SAHR11-1","R",2337,1,"fru MARCM","M","pMP-a"
+"SAHR14","SAHR14-2.lsm","SAHR14-2","L",2996,1,"fru MARCM","M","aIP-b"
+"SAHR15","SAHR15-1.lsm","SAHR15-1","L",2888,1,"fru MARCM","M","aIP-a"
+"SAHR15","SAHR15-1.lsm","SAHR15-1","R",2889,2,"fru MARCM","M","aSP-d"
+"SAHR16","SAHR16-1.lsm","SAHR16-1","L",2958,1,"fru MARCM","M","aSP-g"
+"SAHR16","SAHR16-1.lsm","SAHR16-1","L",4155,2,"fru MARCM","M","SN-a"
+"SAHR2","SAHR2-1.lsm","SAHR2-1","L",2329,1,"fru MARCM","M","aDT-e"
+"SAHR2","SAHR2-1.lsm","SAHR2-1","L",2330,2,"fru MARCM","M","pIP-d"
+"SAHR2","SAHR2-1.lsm","SAHR2-1","L",2331,3,"fru MARCM","M","aSP-c"
+"SAHR3","SAHR3-1.lsm","SAHR3-1","L",2332,1,"fru MARCM","M","aDT-c"
+"SAHR5","SAHR5-1.lsm","SAHR5-1","R",2995,1,"fru MARCM","M","pMP-e"
+"SAHR6","SAHR6-1.lsm","SAHR6-1","L",4156,4,"fru MARCM","M","SN-a"
+"SAHR6","SAHR6-1.lsm","SAHR6-1","L",2334,2,"fru MARCM","M","pSP-f"
+"SAHR6","SAHR6-1.lsm","SAHR6-1","L",2333,1,"fru MARCM","M",NA
+"SAHR6","SAHR6-1.lsm","SAHR6-1","L",2335,3,"fru MARCM","M","aSP-m"
+"SAHR9","SAHR9-1.lsm","SAHR9-1","L",2336,1,"fru MARCM","M","aDT-b"
+"SAHR9","SAHR9-1.lsm","SAHR9-1","L",4157,2,"fru MARCM","M","SN-a"
+"SAHS1","SAHS1-1.lsm","SAHS1-1","L",3949,1,"fru MARCM","M","SN-e"
+"SAHS1","SAHS1-1.lsm","SAHS1-1","R",3950,2,"fru MARCM","M","SN-d"
+"SAHS10","SAHS10-1.lsm","SAHS10-1","R",2957,2,"fru MARCM","M","MB"
+"SAHS10","SAHS10-1.lsm","SAHS10-1","L",840,1,"fru MARCM","M","pSP-d"
+"SAHS11","SAHS11-1.lsm","SAHS11-1","L",842,2,"fru MARCM","M","pIP-e"
+"SAHS11","SAHS11-1.lsm","SAHS11-1","L",841,1,"fru MARCM","M","aDT-e"
+"SAHS11","SAHS11-1.lsm","SAHS11-1","L",1811,3,"fru MARCM","M",NA
+"SAHS11","SAHS11-1.lsm","SAHS11-1","L",4158,4,"fru MARCM","M","SN-a"
+"SAHS12","SAHS12-1.lsm","SAHS12-1","R",843,1,"fru MARCM","M","aIP-e"
+"SAHS12","SAHS12-1.lsm","SAHS12-1","L",4160,3,"fru MARCM","M","SN-b"
+"SAHS12","SAHS12-1.lsm","SAHS12-1","L",4159,2,"fru MARCM","M","SN-a"
+"SAHS12","SAHS12-1.lsm","SAHS12-1","R",4161,4,"fru MARCM","M","SN-b"
+"SAHS13","SAHS13-1.lsm","SAHS13-1","R",844,1,"fru MARCM","M","pIP-b"
+"SAHS13","SAHS13-1.lsm","SAHS13-1","R",4163,4,"fru MARCM","M","SN-a"
+"SAHS13","SAHS13-1.lsm","SAHS13-1","R",845,2,"fru MARCM","M","aDT-b"
+"SAHS13","SAHS13-1.lsm","SAHS13-1","L",4162,3,"fru MARCM","M","SN-a"
+"SAHS14","SAHS14-1.lsm","SAHS14-1","R",846,1,"fru MARCM","M","aDT-d"
+"SAHS14","SAHS14-1.lsm","SAHS14-1","R",4164,2,"fru MARCM","M","SN-b"
+"SAHS17","SAHS17-1.lsm","SAHS17-1","R",849,3,"fru MARCM","M","pMP-c"
+"SAHS17","SAHS17-1.lsm","SAHS17-1","L",853,4,"fru MARCM","M","pSG-e"
+"SAHS17","SAHS17-1.lsm","SAHS17-1","L",848,2,"fru MARCM","M","pMP-c"
+"SAHS17","SAHS17-1.lsm","SAHS17-1","L",847,1,"fru MARCM","M","aSP-k"
+"SAHS18","SAHS18-1.lsm","SAHS18-1","L",851,2,"fru MARCM","M","aSP-i"
+"SAHS18","SAHS18-1.lsm","SAHS18-1","L",2956,3,"fru MARCM","M","aIP-i"
+"SAHS18","SAHS18-1.lsm","SAHS18-1","L",850,1,"fru MARCM","M","aDT-e"
+"SAHS2","SAHS2-1.lsm","SAHS2-1","R",2955,1,"fru MARCM","M","MB"
+"SAHS20","SAHS20-1.lsm","SAHS20-1","L",854,2,"fru MARCM","M","pIP-d"
+"SAHS20","SAHS20-1.lsm","SAHS20-1","L",852,1,"fru MARCM","M","aDT-e"
+"SAHS20","SAHS20-1.lsm","SAHS20-1","R",855,3,"fru MARCM","M",NA
+"SAHS20","SAHS20-1.lsm","SAHS20-1","L",4165,4,"fru MARCM","M","SN-a"
+"SAHS23","SAHS23-1.lsm","SAHS23-1","R",866,2,"fru MARCM","M",NA
+"SAHS23","SAHS23-1.lsm","SAHS23-1","R",1758,NA,"fru MARCM","M","pMP-f"
+"SAHS23","SAHS23-1.lsm","SAHS23-1","R",865,1,"fru MARCM","M",NA
+"SAHS25","SAHS25-1.lsm","SAHS25-1","R",857,1,"fru MARCM","M","pIP-c"
+"SAHS25","SAHS25-1.lsm","SAHS25-1","L",858,2,"fru MARCM","M",NA
+"SAHS27","SAHS27-1.lsm","SAHS27-1","R",861,1,"fru MARCM","M","aSP-c"
+"SAHS29","SAHS29-1.lsm","SAHS29-1","L",869,2,"fru MARCM","M","pSG-c"
+"SAHS29","SAHS29-1.lsm","SAHS29-1","L",868,1,"fru MARCM","M","aDT-e"
+"SAHS29","SAHS29-1.lsm","SAHS29-1","R",870,3,"fru MARCM","M","MB"
+"SAHS3","SAHS3-1.lsm","SAHS3-1","R",838,2,"fru MARCM","M",NA
+"SAHS3","SAHS3-1.lsm","SAHS3-1","R",837,1,"fru MARCM","M",NA
+"SAHS30","SAHS30-1.lsm","SAHS30-1","R",878,2,"fru MARCM","M","aSP-k"
+"SAHS30","SAHS30-1.lsm","SAHS30-1","L",873,1,"fru MARCM","M","aSP-j"
+"SAHS9","SAHS9-1.lsm","SAHS9-1","L",839,1,"fru MARCM","M","pIP-b"
+"SAHT1","SAHT1-1.lsm","SAHT1-1","L",2456,2,"fru Syt MARCM","F","MB"
+"SAHT1","SAHT1-1.lsm","SAHT1-1","R",2455,1,"fru Syt MARCM","F","pMP-b"
+"SAHT2","SAHT2-1.lsm","SAHT2-1","L",2457,1,"fru Syt MARCM","F",NA
+"SAHT3","SAHT3-1.lsm","SAHT3-1","R",2459,2,"fru Syt MARCM","F","pMP-e"
+"SAHT3","SAHT3-1.lsm","SAHT3-1","R",2458,1,"fru Syt MARCM","F","MB"
+"SAHT3","SAHT3-1.lsm","SAHT3-1","R",4048,3,"fru Syt MARCM","F","SN-d"
+"SAHT4","SAHT4-1.lsm","SAHT4-1","R",2460,1,"fru Syt MARCM","F","pMP-c"
+"SAHU10","SAHU10-1.lsm","SAHU10-1","R",2474,1,"fru Syt MARCM","F","aDT-g"
+"SAHU11","SAHU11-1.lsm","SAHU11-1","L",2476,2,"fru Syt MARCM","F","MB"
+"SAHU11","SAHU11-1.lsm","SAHU11-1","R",2475,1,"fru Syt MARCM","F","aIP-e"
+"SAHU12","SAHU12-1.lsm","SAHU12-1","R",2477,1,"fru Syt MARCM","F","aDT-e"
+"SAHU12","SAHU12-1.lsm","SAHU12-1","L",2478,2,"fru Syt MARCM","F","MB"
+"SAHU2","SAHU2-1.lsm","SAHU2-1","L",4049,3,"fru Syt MARCM","F","pMP-d"
+"SAHU2","SAHU2-1.lsm","SAHU2-1","L",2463,2,"fru Syt MARCM","F",NA
+"SAHU2","SAHU2-1.lsm","SAHU2-1","L",2462,1,"fru Syt MARCM","F","aDT-c"
+"SAHU4","SAHU4-1.lsm","SAHU4-1","R",2464,1,"fru Syt MARCM","F","pIP-g"
+"SAHU6","SAHU6-1.lsm","SAHU6-1","L",2468,4,"fru Syt MARCM","F","MB"
+"SAHU6","SAHU6-1.lsm","SAHU6-1","R",2466,2,"fru Syt MARCM","F","MB"
+"SAHU6","SAHU6-1.lsm","SAHU6-1","R",2465,1,"fru Syt MARCM","F",NA
+"SAHU6","SAHU6-1.lsm","SAHU6-1","L",2467,3,"fru Syt MARCM","F","MB"
+"SAHU7","SAHU7-1.lsm","SAHU7-1","L",2469,1,"fru Syt MARCM","F","pIP-c"
+"SAHU8","SAHU8-1.lsm","SAHU8-1","L",2470,1,"fru Syt MARCM","F","aSP-k"
+"SAHU8","SAHU8-1.lsm","SAHU8-1","R",2471,2,"fru Syt MARCM","F",NA
+"SAHU9","SAHU9-1.lsm","SAHU9-1","R",2473,1,"fru Syt MARCM","F","pSP-a"
+"SAHV13","SAHV13-1.lsm","SAHV13-1","R",2486,1,"fru Syt MARCM","F","pMP-f"
+"SAHV13","SAHV13-1.lsm","SAHV13-1","R",2487,2,"fru Syt MARCM","F","pMP-e"
+"SAHV14","SAHV14-1.lsm","SAHV14-1","R",2488,1,"fru Syt MARCM","F","pIP-c"
+"SAHV16","SAHV16-1.lsm","SAHV16-1","L",2489,1,"fru Syt MARCM","F","pSP-c"
+"SAHV19","SAHV19-1.lsm","SAHV19-1","L",2993,1,"fru Syt MARCM","F","pIP-c"
+"SAHV2","SAHV2-1.lsm","SAHV2-1","R",2479,1,"fru Syt MARCM","F","pSP-c"
+"SAHV4","SAHV4-1.lsm","SAHV4-1","R",2480,1,"fru Syt MARCM","F","pIP-g"
+"SAHV6","SAHV6-1.lsm","SAHV6-1","R",2481,1,"fru Syt MARCM","F","aSP-f"
+"SAHV7","SAHV7-1.lsm","SAHV7-1","R",2483,2,"fru Syt MARCM","F","pIP-c"
+"SAHV7","SAHV7-1.lsm","SAHV7-1","R",2482,1,"fru Syt MARCM","F","aDT-e"
+"SAHV8","SAHV8-1.lsm","SAHV8-1","R",2484,1,"fru Syt MARCM","F","pMP-c"
+"SAHV8","SAHV8-1.lsm","SAHV8-1","R",4050,2,"fru Syt MARCM","F","SN-e"
+"SAHV9","SAHV9-1.lsm","SAHV9-1","L",2485,1,"fru Syt MARCM","F","aDT-b"
+"SAHV9","SAHV9-1.lsm","SAHV9-1","L",4051,2,"fru Syt MARCM","F","SN-d"
+"SAHY1","SAHY1-1.lsm","SAHY1-1","L",2490,1,"fru Syt MARCM","F","pIP-c"
+"SAHY12","SAHY12-1.lsm","SAHY12-1","L",2497,2,"fru Syt MARCM","F","MB"
+"SAHY12","SAHY12-1.lsm","SAHY12-1","R",2496,1,"fru Syt MARCM","F","aIP-g"
+"SAHY15","SAHY15-1.lsm","SAHY15-1","L",2498,1,"fru Syt MARCM","F","MB"
+"SAHY16","SAHY16-1.lsm","SAHY16-1","L",4052,2,"fru Syt MARCM","F","SN-d"
+"SAHY16","SAHY16-1.lsm","SAHY16-1","R",2499,1,"fru Syt MARCM","F","pMP-b"
+"SAHY19","SAHY19-1.lsm","SAHY19-1","L",2502,3,"fru Syt MARCM","F",NA
+"SAHY19","SAHY19-1.lsm","SAHY19-1","L",4053,4,"fru Syt MARCM","F","SN-c"
+"SAHY19","SAHY19-1.lsm","SAHY19-1","L",2501,2,"fru Syt MARCM","F",NA
+"SAHY19","SAHY19-1.lsm","SAHY19-1","R",2500,1,"fru Syt MARCM","F","aSP-f"
+"SAHY20","SAHY20-1.lsm","SAHY20-1","L",2505,1,"fru Syt MARCM","F","MB"
+"SAHY20","SAHY20-1.lsm","SAHY20-1","R",2503,1,"fru Syt MARCM","F","pIP-h"
+"SAHY5","SAHY5-1.lsm","SAHY5-1","R",2491,1,"fru Syt MARCM","F","aSP-k"
+"SAHY6","SAHY6-1.lsm","SAHY6-1","R",2492,1,"fru Syt MARCM","F","pSP-a"
+"SAHY8","SAHY8-1.lsm","SAHY8-1","L",2494,2,"fru Syt MARCM","F",NA
+"SAHY8","SAHY8-1.lsm","SAHY8-1","R",2493,1,"fru Syt MARCM","F",NA
+"SAHY9","SAHY9-1.lsm","SAHY9-1","R",2495,1,"fru Syt MARCM","F","aIP-b"
+"SAIA17","SAIA17-1.lsm","SAIA17-1","R",2509,1,"fru Syt MARCM","F","aSP-e"
+"SAIA17","SAIA17-1.lsm","SAIA17-1","R",2508,1,"fru Syt MARCM","F","pMP-e"
+"SAIA21","SAIA21-1.lsm","SAIA21-1","L",2511,1,"fru Syt MARCM","F","MB"
+"SAIA21","SAIA21-1.lsm","SAIA21-1","R",2510,1,"fru Syt MARCM","F","aDT-e"
+"SAIA24","SAIA24-1.lsm","SAIA24-1","L",2512,1,"fru Syt MARCM","F","aDT-e"
+"SAIA27","SAIA27-1.lsm","SAIA27-1","R",4054,5,"fru Syt MARCM","F","SN-a"
+"SAIA27","SAIA27-1.lsm","SAIA27-1","R",2514,2,"fru Syt MARCM","F",NA
+"SAIA27","SAIA27-1.lsm","SAIA27-1","R",2516,4,"fru Syt MARCM","F","MB"
+"SAIA27","SAIA27-1.lsm","SAIA27-1","R",2513,1,"fru Syt MARCM","F","pSP-a"
+"SAIA27","SAIA27-1.lsm","SAIA27-1","L",2515,3,"fru Syt MARCM","F","MB"
+"SAIA33","SAIA33-1.lsm","SAIA33-1","R",2517,1,"fru Syt MARCM","F","pMP-a"
+"SAIA33","SAIA33-1.lsm","SAIA33-1","R",2518,2,"fru Syt MARCM","F","pSP-a"
+"SAIA35","SAIA35-1.lsm","SAIA35-1","L",2519,1,"fru Syt MARCM","F","aSP-i"
+"SAIA9","SAIA9-1.lsm","SAIA9-1","L",2507,2,"fru Syt MARCM","F","MB"
+"SAIA9","SAIA9-1.lsm","SAIA9-1","L",2506,1,"fru Syt MARCM","F","pSP-a"
+"SAIB13","SAIB13-1.lsm","SAIB13-1","L",2521,1,"fru Syt MARCM","F","pSP-b"
+"SAIB14","SAIB14-1.lsm","SAIB14-1","R",2522,1,"fru Syt MARCM","F","aDT-e"
+"SAIB16","SAIB16-1.lsm","SAIB16-1","R",2523,1,"fru Syt MARCM","F","aIP-a"
+"SAIB19","SAIB19-1.lsm","SAIB19-1","L",2524,1,"fru Syt MARCM","F","pSP-b"
+"SAIB19","SAIB19-1.lsm","SAIB19-1","L",2525,2,"fru Syt MARCM","F","MB"
+"SAIB19","SAIB19-1.lsm","SAIB19-1","R",2526,3,"fru Syt MARCM","F","MB"
+"SAIB6","SAIB6-1.lsm","SAIB6-1","R",2520,1,"fru Syt MARCM","F",NA
+"SAIC1","SAIC1-1.lsm","SAIC1-1","R",2992,1,"fru Syt MARCM","F","aDT-e"
+"SAIC2","SAIC2-1.lsm","SAIC2-1","R",2991,1,"fru Syt MARCM","F","aDT-e"
+"SAIC4","SAIC4-1.lsm","SAIC4-1","L",2990,1,"fru Syt MARCM","F","pSP-a"
+"SAIC5","SAIC5-1.lsm","SAIC5-1","R",2989,1,"fru Syt MARCM","F","pMP-a"
+"SAIC7","SAIC7-1.lsm","SAIC7-1","R",2988,1,"fru Syt MARCM","F","aSP-m"
+"SAIF16","SAIF16-1.lsm","SAIF16-1","R",2987,1,"fru Syt MARCM","F","aDT-b"
+"SAIR1","SAIR1-1.lsm","SAIR1-1","L",2527,1,"fru Syt MARCM","F","pMP-f"
+"SAIR10","SAIR10-1.lsm","SAIR10-1","L",2528,1,"fru Syt MARCM","F","aSP-m"
+"SAIR2","SAIR2-1.lsm","SAIR2-1","R",2529,1,"fru Syt MARCM","F","pIP-i"
+"SAIR4","SAIR4-1.lsm","SAIR4-1","R",2530,1,"fru Syt MARCM","F","aDT-e"
+"SAIR6","SAIR6-1.lsm","SAIR6-1","L",2532,2,"fru Syt MARCM","F","MB"
+"SAIR6","SAIR6-1.lsm","SAIR6-1","R",2531,1,"fru Syt MARCM","F","pMP-f"
+"SAIR8","SAIR8-1.lsm","SAIR8-1","L",2533,1,"fru Syt MARCM","F","aIP-g"
+"SAIR8","SAIR8-1.lsm","SAIR8-1","R",4055,3,"fru Syt MARCM","F","SN-a"
+"SAIR8","SAIR8-1.lsm","SAIR8-1","R",2534,2,"fru Syt MARCM","F","pMP-b"
+"SAIR9","SAIR9-1.lsm","SAIR9-1","L",2535,1,"fru Syt MARCM","F","aIP-i"
+"SAIS1","SAIS1-1.lsm","SAIS1-1","R",2437,1,"fru Syt MARCM","F",NA
+"SAIS10","SAIS10-1.lsm","SAIS10-1","L",2435,2,"fru Syt MARCM","F","SN-f"
+"SAIS10","SAIS10-1.lsm","SAIS10-1","L",2434,1,"fru Syt MARCM","F","dMs-b"
+"SAIS13","SAIS13-1.lsm","SAIS13-1","R",2436,1,"fru Syt MARCM","F","SN-h"
+"SAIS15","SAIS15-1.lsm","SAIS15-1","R",2440,2,"fru Syt MARCM","F","SN-f"
+"SAIS15","SAIS15-1.lsm","SAIS15-1","L",2439,1,"fru Syt MARCM","F","vMS-p"
+"SAIS17","SAIS17-1.lsm","SAIS17-1","R",2438,1,"fru Syt MARCM","F","vMs-j"
+"SAIS18","SAIS18-1.lsm","SAIS18-1","L",2441,1,"fru Syt MARCM","F",NA
+"SAIS2","SAIS2-1.lsm","SAIS2-1","L",2451,1,"fru Syt MARCM","F",NA
+"SAIS21","SAIS21-1.lsm","SAIS21-1","R",2442,1,"fru Syt MARCM","F",NA
+"SAIS22","SAIS22-1.lsm","SAIS22-1","L",2443,1,"fru Syt MARCM","F",NA
+"SAIS3","SAIS3-1.lsm","SAIS3-1","L",2542,4,"fru Syt MARCM","F","aIP-e"
+"SAIS3","SAIS3-1.lsm","SAIS3-1","R",2445,1,"fru Syt MARCM","F",NA
+"SAIS3","SAIS3-1.lsm","SAIS3-1","R",2541,3,"fru Syt MARCM","F",NA
+"SAIS3","SAIS3-1.lsm","SAIS3-1","R",2539,2,"fru Syt MARCM","F","pSP-c"
+"SAIS30","SAIS30-1.lsm","SAIS30-1","R",2446,1,"fru Syt MARCM","F","vPr-e"
+"SAIS30","SAIS30-1.lsm","SAIS30-1","L",2447,2,"fru Syt MARCM","F","SN-f"
+"SAIS32","SAIS32-1.lsm","SAIS32-1","L",2448,1,"fru Syt MARCM","F",NA
+"SAIS7","SAIS7-1.lsm","SAIS7-1","L",2538,2,"fru Syt MARCM","F","aSG-a"
+"SAIS7","SAIS7-1.lsm","SAIS7-1","R",2537,1,"fru Syt MARCM","F","pSP-e"
+"SAIS8","SAIS8-1.lsm","SAIS8-1","R",2536,2,"fru Syt MARCM","F","pIP-c"
+"SAIS8","SAIS8-1.lsm","SAIS8-1","R",2449,1,"fru Syt MARCM","F","vMS-p"
+"SAIS9","SAIS9-1.lsm","SAIS9-1","L",2452,1,"fru Syt MARCM","F","vMs-o"
+"SAJD10","SAJD10-1.lsm","SAJD10-1","R",2954,1,"fru Syt MARCM","F","pSP-e"
+"SAJD13","SAJD13-1.lsm","SAJD13-1","R",2953,1,"fru Syt MARCM","F","aDT-e"
+"SAJD14","SAJD14-1.lsm","SAJD14-1","L",2952,2,"fru Syt MARCM","F",NA
+"SAJD14","SAJD14-1.lsm","SAJD14-1","R",2951,1,"fru Syt MARCM","F",NA
+"SAJD19","SAJD19-1.lsm","SAJD19-1","R",2950,3,"fru Syt MARCM","F","aSP-f"
+"SAJD19","SAJD19-1.lsm","SAJD19-1","R",2949,2,"fru Syt MARCM","F","aDT-e"
+"SAJD2","SAJD2-1.lsm","SAJD2-1","L",2713,3,"fru Syt MARCM","F",NA
+"SAJD2","SAJD2-1.lsm","SAJD2-1","L",2712,2,"fru Syt MARCM","F","SN-h"
+"SAJD2","SAJD2-1.lsm","SAJD2-1","L",2546,1,"fru Syt MARCM","F","pSP-f"
+"SAJD5","SAJD5-1.lsm","SAJD5-1","R",2948,1,"fru Syt MARCM","F","aDT-h"
+"SAJD7","SAJD7-1.lsm","SAJD7-1","L",2716,1,"fru Syt MARCM","F",NA
+"SAJH1","SAJH1-1.lsm","SAJH1-1","R",2724,1,"fru Syt MARCM","F","SN-f"
+"SAJH10","SAJH10-1.lsm","SAJH10-1","R",2547,1,"fru Syt MARCM","F","aDT-e"
+"SAJH10","SAJH10-1.lsm","SAJH10-1","R",2548,2,"fru Syt MARCM","F","pMP-a"
+"SAJH12","SAJH12-1.lsm","SAJH12-1","R",2549,1,"fru Syt MARCM","F","aDT-e"
+"SAJH12","SAJH12-1.lsm","SAJH12-1","R",2732,4,"fru Syt MARCM","F","vMt-a"
+"SAJH12","SAJH12-1.lsm","SAJH12-1","L",2550,2,"fru Syt MARCM","F","MB"
+"SAJH12","SAJH12-1.lsm","SAJH12-1","R",2551,3,"fru Syt MARCM","F","pIP-c"
+"SAJH12","SAJH12-1.lsm","SAJH12-1","L",2735,5,"fru Syt MARCM","F","dMt-a"
+"SAJH13","SAJH13-1.lsm","SAJH13-1","R",2737,1,"fru Syt MARCM","F",NA
+"SAJH15","SAJH15-1.lsm","SAJH15-1","L",2552,1,"fru Syt MARCM","F","MB"
+"SAJH17","SAJH17-1.lsm","SAJH17-1","L",2739,2,"fru Syt MARCM","F","SN-h"
+"SAJH17","SAJH17-1.lsm","SAJH17-1","L",2553,1,"fru Syt MARCM","F","aSP-h"
+"SAJH17","SAJH17-1.lsm","SAJH17-1","L",4056,3,"fru Syt MARCM","F","SN-d"
+"SAJH17","SAJH17-1.lsm","SAJH17-1","R",4057,4,"fru Syt MARCM","F","SN-d"
+"SAJH18","SAJH18-1.lsm","SAJH18-1","L",2554,1,"fru Syt MARCM","F","aDT-e"
+"SAJH18","SAJH18-1.lsm","SAJH18-1","R",2556,3,"fru Syt MARCM","F",NA
+"SAJH18","SAJH18-1.lsm","SAJH18-1","R",4058,4,"fru Syt MARCM","F","pIP-c"
+"SAJH18","SAJH18-1.lsm","SAJH18-1","L",2555,2,"fru Syt MARCM","F","pIP-g"
+"SAJH19","SAJH19-1.lsm","SAJH19-1","R",3508,1,"fru Syt MARCM","F","aDT-e"
+"SAJH21","SAJH21-1.lsm","SAJH21-1","R",3509,1,"fru Syt MARCM","F","pMP-a"
+"SAJH22","SAJH22-1.lsm","SAJH22-1","R",2740,1,"fru Syt MARCM","F","vMs-f"
+"SAJH22","SAJH22-1.lsm","SAJH22-1","L",2746,2,"fru Syt MARCM","F","dPr-e"
+"SAJH24","SAJH24-1.lsm","SAJH24-1","R",3512,3,"fru Syt MARCM","F","aIP-e"
+"SAJH24","SAJH24-1.lsm","SAJH24-1","L",3511,2,"fru Syt MARCM","F","pIP-b"
+"SAJH24","SAJH24-1.lsm","SAJH24-1","L",3510,1,"fru Syt MARCM","F","pIP-c"
+"SAJH24","SAJH24-1.lsm","SAJH24-1","L",4059,4,"fru Syt MARCM","F","SN-d"
+"SAJH25","SAJH25-1.lsm","SAJH25-1","L",4060,1,"fru Syt MARCM","F","vPr-a"
+"SAJH3","SAJH3-1.lsm","SAJH3-1","L",2747,1,"fru Syt MARCM","F","SN-f"
+"SAJH7","SAJH7-1.lsm","SAJH7-1","R",2748,1,"fru Syt MARCM","F","SN-h"
+"SAJH7","SAJH7-1.lsm","SAJH7-1","L",2749,2,"fru Syt MARCM","F","SN-f"
+"SAJH8","SAJH8-1.lsm","SAJH8-1","L",2750,1,"fru Syt MARCM","F","SN-f"
+"SAJU1","SAJU1-1.lsm","SAJU1-1","L",4065,5,"fru Syt MARCM","F","SN-d"
+"SAJU1","SAJU1-1.lsm","SAJU1-1","L",3515,3,"fru Syt MARCM","F","MB"
+"SAJU1","SAJU1-1.lsm","SAJU1-1","R",2753,1,"fru Syt MARCM","F","SN-g"
+"SAJU1","SAJU1-1.lsm","SAJU1-1","R",3516,4,"fru Syt MARCM","F","pIP-e"
+"SAJU10","SAJU10-1.lsm","SAJU10-1","R",2760,3,"fru Syt MARCM","F","dMs-b"
+"SAJU10","SAJU10-1.lsm","SAJU10-1","R",2755,1,"fru Syt MARCM","F","SN-h"
+"SAJU10","SAJU10-1.lsm","SAJU10-1","L",2759,2,"fru Syt MARCM","F","vMs-e"
+"SAJU11","SAJU11-1.lsm","SAJU11-1","R",4066,5,"fru Syt MARCM","F","SN-d"
+"SAJU11","SAJU11-1.lsm","SAJU11-1","R",3517,2,"fru Syt MARCM","F","aSP-k"
+"SAJU11","SAJU11-1.lsm","SAJU11-1","L",3518,3,"fru Syt MARCM","F","pIP-c"
+"SAJU11","SAJU11-1.lsm","SAJU11-1","L",3519,4,"fru Syt MARCM","F","aIP-d"
+"SAJU11","SAJU11-1.lsm","SAJU11-1","L",2763,1,"fru Syt MARCM","F","dMs-b"
+"SAJU12","SAJU12-1.lsm","SAJU12-1","L",2768,1,"fru Syt MARCM","F",NA
+"SAJU12","SAJU12-1.lsm","SAJU12-1","R",3520,3,"fru Syt MARCM","F","pSP-a"
+"SAJU12","SAJU12-1.lsm","SAJU12-1","L",2772,2,"fru Syt MARCM","F",NA
+"SAJU15","SAJU15-1.lsm","SAJU15-1","L",3521,1,"fru Syt MARCM","F","aSP-l"
+"SAJU16","SAJU16-1.lsm","SAJU16-1","R",3523,2,"fru Syt MARCM","F","pIP-b"
+"SAJU16","SAJU16-1.lsm","SAJU16-1","L",3522,1,"fru Syt MARCM","F","aDT-e"
+"SAJU16","SAJU16-1.lsm","SAJU16-1","R",3524,3,"fru Syt MARCM","F","aSP-i"
+"SAJU19","SAJU19-1.lsm","SAJU19-1","L",3526,2,"fru Syt MARCM","F",NA
+"SAJU19","SAJU19-1.lsm","SAJU19-1","R",3525,1,"fru Syt MARCM","F","pMP-b"
+"SAJU20","SAJU20-1.lsm","SAJU20-1","R",2773,1,"fru Syt MARCM","F","dPr-b"
+"SAJU20","SAJU20-1.lsm","SAJU20-1","L",2774,2,"fru Syt MARCM","F",NA
+"SAJU3","SAJU3-1.lsm","SAJU3-1","R",2775,1,"fru Syt MARCM","F","dPr-b"
+"SAJU3","SAJU3-1.lsm","SAJU3-1","L",2778,2,"fru Syt MARCM","F","dMt-a"
+"SAJU4","SAJU4-1.lsm","SAJU4-1","L",4067,2,"fru Syt MARCM","F","SN-d"
+"SAJU4","SAJU4-1.lsm","SAJU4-1","R",4068,3,"fru Syt MARCM","F","SN-a"
+"SAJU4","SAJU4-1.lsm","SAJU4-1","R",3527,1,"fru Syt MARCM","F","aSP-i"
+"SAJU5","SAJU5-1.lsm","SAJU5-1","R",3528,1,"fru Syt MARCM","F","aSP-g"
+"SAJU8","SAJU8-1.lsm","SAJU8-1","R",3530,3,"fru Syt MARCM","F","pMP-b"
+"SAJU8","SAJU8-1.lsm","SAJU8-1","R",3529,2,"fru Syt MARCM","F","pIP-g"
+"SAJU8","SAJU8-1.lsm","SAJU8-1","L",2782,1,"fru Syt MARCM","F","dMt-b"
+"SAJW10","SAJW10-1.lsm","SAJW10-1","R",3898,1,"fru Syt MARCM","F","aDT-e"
+"SAJW11","SAJW11-1.lsm","SAJW11-1","L",3901,2,"fru Syt MARCM","F","aSP-m"
+"SAJW11","SAJW11-1.lsm","SAJW11-1","L",3902,3,"fru Syt MARCM","F","pSP-e"
+"SAJW11","SAJW11-1.lsm","SAJW11-1","R",2794,1,"fru Syt MARCM","F",NA
+"SAJW13","SAJW13-1.lsm","SAJW13-1","L",3907,1,"fru Syt MARCM","F","SN-d"
+"SAJW13","SAJW13-1.lsm","SAJW13-1","R",4069,2,"fru Syt MARCM","F","SN-d"
+"SAJW14","SAJW14-1.lsm","SAJW14-1","R",3909,3,"fru Syt MARCM","F","aIP-g"
+"SAJW15","SAJW15-1.lsm","SAJW15-1","L",3912,1,"fru Syt MARCM","F","pMP-f"
+"SAJW16","SAJW16-1.lsm","SAJW16-1","R",4071,5,"fru Syt MARCM","F","SN-d"
+"SAJW16","SAJW16-1.lsm","SAJW16-1","L",3917,3,"fru Syt MARCM","F",NA
+"SAJW16","SAJW16-1.lsm","SAJW16-1","R",3916,2,"fru Syt MARCM","F",NA
+"SAJW16","SAJW16-1.lsm","SAJW16-1","R",3915,1,"fru Syt MARCM","F","aDT-c"
+"SAJW16","SAJW16-1.lsm","SAJW16-1","L",4070,4,"fru Syt MARCM","F","SN-d"
+"SAJW17","SAJW17-1.lsm","SAJW17-1","R",3919,1,"fru Syt MARCM","F","pMP-f"
+"SAJW18","SAJW18-1.lsm","SAJW18-1","R",3921,1,"fru Syt MARCM","F","pIP-c"
+"SAJW19","SAJW19-1.lsm","SAJW19-1","L",3924,1,"fru Syt MARCM","F","pMP-b"
+"SAJW21","SAJW21-1.lsm","SAJW21-1","L",3926,2,"fru Syt MARCM","F","pIP-e"
+"SAJW21","SAJW21-1.lsm","SAJW21-1","L",3925,1,"fru Syt MARCM","F","aSP-h"
+"SAJW22","SAJW22-1.lsm","SAJW22-1","L",3923,2,"fru Syt MARCM","F","pMP-a"
+"SAJW22","SAJW22-1.lsm","SAJW22-1","L",3922,1,"fru Syt MARCM","F","MB"
+"SAJW25","SAJW25-1.lsm","SAJW25-1","L",2797,1,"fru Syt MARCM","F","vMt-a"
+"SAJW25","SAJW25-1.lsm","SAJW25-1","L",3918,2,"fru Syt MARCM","F","pMP-c"
+"SAJW25","SAJW25-1.lsm","SAJW25-1","L",3920,3,"fru Syt MARCM","F","SN-d"
+"SAJW26","SAJW26-1.lsm","SAJW26-1","L",2798,1,"fru Syt MARCM","F","vMt-a"
+"SAJW28","SAJW28-1.lsm","SAJW28-1","L",2800,1,"fru Syt MARCM","F","vMs-f"
+"SAJW3","SAJW3-1.lsm","SAJW3-1","R",3914,3,"fru Syt MARCM","F","pIP-a"
+"SAJW3","SAJW3-1.lsm","SAJW3-1","R",2801,1,"fru Syt MARCM","F","vMs-f"
+"SAJW3","SAJW3-1.lsm","SAJW3-1","L",3913,2,"fru Syt MARCM","F","aDT-h"
+"SAJW4","SAJW4-1.lsm","SAJW4-1","L",3910,1,"fru Syt MARCM","F","pIP-c"
+"SAJW4","SAJW4-1.lsm","SAJW4-1","R",3911,2,"fru Syt MARCM","F","aSP-m"
+"SAJW6","SAJW6-1.lsm","SAJW6-1","L",3904,1,"fru Syt MARCM","F","MB"
+"SAJW6","SAJW6-1.lsm","SAJW6-1","R",3905,2,"fru Syt MARCM","F","MB"
+"SAJW6","SAJW6-1.lsm","SAJW6-1","L",3908,4,"fru Syt MARCM","F","SN-d"
+"SAJW6","SAJW6-1.lsm","SAJW6-1","R",3906,3,"fru Syt MARCM","F","pIP-g"
+"SAJW7","SAJW7-1.lsm","SAJW7-1","R",3903,1,"fru Syt MARCM","F","pIP-g"
+"SAJW8","SAJW8-1.lsm","SAJW8-1","L",3900,1,"fru Syt MARCM","F","aIP-g"
+"SAJX11","SAJX11-1.lsm","SAJX11-1","R",2802,1,"fru Syt MARCM","F","vPr-h"
+"SAJX12","SAJX12-1.lsm","SAJX12-1","L",4072,3,"fru Syt MARCM","F","SN-d"
+"SAJX12","SAJX12-1.lsm","SAJX12-1","R",4073,4,"fru Syt MARCM","F","SN-d"
+"SAJX12","SAJX12-1.lsm","SAJX12-1","L",3899,2,"fru Syt MARCM","F","aIP-b"
+"SAJX12","SAJX12-1.lsm","SAJX12-1","R",2803,1,"fru Syt MARCM","F","SN-f"
+"SAJX13","SAJX13-1.lsm","SAJX13-1","L",2804,1,"fru Syt MARCM","F",NA
+"SAJX17","SAJX17-1.lsm","SAJX17-1","R",3897,1,"fru Syt MARCM","F","pMP-c"
+"SAJX19","SAJX19-1.lsm","SAJX19-1","R",3893,1,"fru Syt MARCM","F","aSP-k"
+"SAJX2","SAJX2-1.lsm","SAJX2-1","L",2805,1,"fru Syt MARCM","F","vMt-a"
+"SAJX20","SAJX20-1.lsm","SAJX20-1","L",3891,3,"fru Syt MARCM","F",NA
+"SAJX20","SAJX20-1.lsm","SAJX20-1","L",3890,2,"fru Syt MARCM","F","MB"
+"SAJX20","SAJX20-1.lsm","SAJX20-1","R",3889,1,"fru Syt MARCM","F","aIP-c"
+"SAJX3","SAJX3-1.lsm","SAJX3-1","L",3886,2,"fru Syt MARCM","F",NA
+"SAJX3","SAJX3-1.lsm","SAJX3-1","R",3884,1,"fru Syt MARCM","F","aSG-a"
+"SAJX4","SAJX4-1.lsm","SAJX4-1","R",2810,1,"fru Syt MARCM","F",NA
+"SAJX7","SAJX7-1.lsm","SAJX7-1","L",2812,2,"fru Syt MARCM","F","vMs-f"
+"SAJX7","SAJX7-1.lsm","SAJX7-1","R",3879,4,"fru Syt MARCM","F","pIP-h"
+"SAJX7","SAJX7-1.lsm","SAJX7-1","R",2811,1,"fru Syt MARCM","F","vMs-j"
+"SAJX7","SAJX7-1.lsm","SAJX7-1","L",3878,3,"fru Syt MARCM","F","aIP-c"
+"SAJX8","SAJX8-1.lsm","SAJX8-1","L",2814,2,"fru Syt MARCM","F",NA
+"SAJX8","SAJX8-1.lsm","SAJX8-1","R",3877,4,"fru Syt MARCM","F","pIP-e"
+"SAJX8","SAJX8-1.lsm","SAJX8-1","L",3876,3,"fru Syt MARCM","F","aDT-h"
+"SAJX8","SAJX8-1.lsm","SAJX8-1","L",2813,1,"fru Syt MARCM","F",NA
+"SAJX9","SAJX9-1.lsm","SAJX9-1","L",3875,2,"fru Syt MARCM","F","SN-d"
+"SAJX9","SAJX9-1.lsm","SAJX9-1","L",3872,1,"fru Syt MARCM","F","aSP-k"
+"SAJY1","SAJY1-1.lsm","SAJY1-1","L",3866,3,"fru Syt MARCM","M","pIP-f"
+"SAJY1","SAJY1-1.lsm","SAJY1-1","R",2815,1,"fru Syt MARCM","M","vPr-i"
+"SAJY1","SAJY1-1.lsm","SAJY1-1","L",3488,2,"fru Syt MARCM","M",NA
+"SAJY10","SAJY10-1.lsm","SAJY10-1","L",3861,4,"fru Syt MARCM","M","pMP-f"
+"SAJY10","SAJY10-1.lsm","SAJY10-1","R",3862,5,"fru Syt MARCM","M","aSP-m"
+"SAJY10","SAJY10-1.lsm","SAJY10-1","R",3860,3,"fru Syt MARCM","M","aSP-h"
+"SAJY10","SAJY10-1.lsm","SAJY10-1","R",2816,1,"fru Syt MARCM","M","vPr-j"
+"SAJY10","SAJY10-1.lsm","SAJY10-1","L",3858,2,"fru Syt MARCM","M","aSP-g"
+"SAJY11","SAJY11-1.lsm","SAJY11-1","R",2817,1,"fru Syt MARCM","M",NA
+"SAJY12","SAJY12-1.lsm","SAJY12-1","L",3857,2,"fru Syt MARCM","M","aSP-g"
+"SAJY12","SAJY12-1.lsm","SAJY12-1","L",2818,1,"fru Syt MARCM","M","dMs-a"
+"SAJY13","SAJY13-1.lsm","SAJY13-1","L",2820,2,"fru Syt MARCM","M","vMs-n"
+"SAJY13","SAJY13-1.lsm","SAJY13-1","R",2819,1,"fru Syt MARCM","M","vPr-e"
+"SAJY14","SAJY14-1.lsm","SAJY14-1","R",2822,2,"fru Syt MARCM","M","SN-g"
+"SAJY14","SAJY14-1.lsm","SAJY14-1","L",2821,1,"fru Syt MARCM","M","SN-f"
+"SAJY14","SAJY14-1.lsm","SAJY14-1","R",3854,5,"fru Syt MARCM","M","SN-a"
+"SAJY14","SAJY14-1.lsm","SAJY14-1","R",2823,3,"fru Syt MARCM","M","SN-h"
+"SAJY14","SAJY14-1.lsm","SAJY14-1","L",3853,4,"fru Syt MARCM","M","aDT-e"
+"SAJY15","SAJY15-1.lsm","SAJY15-1","R",2824,1,"fru Syt MARCM","M","dPr-a"
+"SAJY16","SAJY16-1.lsm","SAJY16-1","L",3851,2,"fru Syt MARCM","M",NA
+"SAJY16","SAJY16-1.lsm","SAJY16-1","L",2825,1,"fru Syt MARCM","M","dAb-a"
+"SAJY16","SAJY16-1.lsm","SAJY16-1","L",4170,3,"fru Syt MARCM","M","SN-a"
+"SAJY17","SAJY17-1.lsm","SAJY17-1","R",2826,1,"fru Syt MARCM","M","SN-f"
+"SAJY18","SAJY18-1.lsm","SAJY18-1","L",2827,1,"fru Syt MARCM","M","SN-g"
+"SAJY19","SAJY19-1.lsm","SAJY19-1","R",3849,2,"fru Syt MARCM","M","aSP-h"
+"SAJY19","SAJY19-1.lsm","SAJY19-1","R",4171,3,"fru Syt MARCM","M","SN-d"
+"SAJY19","SAJY19-1.lsm","SAJY19-1","L",4172,4,"fru Syt MARCM","M","SN-d"
+"SAJY19","SAJY19-1.lsm","SAJY19-1","R",2828,1,"fru Syt MARCM","M","dMs-a"
+"SAJY2","SAJY2-1.lsm","SAJY2-1","L",3847,2,"fru Syt MARCM","M","aSP-a"
+"SAJY2","SAJY2-1.lsm","SAJY2-1","L",2829,1,"fru Syt MARCM","M",NA
+"SAJY20","SAJY20-1.lsm","SAJY20-1","R",3839,1,"fru Syt MARCM","M","aDT-e"
+"SAJY20","SAJY20-1.lsm","SAJY20-1","L",3840,2,"fru Syt MARCM","M","vPr-j"
+"SAJY20","SAJY20-1.lsm","SAJY20-1","L",3842,3,"fru Syt MARCM","M","SN-a"
+"SAJY21","SAJY21-1.lsm","SAJY21-1","R",3831,2,"fru Syt MARCM","M","pMP-g"
+"SAJY21","SAJY21-1.lsm","SAJY21-1","L",3834,5,"fru Syt MARCM","M","SN-a"
+"SAJY21","SAJY21-1.lsm","SAJY21-1","L",3832,3,"fru Syt MARCM","M","pSP-a"
+"SAJY21","SAJY21-1.lsm","SAJY21-1","L",3833,4,"fru Syt MARCM","M","aIP-h"
+"SAJY3","SAJY3-1.lsm","SAJY3-1","L",3830,1,"fru Syt MARCM","M","pIP-h"
+"SAJY4","SAJY4-1.lsm","SAJY4-1","R",3828,2,"fru Syt MARCM","M","pIP-j"
+"SAJY4","SAJY4-1.lsm","SAJY4-1","L",3827,1,"fru Syt MARCM","M","MB"
+"SAJY5","SAJY5-1.lsm","SAJY5-1","L",2830,1,"fru Syt MARCM","M","vPr-l"
+"SAJY5","SAJY5-1.lsm","SAJY5-1","L",2831,2,"fru Syt MARCM","M","SN-g"
+"SAJY6","SAJY6-1.lsm","SAJY6-1","L",2833,2,"fru Syt MARCM","M",NA
+"SAJY6","SAJY6-1.lsm","SAJY6-1","L",3823,4,"fru Syt MARCM","M",NA
+"SAJY6","SAJY6-1.lsm","SAJY6-1","R",3821,3,"fru Syt MARCM","M","aIP-g"
+"SAJY6","SAJY6-1.lsm","SAJY6-1","R",2832,1,"fru Syt MARCM","M","vPr-e"
+"SAJY7","SAJY7-1.lsm","SAJY7-1","R",3819,1,"fru Syt MARCM","M","aSP-g"
+"SAJY7","SAJY7-1.lsm","SAJY7-1","R",3820,2,"fru Syt MARCM","M",NA
+"SAJY8","SAJY8-1.lsm","SAJY8-1","L",3817,4,"fru Syt MARCM","M","pSG-b"
+"SAJY8","SAJY8-1.lsm","SAJY8-1","R",2835,2,"fru Syt MARCM","M","dAb-a"
+"SAJY8","SAJY8-1.lsm","SAJY8-1","L",2834,1,"fru Syt MARCM","M","vMs-j"
+"SAJY8","SAJY8-1.lsm","SAJY8-1","L",3816,3,"fru Syt MARCM","M","aIP-c"
+"SAJY9","SAJY9-1.lsm","SAJY9-1","L",2837,2,"fru Syt MARCM","M","vPr-j"
+"SAJY9","SAJY9-1.lsm","SAJY9-1","L",3814,3,"fru Syt MARCM","M","aSP-k"
+"SAJY9","SAJY9-1.lsm","SAJY9-1","R",2836,1,"fru Syt MARCM","M",NA
+"SAJY9","SAJY9-1.lsm","SAJY9-1","L",3815,4,"fru Syt MARCM","M","pMP-e"
+"SAKA1","SAKA1-1.lsm","SAKA1-1","L",3770,3,"fru Syt MARCM","M","pIP-j"
+"SAKA1","SAKA1-1.lsm","SAKA1-1","L",2838,1,"fru Syt MARCM","M","pIP-c"
+"SAKA1","SAKA1-1.lsm","SAKA1-1","L",2839,2,"fru Syt MARCM","M","pMP-c"
+"SAKA1","SAKA1-1.lsm","SAKA1-1","R",3813,4,"fru Syt MARCM","M","SN-a"
+"SAKA10","SAKA10-1.lsm","SAKA10-1","R",2843,4,"fru Syt MARCM","M","vMs-f"
+"SAKA10","SAKA10-1.lsm","SAKA10-1","R",2840,1,"fru Syt MARCM","M","aSP-j"
+"SAKA10","SAKA10-1.lsm","SAKA10-1","R",2841,2,"fru Syt MARCM","M","aSP-i"
+"SAKA10","SAKA10-1.lsm","SAKA10-1","L",2842,3,"fru Syt MARCM","M","pSP-a"
+"SAKA11","SAKA11-1.lsm","SAKA11-1","R",2845,2,"fru Syt MARCM","M","SN-h"
+"SAKA11","SAKA11-1.lsm","SAKA11-1","L",2844,1,"fru Syt MARCM","M","SN-g"
+"SAKA12","SAKA12-1.lsm","SAKA12-1","L",2846,1,"fru Syt MARCM","M","dAb-a"
+"SAKA13","SAKA13-1.lsm","SAKA13-1","R",2791,1,"fru Syt MARCM","M","vPr-l"
+"SAKA13","SAKA13-1.lsm","SAKA13-1","L",2792,2,"fru Syt MARCM","M","vPr-j"
+"SAKA14","SAKA14-1.lsm","SAKA14-1","L",2790,1,"fru Syt MARCM","M","vMt-f"
+"SAKA2","SAKA2-1.lsm","SAKA2-1","R",2789,1,"fru Syt MARCM","M","dPr-e"
+"SAKA2","SAKA2-1.lsm","SAKA2-1","R",3767,3,"fru Syt MARCM","M",NA
+"SAKA2","SAKA2-1.lsm","SAKA2-1","R",4173,4,"fru Syt MARCM","M","SN-d"
+"SAKA2","SAKA2-1.lsm","SAKA2-1","L",3766,2,"fru Syt MARCM","M","aSP-b"
+"SAKA3","SAKA3-1.lsm","SAKA3-1","R",2788,1,"fru Syt MARCM","M","vMs-g"
+"SAKA3","SAKA3-1.lsm","SAKA3-1","R",3757,2,"fru Syt MARCM","M","aDT-e"
+"SAKA3","SAKA3-1.lsm","SAKA3-1","L",3758,3,"fru Syt MARCM","M","aSP-l"
+"SAKA4","SAKA4-1.lsm","SAKA4-1","L",2787,1,"fru Syt MARCM","M","SN-g"
+"SAKA4","SAKA4-1.lsm","SAKA4-1","L",3756,2,"fru Syt MARCM","M","aSP-i"
+"SAKA4","SAKA4-1.lsm","SAKA4-1","R",4174,3,"fru Syt MARCM","M","SN-d"
+"SAKA5","SAKA5-1.lsm","SAKA5-1","L",4175,5,"fru Syt MARCM","M","SN-b"
+"SAKA5","SAKA5-1.lsm","SAKA5-1","R",3755,4,"fru Syt MARCM","M","aSP-c"
+"SAKA5","SAKA5-1.lsm","SAKA5-1","L",2786,2,"fru Syt MARCM","M","SN-h"
+"SAKA5","SAKA5-1.lsm","SAKA5-1","L",2785,1,"fru Syt MARCM","M","SN-g"
+"SAKA5","SAKA5-1.lsm","SAKA5-1","L",3754,3,"fru Syt MARCM","M","MB"
+"SAKA6","SAKA6-1.lsm","SAKA6-1","R",3753,1,"fru Syt MARCM","M","aDT-g"
+"SAKA7","SAKA7-1.lsm","SAKA7-1","L",3752,4,"fru Syt MARCM","M","pSP-e"
+"SAKA7","SAKA7-1.lsm","SAKA7-1","L",2784,2,"fru Syt MARCM","M",NA
+"SAKA7","SAKA7-1.lsm","SAKA7-1","R",3751,3,"fru Syt MARCM","M","pIP-h"
+"SAKA7","SAKA7-1.lsm","SAKA7-1","L",2783,1,"fru Syt MARCM","M","vPr-a"
+"SAKA8","SAKA8-1.lsm","SAKA8-1","L",3749,2,"fru Syt MARCM","M","SN-a"
+"SAKA8","SAKA8-1.lsm","SAKA8-1","L",3748,1,"fru Syt MARCM","M","aSP-f"
+"SAKA8","SAKA8-1.lsm","SAKA8-1","R",3750,3,"fru Syt MARCM","M","SN-a"
+"SAKA9","SAKA9-1.lsm","SAKA9-1","R",2781,2,"fru Syt MARCM","M","SN-f"
+"SAKA9","SAKA9-1.lsm","SAKA9-1","L",2780,1,"fru Syt MARCM","M",NA
+"SAKB1","SAKB1-1.lsm","SAKB1-1","R",3747,2,"fru Syt MARCM","M","pIP-g"
+"SAKB1","SAKB1-1.lsm","SAKB1-1","R",2886,1,"fru Syt MARCM","M","dPr-e"
+"SAKB10","SAKB10-1.lsm","SAKB10-1","R",3745,5,"fru Syt MARCM","M","aIP-e"
+"SAKB10","SAKB10-1.lsm","SAKB10-1","R",2885,3,"fru Syt MARCM","M","vMs-i"
+"SAKB10","SAKB10-1.lsm","SAKB10-1","R",3746,6,"fru Syt MARCM","M","SN-a"
+"SAKB10","SAKB10-1.lsm","SAKB10-1","R",3744,4,"fru Syt MARCM","M","pMP-b"
+"SAKB10","SAKB10-1.lsm","SAKB10-1","L",2884,2,"fru Syt MARCM","M",NA
+"SAKB11","SAKB11-1.lsm","SAKB11-1","R",2882,1,"fru Syt MARCM","M","dPr-e"
+"SAKB13","SAKB13-1.lsm","SAKB13-1","R",2880,1,"fru Syt MARCM","M","SN-f"
+"SAKB13","SAKB13-1.lsm","SAKB13-1","L",2881,2,"fru Syt MARCM","M","SN-g"
+"SAKB14","SAKB14-1.lsm","SAKB14-1","R",3741,3,"fru Syt MARCM","M","pSP-b"
+"SAKB14","SAKB14-1.lsm","SAKB14-1","R",3742,4,"fru Syt MARCM","M",NA
+"SAKB14","SAKB14-1.lsm","SAKB14-1","L",3740,2,"fru Syt MARCM","M","aDT-a"
+"SAKB15","SAKB15-1.lsm","SAKB15-1","R",3737,2,"fru Syt MARCM","M","pMP-g"
+"SAKB15","SAKB15-1.lsm","SAKB15-1","R",3738,3,"fru Syt MARCM","M","pIP-c"
+"SAKB15","SAKB15-1.lsm","SAKB15-1","R",2878,1,"fru Syt MARCM","M","vPr-j"
+"SAKB15","SAKB15-1.lsm","SAKB15-1","R",3739,4,"fru Syt MARCM","M","SN-d"
+"SAKB15","SAKB15-1.lsm","SAKB15-1","R",4177,6,"fru Syt MARCM","M","SN-b"
+"SAKB15","SAKB15-1.lsm","SAKB15-1","L",4176,5,"fru Syt MARCM","M","SN-c"
+"SAKB16","SAKB16-1.lsm","SAKB16-1","L",2877,1,"fru Syt MARCM","M","vMs-e"
+"SAKB17","SAKB17-1.lsm","SAKB17-1","R",2876,1,"fru Syt MARCM","M","SN-f"
+"SAKB18","SAKB18-1.lsm","SAKB18-1","R",3736,1,"fru Syt MARCM","M","pIP-c"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",3732,6,"fru Syt MARCM","M","aDT-d"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",3734,8,"fru Syt MARCM","M","SN-a"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",3733,7,"fru Syt MARCM","M","aSP-h"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",3731,5,"fru Syt MARCM","M",NA
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",2875,3,"fru Syt MARCM","M",NA
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",3730,4,"fru Syt MARCM","M","MB"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",4077,10,"fru Syt MARCM","M","SN-b"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",3735,9,"fru Syt MARCM","M","pMP-c"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",2874,2,"fru Syt MARCM","M","vMt-c"
+"SAKB19","SAKB19-1.lsm","SAKB19-1","R",2873,1,"fru Syt MARCM","M","vMt-a"
+"SAKB2","SAKB2-1.lsm","SAKB2-1","R",3728,3,"fru Syt MARCM","M",NA
+"SAKB2","SAKB2-1.lsm","SAKB2-1","R",3727,2,"fru Syt MARCM","M","SN-a"
+"SAKB2","SAKB2-1.lsm","SAKB2-1","R",3729,4,"fru Syt MARCM","M",NA
+"SAKB2","SAKB2-1.lsm","SAKB2-1","L",2872,1,"fru Syt MARCM","M","dMt-a"
+"SAKB20","SAKB20-2.lsm","SAKB20-2","L",3726,2,"fru Syt MARCM","M","SN-a"
+"SAKB20","SAKB20-2.lsm","SAKB20-2","R",3725,1,"fru Syt MARCM","M","pSP-f"
+"SAKB20","SAKB20-2.lsm","SAKB20-2","L",4178,3,"fru Syt MARCM","M","SN-d"
+"SAKB22","SAKB22-1.lsm","SAKB22-1","L",3722,4,"fru Syt MARCM","M","aIP-c"
+"SAKB22","SAKB22-1.lsm","SAKB22-1","R",2870,1,"fru Syt MARCM","M","SN-h"
+"SAKB22","SAKB22-1.lsm","SAKB22-1","R",3720,2,"fru Syt MARCM","M","MB"
+"SAKB22","SAKB22-1.lsm","SAKB22-1","L",3723,5,"fru Syt MARCM","M","SN-a"
+"SAKB22","SAKB22-1.lsm","SAKB22-1","R",3721,3,"fru Syt MARCM","M","aSP-g"
+"SAKB22","SAKB22-1.lsm","SAKB22-1","R",3724,6,"fru Syt MARCM","M","SN-b"
+"SAKB23","SAKB23-1.lsm","SAKB23-1","L",3718,4,"fru Syt MARCM","M","MB"
+"SAKB23","SAKB23-1.lsm","SAKB23-1","L",3371,1,"fru Syt MARCM","M","vMs-a"
+"SAKB23","SAKB23-1.lsm","SAKB23-1","L",3376,3,"fru Syt MARCM","M",NA
+"SAKB23","SAKB23-1.lsm","SAKB23-1","L",3719,5,"fru Syt MARCM","M","pIP-e"
+"SAKB23","SAKB23-1.lsm","SAKB23-1","L",3374,2,"fru Syt MARCM","M","vPr-e"
+"SAKB24","SAKB24-1.lsm","SAKB24-1","L",3716,1,"fru Syt MARCM","M","aDT-b"
+"SAKB24","SAKB24-1.lsm","SAKB24-1","L",3717,2,"fru Syt MARCM","M","MB"
+"SAKB26","SAKB26-1.lsm","SAKB26-1","R",3714,2,"fru Syt MARCM","M","pIP-c"
+"SAKB26","SAKB26-1.lsm","SAKB26-1","R",3715,3,"fru Syt MARCM","M",NA
+"SAKB26","SAKB26-1.lsm","SAKB26-1","L",2866,1,"fru Syt MARCM","M","dAb-a"
+"SAKB29","SAKB29-1.lsm","SAKB29-1","L",3711,1,"fru Syt MARCM","M","pSP-a"
+"SAKB29","SAKB29-1.lsm","SAKB29-1","L",3712,2,"fru Syt MARCM","M","pIP-e"
+"SAKB29","SAKB29-1.lsm","SAKB29-1","R",3713,3,"fru Syt MARCM","M","aSP-g"
+"SAKB3","SAKB3-1.lsm","SAKB3-1","L",2863,2,"fru Syt MARCM","M","SN-h"
+"SAKB3","SAKB3-1.lsm","SAKB3-1","L",2862,1,"fru Syt MARCM","M","SN-f"
+"SAKB3","SAKB3-1.lsm","SAKB3-1","R",2864,3,"fru Syt MARCM","M","vMs-b"
+"SAKB31","SAKB31-1.lsm","SAKB31-1","L",3390,2,"fru Syt MARCM","M",NA
+"SAKB31","SAKB31-1.lsm","SAKB31-1","L",2861,1,"fru Syt MARCM","M",NA
+"SAKB35","SAKB35-1.lsm","SAKB35-1","L",2858,1,"fru Syt MARCM","M","vPr-c"
+"SAKB35","SAKB35-1.lsm","SAKB35-1","R",2859,2,"fru Syt MARCM","M","SN-g"
+"SAKB4","SAKB4-1.lsm","SAKB4-1","R",2857,2,"fru Syt MARCM","M","SN-f"
+"SAKB4","SAKB4-1.lsm","SAKB4-1","R",3710,4,"fru Syt MARCM","M","pMP-g"
+"SAKB4","SAKB4-1.lsm","SAKB4-1","L",2856,1,"fru Syt MARCM","M","vMs-j"
+"SAKB4","SAKB4-1.lsm","SAKB4-1","L",3709,3,"fru Syt MARCM","M","MB"
+"SAKB5","SAKB5-1.lsm","SAKB5-1","L",2852,1,"fru Syt MARCM","M","vMt-a"
+"SAKB5","SAKB5-1.lsm","SAKB5-1","L",2854,3,"fru Syt MARCM","M","SN-g"
+"SAKB5","SAKB5-1.lsm","SAKB5-1","L",2855,4,"fru Syt MARCM","M","vPr-g"
+"SAKB5","SAKB5-1.lsm","SAKB5-1","R",2853,2,"fru Syt MARCM","M","vMt-a"
+"SAKB5","SAKB5-1.lsm","SAKB5-1","R",3708,6,"fru Syt MARCM","M","pIP-e"
+"SAKB5","SAKB5-1.lsm","SAKB5-1","R",3707,5,"fru Syt MARCM","M","aIP-b"
+"SAKB6","SAKB6-1.lsm","SAKB6-1","L",2850,1,"fru Syt MARCM","M",NA
+"SAKB6","SAKB6-1.lsm","SAKB6-1","L",2851,2,"fru Syt MARCM","M","dMt-d"
+"SAKB6","SAKB6-1.lsm","SAKB6-1","R",3706,5,"fru Syt MARCM","M",NA
+"SAKB6","SAKB6-1.lsm","SAKB6-1","R",3704,3,"fru Syt MARCM","M","aIP-i"
+"SAKB6","SAKB6-1.lsm","SAKB6-1","R",3705,4,"fru Syt MARCM","M","pIP-j"
+"SAKB8","SAKB8-1.lsm","SAKB8-1","L",3703,3,"fru Syt MARCM","M",NA
+"SAKB8","SAKB8-1.lsm","SAKB8-1","L",3702,2,"fru Syt MARCM","M","MB"
+"SAKB8","SAKB8-1.lsm","SAKB8-1","R",2849,1,"fru Syt MARCM","M","pSG-b"
+"SAKB9","SAKB9-1.lsm","SAKB9-1","L",3404,1,"fru Syt MARCM","M",NA
+"SAKC1","SAKC1-1.lsm","SAKC1-1","R",2779,1,"fru Syt MARCM","M","vMt-f"
+"SAKC1","SAKC1-1.lsm","SAKC1-1","L",3700,2,"fru Syt MARCM","M","MB"
+"SAKC1","SAKC1-1.lsm","SAKC1-1","R",3701,3,"fru Syt MARCM","M","aDT-e"
+"SAKC10","SAKC10-1.lsm","SAKC10-1","L",4179,2,"fru Syt MARCM","M","SN-b"
+"SAKC10","SAKC10-1.lsm","SAKC10-1","L",3698,1,"fru Syt MARCM","M","aSP-g"
+"SAKC11","SAKC11-1.lsm","SAKC11-1","R",2704,1,"fru Syt MARCM","M","pIP-d"
+"SAKC11","SAKC11-1.lsm","SAKC11-1","R",4181,7,"fru Syt MARCM","M","SN-c"
+"SAKC11","SAKC11-1.lsm","SAKC11-1","R",2706,3,"fru Syt MARCM","M","aSP-h"
+"SAKC11","SAKC11-1.lsm","SAKC11-1","R",3697,5,"fru Syt MARCM","M","pIP-a"
+"SAKC11","SAKC11-1.lsm","SAKC11-1","L",2777,4,"fru Syt MARCM","M","vMs-b"
+"SAKC11","SAKC11-1.lsm","SAKC11-1","R",4180,6,"fru Syt MARCM","M","SN-a"
+"SAKC11","SAKC11-1.lsm","SAKC11-1","L",2705,2,"fru Syt MARCM","M",NA
+"SAKC12","SAKC12-1.lsm","SAKC12-1","L",2700,1,"fru Syt MARCM","M","pSP-b"
+"SAKC12","SAKC12-1.lsm","SAKC12-1","L",2701,2,"fru Syt MARCM","M","aDT-c"
+"SAKC12","SAKC12-1.lsm","SAKC12-1","L",2703,3,"fru Syt MARCM","M","MB"
+"SAKC12","SAKC12-1.lsm","SAKC12-1","R",2776,5,"fru Syt MARCM","M",NA
+"SAKC12","SAKC12-1.lsm","SAKC12-1","L",2771,4,"fru Syt MARCM","M","dPr-a"
+"SAKC14","SAKC14-1.lsm","SAKC14-1","L",2770,1,"fru Syt MARCM","M","SN-g"
+"SAKC15","SAKC15-1.lsm","SAKC15-1","R",2769,1,"fru Syt MARCM","M",NA
+"SAKC16","SAKC16-1.lsm","SAKC16-1","R",2767,1,"fru Syt MARCM","M","SN-h"
+"SAKC17","SAKC17-1.lsm","SAKC17-1","L",2766,1,"fru Syt MARCM","M","vMs-j"
+"SAKC18","SAKC18-1.lsm","SAKC18-1","L",2765,1,"fru Syt MARCM","M",NA
+"SAKC19","SAKC19-1.lsm","SAKC19-1","L",2696,2,"fru Syt MARCM","M","aIP-f"
+"SAKC19","SAKC19-1.lsm","SAKC19-1","L",2697,3,"fru Syt MARCM","M","MB"
+"SAKC19","SAKC19-1.lsm","SAKC19-1","R",2695,1,"fru Syt MARCM","M","pMP-e"
+"SAKC19","SAKC19-1.lsm","SAKC19-1","L",3696,10,"fru Syt MARCM","M","SN-c"
+"SAKC19","SAKC19-1.lsm","SAKC19-1","R",3487,8,"fru Syt MARCM","M",NA
+"SAKC19","SAKC19-1.lsm","SAKC19-1","L",3405,7,"fru Syt MARCM","M",NA
+"SAKC19","SAKC19-1.lsm","SAKC19-1","R",2699,5,"fru Syt MARCM","M","MB"
+"SAKC19","SAKC19-1.lsm","SAKC19-1","L",2698,4,"fru Syt MARCM","M","MB"
+"SAKC19","SAKC19-1.lsm","SAKC19-1","L",3695,9,"fru Syt MARCM","M","SN-a"
+"SAKC2","SAKC2-1.lsm","SAKC2-1","L",2762,2,"fru Syt MARCM","M","SN-g"
+"SAKC2","SAKC2-1.lsm","SAKC2-1","R",2761,1,"fru Syt MARCM","M","vMt-a"
+"SAKC2","SAKC2-1.lsm","SAKC2-1","R",3406,3,"fru Syt MARCM","M","dAb-a"
+"SAKC20","SAKC20-1.lsm","SAKC20-1","R",2758,5,"fru Syt MARCM","M","SN-g"
+"SAKC20","SAKC20-1.lsm","SAKC20-1","L",2756,3,"fru Syt MARCM","M","dMs-b"
+"SAKC20","SAKC20-1.lsm","SAKC20-1","L",2693,1,"fru Syt MARCM","M","MB"
+"SAKC20","SAKC20-1.lsm","SAKC20-1","R",2694,2,"fru Syt MARCM","M","pMP-e"
+"SAKC20","SAKC20-1.lsm","SAKC20-1","L",2757,4,"fru Syt MARCM","M",NA
+"SAKC20","SAKC20-1.lsm","SAKC20-1","L",3692,6,"fru Syt MARCM","M","pIP-h"
+"SAKC21","SAKC21-1.lsm","SAKC21-1","R",2752,2,"fru Syt MARCM","M","SN-g"
+"SAKC21","SAKC21-1.lsm","SAKC21-1","L",2751,1,"fru Syt MARCM","M","vMs-f"
+"SAKC22","SAKC22-1.lsm","SAKC22-1","R",2744,6,"fru Syt MARCM","M","vPr-g"
+"SAKC22","SAKC22-1.lsm","SAKC22-1","R",2689,2,"fru Syt MARCM","M","aIP-a"
+"SAKC22","SAKC22-1.lsm","SAKC22-1","R",2743,5,"fru Syt MARCM","M","vPr-c"
+"SAKC22","SAKC22-1.lsm","SAKC22-1","L",3413,8,"fru Syt MARCM","M",NA
+"SAKC22","SAKC22-1.lsm","SAKC22-1","R",2690,3,"fru Syt MARCM","M",NA
+"SAKC22","SAKC22-1.lsm","SAKC22-1","L",2688,1,"fru Syt MARCM","M","aSP-k"
+"SAKC22","SAKC22-1.lsm","SAKC22-1","L",2691,4,"fru Syt MARCM","M",NA
+"SAKC23","SAKC23-1.lsm","SAKC23-1","R",3414,1,"fru Syt MARCM","M","dPr-e"
+"SAKC24","SAKC24-1.lsm","SAKC24-1","R",2742,1,"fru Syt MARCM","M","SN-g"
+"SAKC25","SAKC25-1.lsm","SAKC25-1","L",3688,2,"fru Syt MARCM","M","SN-c"
+"SAKC25","SAKC25-1.lsm","SAKC25-1","L",4076,3,"fru Syt MARCM","M","SN-a"
+"SAKC25","SAKC25-1.lsm","SAKC25-1","R",3687,1,"fru Syt MARCM","M","aSP-c"
+"SAKC27","SAKC27-1.lsm","SAKC27-1","R",3677,2,"fru Syt MARCM","M","SN-a"
+"SAKC27","SAKC27-1.lsm","SAKC27-1","L",3681,4,"fru Syt MARCM","M",NA
+"SAKC27","SAKC27-1.lsm","SAKC27-1","L",3676,1,"fru Syt MARCM","M","SN-a"
+"SAKC27","SAKC27-1.lsm","SAKC27-1","R",4198,5,"fru Syt MARCM","M","vPr-j"
+"SAKC27","SAKC27-1.lsm","SAKC27-1","L",3680,3,"fru Syt MARCM","M",NA
+"SAKC28","SAKC28-1.lsm","SAKC28-1","R",3669,1,"fru Syt MARCM","M","pMP-g"
+"SAKC28","SAKC28-1.lsm","SAKC28-1","L",3672,2,"fru Syt MARCM","M","aDT-g"
+"SAKC29","SAKC29-1.lsm","SAKC29-1","R",3663,4,"fru Syt MARCM","M","aDT-e"
+"SAKC29","SAKC29-1.lsm","SAKC29-1","L",3660,1,"fru Syt MARCM","M","MB"
+"SAKC29","SAKC29-1.lsm","SAKC29-1","L",3662,3,"fru Syt MARCM","M","aSG-a"
+"SAKC29","SAKC29-1.lsm","SAKC29-1","L",3661,2,"fru Syt MARCM","M","SN-c"
+"SAKC3","SAKC3-1.lsm","SAKC3-1","L",3653,2,"fru Syt MARCM","M","pIP-"
+"SAKC3","SAKC3-1.lsm","SAKC3-1","L",3651,1,"fru Syt MARCM","M","pMP-d"
+"SAKC32","SAKC32-1.lsm","SAKC32-1","R",2741,1,"fru Syt MARCM","M","vPr-l"
+"SAKC33","SAKC33-1.lsm","SAKC33-1","R",2847,1,"fru Syt MARCM","M","vPr-i"
+"SAKC33","SAKC33-1.lsm","SAKC33-1","R",2848,2,"fru Syt MARCM","M","vMs-e"
+"SAKC35","SAKC35-1.lsm","SAKC35-1","L",2733,1,"fru Syt MARCM","M","vPr-e"
+"SAKC36","SAKC36-1.lsm","SAKC36-1","R",2731,2,"fru Syt MARCM","M","SN-h"
+"SAKC36","SAKC36-1.lsm","SAKC36-1","R",2729,1,"fru Syt MARCM","M","vMs-j"
+"SAKC5","SAKC5-1.lsm","SAKC5-1","L",4078,7,"fru Syt MARCM","M","SN-b"
+"SAKC5","SAKC5-1.lsm","SAKC5-1","L",3650,6,"fru Syt MARCM","M","SN-a"
+"SAKC5","SAKC5-1.lsm","SAKC5-1","L",2723,4,"fru Syt MARCM","M",NA
+"SAKC5","SAKC5-1.lsm","SAKC5-1","R",2725,5,"fru Syt MARCM","M","vMt-c"
+"SAKC5","SAKC5-1.lsm","SAKC5-1","R",2687,3,"fru Syt MARCM","M","aIP-d"
+"SAKC5","SAKC5-1.lsm","SAKC5-1","R",2686,2,"fru Syt MARCM","M","aDT-d"
+"SAKC5","SAKC5-1.lsm","SAKC5-1","L",2684,1,"fru Syt MARCM","M","aDT-c"
+"SAKC6","SAKC6-1.lsm","SAKC6-1","L",2722,1,"fru Syt MARCM","M",NA
+"SAKC7","SAKC7-1.lsm","SAKC7-1","L",2721,3,"fru Syt MARCM","M",NA
+"SAKC7","SAKC7-1.lsm","SAKC7-1","R",2720,2,"fru Syt MARCM","M","vMs-a"
+"SAKC7","SAKC7-1.lsm","SAKC7-1","L",3649,4,"fru Syt MARCM","M","SN-a"
+"SAKC7","SAKC7-1.lsm","SAKC7-1","R",2682,1,"fru Syt MARCM","M","pMP-e"
+"SAKC8","SAKC8-1.lsm","SAKC8-1","R",2717,1,"fru Syt MARCM","M","vPr-h"
+"SAKC9","SAKC9-1.lsm","SAKC9-1","L",4079,8,"fru Syt MARCM","M","SN-b"
+"SAKC9","SAKC9-1.lsm","SAKC9-1","R",2679,3,"fru Syt MARCM","M","MB"
+"SAKC9","SAKC9-1.lsm","SAKC9-1","R",2676,1,"fru Syt MARCM","M","pMP-b"
+"SAKC9","SAKC9-1.lsm","SAKC9-1","L",3648,7,"fru Syt MARCM","M","SN-a"
+"SAKC9","SAKC9-1.lsm","SAKC9-1","L",2678,2,"fru Syt MARCM","M","pIP-e"
+"SAKC9","SAKC9-1.lsm","SAKC9-1","R",3422,6,"fru Syt MARCM","M",NA
+"SAKC9","SAKC9-1.lsm","SAKC9-1","L",3421,5,"fru Syt MARCM","M","dMt-d"
+"SAKC9","SAKC9-1.lsm","SAKC9-1","R",2707,4,"fru Syt MARCM","M","vPr-k"
+"SAKD10","SAKD10-1.lsm","SAKD10-1","R",4074,2,"fru Syt MARCM","F","SN-c"
+"SAKD10","SAKD10-1.lsm","SAKD10-1","L",2672,1,"fru Syt MARCM","F","pMP-g"
+"SAKD13","SAKD13-1.lsm","SAKD13-1","R",2668,1,"fru Syt MARCM","F","aSP-k"
+"SAKD14","SAKD14-1.lsm","SAKD14-1","R",2667,1,"fru Syt MARCM","F","pMP-g"
+"SAKD15","SAKD15-1.lsm","SAKD15-1","L",2661,1,"fru Syt MARCM","F","MB"
+"SAKD15","SAKD15-1.lsm","SAKD15-1","R",2664,4,"fru Syt MARCM","F",NA
+"SAKD15","SAKD15-1.lsm","SAKD15-1","L",3636,5,"fru Syt MARCM","F","SN-d"
+"SAKD15","SAKD15-1.lsm","SAKD15-1","L",2662,2,"fru Syt MARCM","F","aIP-c"
+"SAKD15","SAKD15-1.lsm","SAKD15-1","L",2663,3,"fru Syt MARCM","F","pIP-g"
+"SAKD16","SAKD16-1.lsm","SAKD16-1","L",2660,1,"fru Syt MARCM","F","aIP-e"
+"SAKD17","SAKD17-1.lsm","SAKD17-1","R",2655,1,"fru Syt MARCM","F","pMP-b"
+"SAKD17","SAKD17-1.lsm","SAKD17-1","L",2657,2,"fru Syt MARCM","F","pSP-e"
+"SAKD2","SAKD2-1.lsm","SAKD2-1","L",2653,1,"fru Syt MARCM","F","aIP-i"
+"SAKD5","SAKD5-1.lsm","SAKD5-1","L",2649,2,"fru Syt MARCM","F","MB"
+"SAKD5","SAKD5-1.lsm","SAKD5-1","L",2648,1,"fru Syt MARCM","F","aSP-l"
+"SAKD9","SAKD9-1.lsm","SAKD9-1","L",2545,2,"fru Syt MARCM","F","pSP-a"
+"SAKD9","SAKD9-1.lsm","SAKD9-1","L",2544,1,"fru Syt MARCM","F","aSP-i"
+"SAKE2","SAKE2-1.lsm","SAKE2-1","L",2543,1,"fru Syt MARCM","F",NA
+"SAKF1","SAKF1-1.lsm","SAKF1-1","L",3607,1,"fru Syt MARCM","M","SN-d"
+"SAKF18","SAKF18-1.lsm","SAKF18-1","R",3601,2,"fru Syt MARCM","M","SN-a"
+"SAKF18","SAKF18-1.lsm","SAKF18-1","L",3596,1,"fru Syt MARCM","M","aIP-b"
+"SAKF18","SAKF18-1.lsm","SAKF18-1","L",3602,3,"fru Syt MARCM","M","SN-d"
+"SAKF22","SAKF22-1.lsm","SAKF22-1","L",3572,1,"fru Syt MARCM","M","pIP-h"
+"SAKF6","SAKF6-1.lsm","SAKF6-1","L",3569,1,"fru Syt MARCM","M",NA
+"SAKF7","SAKF7-1.lsm","SAKF7-1","R",3567,2,"fru Syt MARCM","M","SN-a"
+"SAKF7","SAKF7-1.lsm","SAKF7-1","R",3566,1,"fru Syt MARCM","M","MB"
+"SAKF8","SAKF8-1.lsm","SAKF8-1","L",3562,1,"fru Syt MARCM","M","pIP-c"
+"SAKF8","SAKF8-1.lsm","SAKF8-1","L",3565,2,"fru Syt MARCM","M","pSP-b"
+"SAKF9","SAKF9-1.lsm","SAKF9-1","L",3558,2,"fru Syt MARCM","M",NA
+"SAKF9","SAKF9-1.lsm","SAKF9-1","R",3557,1,"fru Syt MARCM","M","pIP-e"
+"SAKO1","SAKO1-1.lsm","SAKO1-1","R",3435,2,"fru Syt MARCM","M",NA
+"SAKO1","SAKO1-1.lsm","SAKO1-1","R",3429,1,"fru Syt MARCM","M","vMs-c"
+"SAKO10","SAKO10-1.lsm","SAKO10-1","R",3437,1,"fru Syt MARCM","M","vMt-e"
+"SAKO11","SAKO11-1.lsm","SAKO11-1","L",3054,1,"fru Syt MARCM","M","aSP-m"
+"SAKO11","SAKO11-1.lsm","SAKO11-1","R",3055,2,"fru Syt MARCM","M","aSP-m"
+"SAKO11","SAKO11-1.lsm","SAKO11-1","L",3056,3,"fru Syt MARCM","M",NA
+"SAKO12","SAKO12-1.lsm","SAKO12-1","R",3441,2,"fru Syt MARCM","M","vMs-e"
+"SAKO12","SAKO12-1.lsm","SAKO12-1","L",3057,1,"fru Syt MARCM","M","aIP-g"
+"SAKO13","SAKO13-1.lsm","SAKO13-1","R",3058,1,"fru Syt MARCM","M","aIP-g"
+"SAKO13","SAKO13-1.lsm","SAKO13-1","L",3060,3,"fru Syt MARCM","M","pSG-a"
+"SAKO13","SAKO13-1.lsm","SAKO13-1","L",3059,2,"fru Syt MARCM","M","aIP-e"
+"SAKO15","SAKO15-1.lsm","SAKO15-1","R",3445,2,"fru Syt MARCM","M","vMs-h"
+"SAKO15","SAKO15-1.lsm","SAKO15-1","L",3443,1,"fru Syt MARCM","M","vMs-j"
+"SAKO18","SAKO18-1.lsm","SAKO18-1","L",3447,1,"fru Syt MARCM","M",NA
+"SAKO18","SAKO18-1.lsm","SAKO18-1","R",3448,2,"fru Syt MARCM","M","dMs-c"
+"SAKO19","SAKO19-1.lsm","SAKO19-1","L",3492,3,"fru Syt MARCM","M",NA
+"SAKO19","SAKO19-1.lsm","SAKO19-1","R",3453,2,"fru Syt MARCM","M","vMt-i"
+"SAKO19","SAKO19-1.lsm","SAKO19-1","R",3061,1,"fru Syt MARCM","M","aDT-a"
+"SAKO19","SAKO19-1.lsm","SAKO19-1","R",3493,4,"fru Syt MARCM","M",NA
+"SAKO2","SAKO2-1.lsm","SAKO2-1","L",3455,2,"fru Syt MARCM","M",NA
+"SAKO2","SAKO2-1.lsm","SAKO2-1","L",3062,1,"fru Syt MARCM","M","pIP-j"
+"SAKO23","SAKO23-1.lsm","SAKO23-1","R",3458,1,"fru Syt MARCM","M",NA
+"SAKO3","SAKO3-1.lsm","SAKO3-1","L",3460,5,"fru Syt MARCM","M",NA
+"SAKO3","SAKO3-1.lsm","SAKO3-1","L",3063,1,"fru Syt MARCM","M","aSP-c"
+"SAKO3","SAKO3-1.lsm","SAKO3-1","L",3459,4,"fru Syt MARCM","M","dPr-a"
+"SAKO3","SAKO3-1.lsm","SAKO3-1","L",3064,2,"fru Syt MARCM","M",NA
+"SAKO3","SAKO3-1.lsm","SAKO3-1","R",3065,3,"fru Syt MARCM","M",NA
+"SAKO4","SAKO4-1.lsm","SAKO4-1","R",3463,2,"fru Syt MARCM","M","vMs-d"
+"SAKO4","SAKO4-1.lsm","SAKO4-1","L",3462,1,"fru Syt MARCM","M","dMt-b"
+"SAKO6","SAKO6-1.lsm","SAKO6-1","L",3067,2,"fru Syt MARCM","M","pMP-a"
+"SAKO6","SAKO6-1.lsm","SAKO6-1","L",3066,1,"fru Syt MARCM","M","pIP-b"
+"SAKO6","SAKO6-1.lsm","SAKO6-1","L",3465,4,"fru Syt MARCM","M","dMs-b"
+"SAKO6","SAKO6-1.lsm","SAKO6-1","R",3464,3,"fru Syt MARCM","M",NA
+"SAKO7","SAKO7-2.lsm","SAKO7-2","R",3471,2,"fru Syt MARCM","M","vPr-h"
+"SAKO7","SAKO7-2.lsm","SAKO7-2","R",3473,4,"fru Syt MARCM","M","vMt-f"
+"SAKO7","SAKO7-2.lsm","SAKO7-2","L",3472,3,"fru Syt MARCM","M","dPr-b"
+"SAKO7","SAKO7-2.lsm","SAKO7-2","L",3068,1,"fru Syt MARCM","M",NA
+"SAKO8","SAKO8-1.lsm","SAKO8-1","R",3478,1,"fru Syt MARCM","M","vMs-b"
+"SAKO9","SAKO9-1.lsm","SAKO9-1","R",3480,2,"fru Syt MARCM","M","vPr-f"
+"SAKO9","SAKO9-1.lsm","SAKO9-1","R",3070,1,"fru Syt MARCM","M","M"
+"SAKP1","SAKP1-1.lsm","SAKP1-1","R",3077,7,"fru Syt MARCM","M",NA
+"SAKP1","SAKP1-1.lsm","SAKP1-1","R",3074,4,"fru Syt MARCM","M","pIP-j"
+"SAKP1","SAKP1-1.lsm","SAKP1-1","R",3076,6,"fru Syt MARCM","M","aSP-b"
+"SAKP1","SAKP1-1.lsm","SAKP1-1","L",3075,5,"fru Syt MARCM","M",NA
+"SAKP1","SAKP1-1.lsm","SAKP1-1","R",3073,3,"fru Syt MARCM","M",NA
+"SAKP1","SAKP1-1.lsm","SAKP1-1","R",3071,1,"fru Syt MARCM","M","aDT-d"
+"SAKP1","SAKP1-1.lsm","SAKP1-1","L",3072,2,"fru Syt MARCM","M","aDT-e"
+"SAKP10","SAKP10-1.lsm","SAKP10-1","R",3079,2,"fru Syt MARCM","M",NA
+"SAKP10","SAKP10-1.lsm","SAKP10-1","R",3078,1,"fru Syt MARCM","M","pMP-b"
+"SAKP10","SAKP10-1.lsm","SAKP10-1","L",3080,3,"fru Syt MARCM","M","pSP-b"
+"SAKP10","SAKP10-1.lsm","SAKP10-1","L",3485,5,"fru Syt MARCM","M",NA
+"SAKP10","SAKP10-1.lsm","SAKP10-1","R",3484,4,"fru Syt MARCM","M","vPr-k"
+"SAKP11","SAKP11-1.lsm","SAKP11-1","R",3081,1,"fru Syt MARCM","M","pMP-a"
+"SAKP11","SAKP11-1.lsm","SAKP11-1","L",3082,2,"fru Syt MARCM","M",NA
+"SAKP11","SAKP11-1.lsm","SAKP11-1","L",3486,4,"fru Syt MARCM","M","dMt-a"
+"SAKP11","SAKP11-1.lsm","SAKP11-1","R",3483,3,"fru Syt MARCM","M","vPr-c"
+"SAKP12","SAKP12-1.lsm","SAKP12-1","L",3482,4,"fru Syt MARCM","M","vMt-a"
+"SAKP12","SAKP12-1.lsm","SAKP12-1","L",3084,2,"fru Syt MARCM","M","aIP-e"
+"SAKP12","SAKP12-1.lsm","SAKP12-1","R",3083,1,"fru Syt MARCM","M","aDT-g"
+"SAKP12","SAKP12-1.lsm","SAKP12-1","R",3481,3,"fru Syt MARCM","M","dPr-a"
+"SAKP13","SAKP13-1.lsm","SAKP13-1","L",3085,1,"fru Syt MARCM","M","MB"
+"SAKP13","SAKP13-1.lsm","SAKP13-1","L",3479,2,"fru Syt MARCM","M","vMs-l"
+"SAKP14","SAKP14-1.lsm","SAKP14-1","R",3477,1,"fru Syt MARCM","M","vPr-c"
+"SAKP15","SAKP15-1.lsm","SAKP15-1","L",3476,1,"fru Syt MARCM","M",NA
+"SAKP16","SAKP16-1.lsm","SAKP16-1","L",3086,1,"fru Syt MARCM","M","aDT-e"
+"SAKP16","SAKP16-1.lsm","SAKP16-1","L",3089,4,"fru Syt MARCM","M","pMP-c"
+"SAKP16","SAKP16-1.lsm","SAKP16-1","R",3087,2,"fru Syt MARCM","M","aIP-c"
+"SAKP16","SAKP16-1.lsm","SAKP16-1","R",3088,3,"fru Syt MARCM","M","aSP-g"
+"SAKP17","SAKP17-1.lsm","SAKP17-1","R",3091,1,"fru Syt MARCM","M","aDT-f"
+"SAKP17","SAKP17-1.lsm","SAKP17-1","R",3474,4,"fru Syt MARCM","M",NA
+"SAKP17","SAKP17-1.lsm","SAKP17-1","L",3092,2,"fru Syt MARCM","M","pMP-b"
+"SAKP17","SAKP17-1.lsm","SAKP17-1","L",3470,3,"fru Syt MARCM","M","vPr-l"
+"SAKP18","SAKP18-1.lsm","SAKP18-1","L",3094,2,"fru Syt MARCM","M","pMP-a"
+"SAKP18","SAKP18-1.lsm","SAKP18-1","L",3467,3,"fru Syt MARCM","M","vPr-j"
+"SAKP18","SAKP18-1.lsm","SAKP18-1","L",3093,1,"fru Syt MARCM","M","aSP-f"
+"SAKP18","SAKP18-1.lsm","SAKP18-1","L",3468,4,"fru Syt MARCM","M","vMt-b"
+"SAKP18","SAKP18-1.lsm","SAKP18-1","R",3469,5,"fru Syt MARCM","M","vMt-b"
+"SAKP19","SAKP19-1.lsm","SAKP19-1","R",3466,2,"fru Syt MARCM","M","vMs-k"
+"SAKP19","SAKP19-1.lsm","SAKP19-1","L",3090,1,"fru Syt MARCM","M","aDT-e"
+"SAKP2","SAKP2-1.lsm","SAKP2-1","R",3095,1,"fru Syt MARCM","M","pMP-b"
+"SAKP2","SAKP2-1.lsm","SAKP2-1","R",3096,2,"fru Syt MARCM","M","pIP-c"
+"SAKP20","SAKP20-1.lsm","SAKP20-1","L",3097,1,"fru Syt MARCM","M","aIP-b"
+"SAKP22","SAKP22-1.lsm","SAKP22-1","R",3461,2,"fru Syt MARCM","M",NA
+"SAKP22","SAKP22-1.lsm","SAKP22-1","R",3098,1,"fru Syt MARCM","M",NA
+"SAKP23","SAKP23-1.lsm","SAKP23-1","L",3099,1,"fru Syt MARCM","M",NA
+"SAKP23","SAKP23-1.lsm","SAKP23-1","R",3457,2,"fru Syt MARCM","M",NA
+"SAKP24","SAKP24-1.lsm","SAKP24-1","L",3456,1,"fru Syt MARCM","M",NA
+"SAKP25","SAKP25-1.lsm","SAKP25-1","L",3454,3,"fru Syt MARCM","M","vPr-e"
+"SAKP25","SAKP25-1.lsm","SAKP25-1","L",3101,2,"fru Syt MARCM","M",NA
+"SAKP25","SAKP25-1.lsm","SAKP25-1","R",3100,1,"fru Syt MARCM","M","pMP-b"
+"SAKP26","SAKP26-1.lsm","SAKP26-1","L",3102,1,"fru Syt MARCM","M",NA
+"SAKP26","SAKP26-1.lsm","SAKP26-1","L",3452,2,"fru Syt MARCM","M","dMs-b"
+"SAKP27","SAKP27-1.lsm","SAKP27-1","R",3450,4,"fru Syt MARCM","M","vMs-j"
+"SAKP27","SAKP27-1.lsm","SAKP27-1","R",3104,2,"fru Syt MARCM","M","aSP-k"
+"SAKP27","SAKP27-1.lsm","SAKP27-1","L",3103,1,"fru Syt MARCM","M","aSP-b"
+"SAKP27","SAKP27-1.lsm","SAKP27-1","L",3105,3,"fru Syt MARCM","M","pSP-a"
+"SAKP27","SAKP27-1.lsm","SAKP27-1","L",3451,5,"fru Syt MARCM","M","vMs-o"
+"SAKP28","SAKP28-1.lsm","SAKP28-1","R",3449,2,"fru Syt MARCM","M","vMt-f"
+"SAKP28","SAKP28-1.lsm","SAKP28-1","R",3106,1,"fru Syt MARCM","M",NA
+"SAKP29","SAKP29-1.lsm","SAKP29-1","R",3107,1,"fru Syt MARCM","M",NA
+"SAKP29","SAKP29-1.lsm","SAKP29-1","L",3446,2,"fru Syt MARCM","M","vPr-h"
+"SAKP3","SAKP3-1.lsm","SAKP3-1","L",3444,5,"fru Syt MARCM","M",NA
+"SAKP3","SAKP3-1.lsm","SAKP3-1","R",3108,1,"fru Syt MARCM","M","pIP-c"
+"SAKP3","SAKP3-1.lsm","SAKP3-1","L",3440,3,"fru Syt MARCM","M",NA
+"SAKP3","SAKP3-1.lsm","SAKP3-1","L",3109,2,"fru Syt MARCM","M","pIP-a"
+"SAKP3","SAKP3-1.lsm","SAKP3-1","L",3442,4,"fru Syt MARCM","M","dMs-c"
+"SAKP30","SAKP30-1.lsm","SAKP30-1","L",4182,1,"fru Syt MARCM","M","SN-d"
+"SAKP31","SAKP31-1.lsm","SAKP31-1","L",3439,2,"fru Syt MARCM","M","dMt-b"
+"SAKP31","SAKP31-1.lsm","SAKP31-1","R",3110,1,"fru Syt MARCM","M","pMP-a"
+"SAKP32","SAKP32-1.lsm","SAKP32-1","L",4183,5,"fru Syt MARCM","M","SN-c"
+"SAKP32","SAKP32-1.lsm","SAKP32-1","R",3438,4,"fru Syt MARCM","M","dMs-b"
+"SAKP32","SAKP32-1.lsm","SAKP32-1","L",3113,3,"fru Syt MARCM","M",NA
+"SAKP32","SAKP32-1.lsm","SAKP32-1","R",3111,1,"fru Syt MARCM","M","MB"
+"SAKP32","SAKP32-1.lsm","SAKP32-1","R",3112,2,"fru Syt MARCM","M",NA
+"SAKP33","SAKP33-1.lsm","SAKP33-1","L",3432,1,"fru Syt MARCM","M","vMt-f"
+"SAKP33","SAKP33-1.lsm","SAKP33-1","R",3434,3,"fru Syt MARCM","M","vPr-d"
+"SAKP33","SAKP33-1.lsm","SAKP33-1","L",3433,2,"fru Syt MARCM","M","dMs-a"
+"SAKP34","SAKP34-1.lsm","SAKP34-1","L",3430,2,"fru Syt MARCM","M","vMt-f"
+"SAKP34","SAKP34-1.lsm","SAKP34-1","L",3114,1,"fru Syt MARCM","M",NA
+"SAKP35","SAKP35-1.lsm","SAKP35-1","L",3428,2,"fru Syt MARCM","M","vMt-e"
+"SAKP35","SAKP35-1.lsm","SAKP35-1","L",3115,1,"fru Syt MARCM","M",NA
+"SAKP36","SAKP36-1.lsm","SAKP36-1","L",3116,1,"fru Syt MARCM","M","pIP-c"
+"SAKP37","SAKP37-1.lsm","SAKP37-1","R",3425,2,"fru Syt MARCM","M",NA
+"SAKP37","SAKP37-1.lsm","SAKP37-1","R",3427,4,"fru Syt MARCM","M","dMt-a"
+"SAKP37","SAKP37-1.lsm","SAKP37-1","R",3117,1,"fru Syt MARCM","M","aIP-g"
+"SAKP39","SAKP39-1.lsm","SAKP39-1","R",3118,1,"fru Syt MARCM","M","aIP-e"
+"SAKP39","SAKP39-1.lsm","SAKP39-1","R",3424,2,"fru Syt MARCM","M","dPr-c"
+"SAKP4","SAKP4-1.lsm","SAKP4-1","L",3423,2,"fru Syt MARCM","M",NA
+"SAKP4","SAKP4-1.lsm","SAKP4-1","L",3119,1,"fru Syt MARCM","M","pMP-c"
+"SAKP43","SAKP43-1.lsm","SAKP43-1","R",3120,1,"fru Syt MARCM","M","aSG-a"
+"SAKP44","SAKP44-1.lsm","SAKP44-1","L",3121,1,"fru Syt MARCM","M","aIP-e"
+"SAKP45","SAKP45-1.lsm","SAKP45-1","R",3123,2,"fru Syt MARCM","M","aDT-e"
+"SAKP45","SAKP45-1.lsm","SAKP45-1","R",3122,1,"fru Syt MARCM","M","pIP-j"
+"SAKP46","SAKP46-1.lsm","SAKP46-1","R",3420,1,"fru Syt MARCM","M",NA
+"SAKP47","SAKP47-1.lsm","SAKP47-1","L",3419,1,"fru Syt MARCM","M","vPr-a"
+"SAKP48","SAKP48-1.lsm","SAKP48-1","L",3418,1,"fru Syt MARCM","M","vPr-a"
+"SAKP5","SAKP5-1.lsm","SAKP5-1","R",3417,2,"fru Syt MARCM","M","vMs-h"
+"SAKP5","SAKP5-1.lsm","SAKP5-1","L",3124,1,"fru Syt MARCM","M","MB"
+"SAKP6","SAKP6-1.lsm","SAKP6-1","R",3416,3,"fru Syt MARCM","M",NA
+"SAKP6","SAKP6-1.lsm","SAKP6-1","L",3125,1,"fru Syt MARCM","M","pMP-a"
+"SAKP6","SAKP6-1.lsm","SAKP6-1","R",3415,2,"fru Syt MARCM","M","dMt-b"
+"SAKP7","SAKP7-1.lsm","SAKP7-1","R",3412,4,"fru Syt MARCM","M",NA
+"SAKP7","SAKP7-1.lsm","SAKP7-1","R",3126,1,"fru Syt MARCM","M","aSP-k"
+"SAKP7","SAKP7-1.lsm","SAKP7-1","R",3411,3,"fru Syt MARCM","M","vPr-j"
+"SAKP7","SAKP7-1.lsm","SAKP7-1","L",3127,2,"fru Syt MARCM","M","aIP-d"
+"SAKP8","SAKP8-1.lsm","SAKP8-1","L",3410,4,"fru Syt MARCM","M","vPr-c"
+"SAKP8","SAKP8-1.lsm","SAKP8-1","R",3129,2,"fru Syt MARCM","M","pIP-h"
+"SAKP8","SAKP8-1.lsm","SAKP8-1","R",3128,1,"fru Syt MARCM","M","pMP-c"
+"SAKP8","SAKP8-1.lsm","SAKP8-1","R",3130,3,"fru Syt MARCM","M",NA
+"SAKP9","SAKP9-1.lsm","SAKP9-1","L",3409,2,"fru Syt MARCM","M","vMs-f"
+"SAKP9","SAKP9-1.lsm","SAKP9-1","L",3131,1,"fru Syt MARCM","M","aDT-g"
+"SAKQ1","SAKQ1-1.lsm","SAKQ1-1","R",3132,1,"fru Syt MARCM","M",NA
+"SAKQ10","SAKQ10-1.lsm","SAKQ10-1","L",3133,1,"fru Syt MARCM","M","pMP-a"
+"SAKQ10","SAKQ10-1.lsm","SAKQ10-1","L",3134,2,"fru Syt MARCM","M","pIP-c"
+"SAKQ10","SAKQ10-1.lsm","SAKQ10-1","R",3135,3,"fru Syt MARCM","M","MB"
+"SAKQ10","SAKQ10-1.lsm","SAKQ10-1","R",3136,4,"fru Syt MARCM","M","aSP-b"
+"SAKQ12","SAKQ12-1.lsm","SAKQ12-1","R",3137,1,"fru Syt MARCM","M","pIP-c"
+"SAKQ12","SAKQ12-1.lsm","SAKQ12-1","R",3407,2,"fru Syt MARCM","M","dMt-d"
+"SAKQ13","SAKQ13-1.lsm","SAKQ13-1","R",3365,3,"fru Syt MARCM","M","vMt-c"
+"SAKQ13","SAKQ13-1.lsm","SAKQ13-1","R",3164,2,"fru Syt MARCM","M","aIP-f"
+"SAKQ13","SAKQ13-1.lsm","SAKQ13-1","L",3163,1,"fru Syt MARCM","M","MB"
+"SAKQ14","SAKQ14-1.lsm","SAKQ14-1","L",3403,1,"fru Syt MARCM","M","dMs-b"
+"SAKQ15","SAKQ15-1.lsm","SAKQ15-1","L",3401,1,"fru Syt MARCM","M",NA
+"SAKQ15","SAKQ15-1.lsm","SAKQ15-1","L",3402,2,"fru Syt MARCM","M",NA
+"SAKQ16","SAKQ16-1.lsm","SAKQ16-1","R",3174,2,"fru Syt MARCM","M","pSG-b"
+"SAKQ16","SAKQ16-1.lsm","SAKQ16-1","L",3173,1,"fru Syt MARCM","M",NA
+"SAKQ17","SAKQ17-1.lsm","SAKQ17-1","R",3176,1,"fru Syt MARCM","M",NA
+"SAKQ17","SAKQ17-1.lsm","SAKQ17-1","L",3177,2,"fru Syt MARCM","M",NA
+"SAKQ18","SAKQ18-1.lsm","SAKQ18-1","L",3399,3,"fru Syt MARCM","M","dMs-b"
+"SAKQ18","SAKQ18-1.lsm","SAKQ18-1","R",3179,1,"fru Syt MARCM","M","pIP-h"
+"SAKQ18","SAKQ18-1.lsm","SAKQ18-1","R",3398,2,"fru Syt MARCM","M",NA
+"SAKQ2","SAKQ2-1.lsm","SAKQ2-1","L",3197,1,"fru Syt MARCM","M","aDT-c"
+"SAKQ2","SAKQ2-1.lsm","SAKQ2-1","L",3199,2,"fru Syt MARCM","M","pSP-f"
+"SAKQ2","SAKQ2-1.lsm","SAKQ2-1","R",3397,3,"fru Syt MARCM","M",NA
+"SAKQ20","SAKQ20-1.lsm","SAKQ20-1","R",3396,5,"fru Syt MARCM","M",NA
+"SAKQ20","SAKQ20-1.lsm","SAKQ20-1","L",3393,2,"fru Syt MARCM","M","dPr-b"
+"SAKQ20","SAKQ20-1.lsm","SAKQ20-1","R",3395,4,"fru Syt MARCM","M","vMt-e"
+"SAKQ20","SAKQ20-1.lsm","SAKQ20-1","L",3180,1,"fru Syt MARCM","M","pSP-a"
+"SAKQ20","SAKQ20-1.lsm","SAKQ20-1","L",3394,3,"fru Syt MARCM","M","vPr-e"
+"SAKQ21","SAKQ21-1.lsm","SAKQ21-1","L",3185,3,"fru Syt MARCM","M","aSP-m"
+"SAKQ21","SAKQ21-1.lsm","SAKQ21-1","L",3183,1,"fru Syt MARCM","M","pIP-c"
+"SAKQ21","SAKQ21-1.lsm","SAKQ21-1","R",3184,2,"fru Syt MARCM","M","pIP-c"
+"SAKQ21","SAKQ21-1.lsm","SAKQ21-1","R",3392,4,"fru Syt MARCM","M","dPr-b"
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","R",3388,5,"fru Syt MARCM","M",NA
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","L",3187,2,"fru Syt MARCM","M","MB"
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","L",3389,6,"fru Syt MARCM","M","vPr-c"
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","L",3391,7,"fru Syt MARCM","M","vMs-o"
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","R",3387,4,"fru Syt MARCM","M",NA
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","L",4184,8,"fru Syt MARCM","M","SN-e"
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","R",3188,3,"fru Syt MARCM","M","aDT-e"
+"SAKQ24","SAKQ24-1.lsm","SAKQ24-1","L",3186,1,"fru Syt MARCM","M",NA
+"SAKQ25","SAKQ25-1.lsm","SAKQ25-1","R",3194,2,"fru Syt MARCM","M",NA
+"SAKQ25","SAKQ25-1.lsm","SAKQ25-1","R",3193,1,"fru Syt MARCM","M","pMP-f"
+"SAKQ3","SAKQ3-1.lsm","SAKQ3-1","R",3140,2,"fru Syt MARCM","M","pSP-a"
+"SAKQ3","SAKQ3-1.lsm","SAKQ3-1","L",3138,1,"fru Syt MARCM","M","pIP-h"
+"SAKQ4","SAKQ4-1.lsm","SAKQ4-1","L",3145,2,"fru Syt MARCM","M","pIP-e"
+"SAKQ4","SAKQ4-1.lsm","SAKQ4-1","L",3386,4,"fru Syt MARCM","M","vMs-o"
+"SAKQ4","SAKQ4-1.lsm","SAKQ4-1","L",3385,3,"fru Syt MARCM","M",NA
+"SAKQ4","SAKQ4-1.lsm","SAKQ4-1","R",3144,1,"fru Syt MARCM","M","MB"
+"SAKQ6","SAKQ6-1.lsm","SAKQ6-1","L",3384,2,"fru Syt MARCM","M","dPr-b"
+"SAKQ6","SAKQ6-1.lsm","SAKQ6-1","L",3146,1,"fru Syt MARCM","M","pIP-i"
+"SAKQ7","SAKQ7-1.lsm","SAKQ7-1","L",3148,1,"fru Syt MARCM","M","pMP-c"
+"SAKQ7","SAKQ7-1.lsm","SAKQ7-1","L",3381,2,"fru Syt MARCM","M","vPr-f"
+"SAKQ7","SAKQ7-1.lsm","SAKQ7-1","L",3382,3,"fru Syt MARCM","M",NA
+"SAKQ7","SAKQ7-1.lsm","SAKQ7-1","L",4185,4,"fru Syt MARCM","M","SN-a"
+"SAKQ8","SAKQ8-1.lsm","SAKQ8-1","L",3380,1,"fru Syt MARCM","M",NA
+"SAKQ9","SAKQ9-1.lsm","SAKQ9-1","R",3152,1,"fru Syt MARCM","M",NA
+"SAKQ9","SAKQ9-1.lsm","SAKQ9-1","L",3379,2,"fru Syt MARCM","M","vMt-c"
+"SAKR13","SAKR13-1.lsm","SAKR13-1","L",3155,2,"fru Syt MARCM","M","aSP-b"
+"SAKR13","SAKR13-1.lsm","SAKR13-1","R",3154,1,"fru Syt MARCM","M","aDT-e"
+"SAKR14","SAKR14-1.lsm","SAKR14-1","R",3378,3,"fru Syt MARCM","M",NA
+"SAKR14","SAKR14-1.lsm","SAKR14-1","L",3161,2,"fru Syt MARCM","M","aSP-j"
+"SAKR14","SAKR14-1.lsm","SAKR14-1","R",3159,1,"fru Syt MARCM","M","pIP-h"
+"SAKR15","SAKR15-1.lsm","SAKR15-1","L",3377,1,"fru Syt MARCM","M",NA
+"SAKR16","SAKR16-1.lsm","SAKR16-1","L",3373,2,"fru Syt MARCM","M","vMt-a"
+"SAKR16","SAKR16-1.lsm","SAKR16-1","R",3372,1,"fru Syt MARCM","M",NA
+"SAKR16","SAKR16-1.lsm","SAKR16-1","R",3375,3,"fru Syt MARCM","M",NA
+"SAKR17","SAKR17-1.lsm","SAKR17-1","R",3370,3,"fru Syt MARCM","M","vMs-i"
+"SAKR17","SAKR17-1.lsm","SAKR17-1","L",3368,1,"fru Syt MARCM","M",NA
+"SAKR17","SAKR17-1.lsm","SAKR17-1","R",3369,2,"fru Syt MARCM","M",NA
+"SAKR18","SAKR18-1.lsm","SAKR18-1","L",3202,2,"fru Syt MARCM","M","pIP-"
+"SAKR18","SAKR18-1.lsm","SAKR18-1","R",3201,1,"fru Syt MARCM","M",NA
+"SAKR19","SAKR19-1.lsm","SAKR19-1","L",4186,3,"fru Syt MARCM","M","SN-d"
+"SAKR19","SAKR19-1.lsm","SAKR19-1","R",3205,2,"fru Syt MARCM","M","pSP-a"
+"SAKR19","SAKR19-1.lsm","SAKR19-1","L",3203,1,"fru Syt MARCM","M",NA
+"SAKR2","SAKR2-1.lsm","SAKR2-1","L",3207,1,"fru Syt MARCM","M","pMP-e"
+"SAKR20","SAKR20-1.lsm","SAKR20-1","R",3208,1,"fru Syt MARCM","M",NA
+"SAKR21","SAKR21-1.lsm","SAKR21-1","L",3367,1,"fru Syt MARCM","M","dPr-d"
+"SAKR22","SAKR22-1.lsm","SAKR22-1","R",3366,1,"fru Syt MARCM","M","dPr-a"
+"SAKR3","SAKR3-1.lsm","SAKR3-1","L",3214,3,"fru Syt MARCM","M",NA
+"SAKR3","SAKR3-1.lsm","SAKR3-1","R",3216,4,"fru Syt MARCM","M","aSP-m"
+"SAKR3","SAKR3-1.lsm","SAKR3-1","L",3213,2,"fru Syt MARCM","M","MB"
+"SAKR4","SAKR4-1.lsm","SAKR4-1","L",3221,2,"fru Syt MARCM","M",NA
+"SAKR4","SAKR4-1.lsm","SAKR4-1","L",3223,4,"fru Syt MARCM","M",NA
+"SAKR4","SAKR4-1.lsm","SAKR4-1","L",3220,1,"fru Syt MARCM","M",NA
+"SAKR4","SAKR4-1.lsm","SAKR4-1","R",3222,3,"fru Syt MARCM","M",NA
+"SAKR5","SAKR5-1.lsm","SAKR5-1","L",3227,1,"fru Syt MARCM","M","pIP-d"
+"SAKR5","SAKR5-1.lsm","SAKR5-1","L",4187,3,"fru Syt MARCM","M","SN-d"
+"SAKR5","SAKR5-1.lsm","SAKR5-1","R",3364,2,"fru Syt MARCM","M","vMt-c"
+"SAKR6","SAKR6-1.lsm","SAKR6-1","R",3228,1,"fru Syt MARCM","M",NA
+"SAKR6","SAKR6-1.lsm","SAKR6-1","L",3233,2,"fru Syt MARCM","M","aDT-e"
+"SAKR7","SAKR7-1.lsm","SAKR7-1","R",3362,1,"fru Syt MARCM","M","vPr-c"
+"SAKR7","SAKR7-1.lsm","SAKR7-1","R",3363,2,"fru Syt MARCM","M","vMt-e"
+"SAKR8","SAKR8-1.lsm","SAKR8-1","L",3236,2,"fru Syt MARCM","M",NA
+"SAKR8","SAKR8-1.lsm","SAKR8-1","R",3235,1,"fru Syt MARCM","M",NA
+"SAKR8","SAKR8-1.lsm","SAKR8-1","L",3361,3,"fru Syt MARCM","M","vPr-l"
+"SAKS1","SAKS1-1.lsm","SAKS1-1","R",3238,2,"fru Syt MARCM","M","aIP-c"
+"SAKS1","SAKS1-1.lsm","SAKS1-1","L",3360,3,"fru Syt MARCM","M","dMs-b"
+"SAKS1","SAKS1-1.lsm","SAKS1-1","L",3237,1,"fru Syt MARCM","M","aDT-e"
+"SAKS2","SAKS2-1.lsm","SAKS2-1","L",3241,1,"fru Syt MARCM","M","aIP-g"
+"SAKS2","SAKS2-1.lsm","SAKS2-1","R",3359,2,"fru Syt MARCM","M","vPr-g"
+"SAKS6","SAKS6-1.lsm","SAKS6-1","R",3358,2,"fru Syt MARCM","M","vMs-d"
+"SAKS6","SAKS6-1.lsm","SAKS6-1","R",3242,1,"fru Syt MARCM","M","pIP-h"
+"SAKT1","SAKT1-1.lsm","SAKT1-1","L",3246,3,"fru Syt MARCM","M","pSP-f"
+"SAKT1","SAKT1-1.lsm","SAKT1-1","R",3244,1,"fru Syt MARCM","M","aSP-m"
+"SAKT1","SAKT1-1.lsm","SAKT1-1","L",3250,4,"fru Syt MARCM","M",NA
+"SAKT1","SAKT1-1.lsm","SAKT1-1","L",3245,2,"fru Syt MARCM","M","aDT-e"
+"SAKT10","SAKT10-1.lsm","SAKT10-1","L",3356,3,"fru Syt MARCM","M",NA
+"SAKT10","SAKT10-1.lsm","SAKT10-1","L",3354,1,"fru Syt MARCM","M","vPr-d"
+"SAKT11","SAKT11-1.lsm","SAKT11-1","R",3353,1,"fru Syt MARCM","M","vPr-e"
+"SAKT13","SAKT13-1.lsm","SAKT13-1","R",3253,1,"fru Syt MARCM","M","pIP-j"
+"SAKT13","SAKT13-1.lsm","SAKT13-1","R",3255,3,"fru Syt MARCM","M",NA
+"SAKT13","SAKT13-1.lsm","SAKT13-1","R",3254,2,"fru Syt MARCM","M","aSP-m"
+"SAKT2","SAKT2-1.lsm","SAKT2-1","R",3352,1,"fru Syt MARCM","M","dMs-b"
+"SAKT3","SAKT3-1.lsm","SAKT3-1","L",3351,1,"fru Syt MARCM","M","vPr-h"
+"SAKT4","SAKT4-1.lsm","SAKT4-1","R",3257,1,"fru Syt MARCM","M","pIP-g"
+"SAKT4","SAKT4-1.lsm","SAKT4-1","L",3260,2,"fru Syt MARCM","M","aSP-b"
+"SAKT5","SAKT5-1.lsm","SAKT5-1","L",3350,2,"fru Syt MARCM","M","dPr-c"
+"SAKT5","SAKT5-1.lsm","SAKT5-1","R",3262,1,"fru Syt MARCM","M",NA
+"SAKT6","SAKT6-1.lsm","SAKT6-1","L",3263,1,"fru Syt MARCM","M","MB"
+"SAKT6","SAKT6-1.lsm","SAKT6-1","L",3264,2,"fru Syt MARCM","M",NA
+"SAKT7","SAKT7-1.lsm","SAKT7-1","L",4189,4,"fru Syt MARCM","M","SN-a"
+"SAKT7","SAKT7-1.lsm","SAKT7-1","L",3265,1,"fru Syt MARCM","M",NA
+"SAKT7","SAKT7-1.lsm","SAKT7-1","R",3349,2,"fru Syt MARCM","M",NA
+"SAKT7","SAKT7-1.lsm","SAKT7-1","R",4188,3,"fru Syt MARCM","M","SN-c"
+"SAKT8","SAKT8-1.lsm","SAKT8-1","L",4190,4,"fru Syt MARCM","M","SN-e"
+"SAKT8","SAKT8-1.lsm","SAKT8-1","R",3348,3,"fru Syt MARCM","M","dMt-b"
+"SAKT8","SAKT8-1.lsm","SAKT8-1","R",3267,1,"fru Syt MARCM","M",NA
+"SAKT8","SAKT8-1.lsm","SAKT8-1","R",3347,2,"fru Syt MARCM","M","dMt-b"
+"SAKT9","SAKT9-1.lsm","SAKT9-1","L",3270,2,"fru Syt MARCM","M","aSP-k"
+"SAKT9","SAKT9-1.lsm","SAKT9-1","L",3269,1,"fru Syt MARCM","M","MB"
+"SAKT9","SAKT9-1.lsm","SAKT9-1","L",3345,3,"fru Syt MARCM","M","vPr-j"
+"SAKT9","SAKT9-1.lsm","SAKT9-1","L",3346,4,"fru Syt MARCM","M","dMt-a"
+"SAKU1","SAKU1-1.lsm","SAKU1-1","L",3273,1,"fru Syt MARCM","M","aDT-e"
+"SAKU10","SAKU10-1.lsm","SAKU10-1","R",3278,3,"fru Syt MARCM","M","aIP-i"
+"SAKU10","SAKU10-1.lsm","SAKU10-1","R",3275,1,"fru Syt MARCM","M","aDT-e"
+"SAKU10","SAKU10-1.lsm","SAKU10-1","L",3276,2,"fru Syt MARCM","M","aIP-g"
+"SAKU11","SAKU11-1.lsm","SAKU11-1","L",3343,1,"fru Syt MARCM","M","dMt-d"
+"SAKU11","SAKU11-1.lsm","SAKU11-1","R",3344,2,"fru Syt MARCM","M","vMs-l"
+"SAKU12","SAKU12-1.lsm","SAKU12-1","L",3272,2,"fru Syt MARCM","M",NA
+"SAKU12","SAKU12-1.lsm","SAKU12-1","R",3277,4,"fru Syt MARCM","M","MB"
+"SAKU12","SAKU12-1.lsm","SAKU12-1","L",3271,1,"fru Syt MARCM","M","pIP-j"
+"SAKU12","SAKU12-1.lsm","SAKU12-1","R",3274,3,"fru Syt MARCM","M","aDT-e"
+"SAKU2","SAKU2-1.lsm","SAKU2-1","L",3268,2,"fru Syt MARCM","M","MB"
+"SAKU2","SAKU2-1.lsm","SAKU2-1","L",3266,1,"fru Syt MARCM","M","pIP-e"
+"SAKU3","SAKU3-1.lsm","SAKU3-1","L",3259,2,"fru Syt MARCM","M","pSP-a"
+"SAKU3","SAKU3-1.lsm","SAKU3-1","R",3261,3,"fru Syt MARCM","M","pIP-h"
+"SAKU3","SAKU3-1.lsm","SAKU3-1","L",3258,1,"fru Syt MARCM","M","pMP-e"
+"SAKU3","SAKU3-1.lsm","SAKU3-1","R",3342,4,"fru Syt MARCM","M","vMs-m"
+"SAKU4","SAKU4-1.lsm","SAKU4-1","L",3251,1,"fru Syt MARCM","M","pSP-e"
+"SAKU4","SAKU4-1.lsm","SAKU4-1","L",3252,2,"fru Syt MARCM","M","MB"
+"SAKU5","SAKU5-1.lsm","SAKU5-1","L",3341,3,"fru Syt MARCM","M","dMt-b"
+"SAKU5","SAKU5-1.lsm","SAKU5-1","L",3249,2,"fru Syt MARCM","M","MB"
+"SAKU5","SAKU5-1.lsm","SAKU5-1","R",3248,1,"fru Syt MARCM","M","pSG-b"
+"SAKU6","SAKU6-1.lsm","SAKU6-1","R",3336,3,"fru Syt MARCM","M",NA
+"SAKU6","SAKU6-1.lsm","SAKU6-1","R",3337,4,"fru Syt MARCM","M","vPr-h"
+"SAKU6","SAKU6-1.lsm","SAKU6-1","L",3338,5,"fru Syt MARCM","M",NA
+"SAKU6","SAKU6-1.lsm","SAKU6-1","L",3340,7,"fru Syt MARCM","M","vMt-g"
+"SAKU6","SAKU6-1.lsm","SAKU6-1","L",3339,6,"fru Syt MARCM","M",NA
+"SAKU6","SAKU6-1.lsm","SAKU6-1","R",3243,1,"fru Syt MARCM","M","MB"
+"SAKU6","SAKU6-1.lsm","SAKU6-1","L",3335,2,"fru Syt MARCM","M",NA
+"SAKU7","SAKU7-1.lsm","SAKU7-1","L",4191,4,"fru Syt MARCM","M","SN-e"
+"SAKU7","SAKU7-1.lsm","SAKU7-1","L",3240,2,"fru Syt MARCM","M","MB"
+"SAKU7","SAKU7-1.lsm","SAKU7-1","L",3334,3,"fru Syt MARCM","M","dPr-e"
+"SAKU7","SAKU7-1.lsm","SAKU7-1","L",3239,1,"fru Syt MARCM","M",NA
+"SAKU8","SAKU8-1.lsm","SAKU8-1","R",3332,9,"fru Syt MARCM","M",NA
+"SAKU8","SAKU8-1.lsm","SAKU8-1","R",3230,2,"fru Syt MARCM","M","aDT-g"
+"SAKU8","SAKU8-1.lsm","SAKU8-1","R",3229,1,"fru Syt MARCM","M","aSP-d"
+"SAKU8","SAKU8-1.lsm","SAKU8-1","R",3330,7,"fru Syt MARCM","M",NA
+"SAKU8","SAKU8-1.lsm","SAKU8-1","R",3333,10,"fru Syt MARCM","M",NA
+"SAKU8","SAKU8-1.lsm","SAKU8-1","L",3231,3,"fru Syt MARCM","M","aDT-h"
+"SAKU8","SAKU8-1.lsm","SAKU8-1","L",3232,4,"fru Syt MARCM","M","MB"
+"SAKU8","SAKU8-1.lsm","SAKU8-1","L",3234,5,"fru Syt MARCM","M","aSG-a"
+"SAKU8","SAKU8-1.lsm","SAKU8-1","R",3329,6,"fru Syt MARCM","M","vMs-m"
+"SAKU8","SAKU8-1.lsm","SAKU8-1","R",3331,8,"fru Syt MARCM","M",NA
+"SAKU9","SAKU9-1.lsm","SAKU9-1","R",3225,2,"fru Syt MARCM","M","pIP-c"
+"SAKU9","SAKU9-1.lsm","SAKU9-1","L",3224,1,"fru Syt MARCM","M","pMP-c"
+"SAKU9","SAKU9-1.lsm","SAKU9-1","L",3327,4,"fru Syt MARCM","M","vMs-b"
+"SAKU9","SAKU9-1.lsm","SAKU9-1","R",3226,3,"fru Syt MARCM","M","MB"
+"SAKV10","SAKV10-1.lsm","SAKV10-1","L",3325,1,"fru Syt MARCM","M","vMt-h"
+"SAKV11","SAKV11-1.lsm","SAKV11-1","R",3322,3,"fru Syt MARCM","M","dPr-e"
+"SAKV11","SAKV11-1.lsm","SAKV11-1","R",3324,5,"fru Syt MARCM","M","dMt-b"
+"SAKV11","SAKV11-1.lsm","SAKV11-1","R",3323,4,"fru Syt MARCM","M","dMt-b"
+"SAKV11","SAKV11-1.lsm","SAKV11-1","L",3219,2,"fru Syt MARCM","M","MB"
+"SAKV11","SAKV11-1.lsm","SAKV11-1","L",3218,1,"fru Syt MARCM","M","pIP-c"
+"SAKV13","SAKV13-1.lsm","SAKV13-1","L",3321,1,"fru Syt MARCM","M","vPr-b"
+"SAKV17","SAKV17-1.lsm","SAKV17-1","R",3320,3,"fru Syt MARCM","M","dPr-d"
+"SAKV17","SAKV17-1.lsm","SAKV17-1","L",3319,2,"fru Syt MARCM","M","vMt-g"
+"SAKV17","SAKV17-1.lsm","SAKV17-1","L",3318,1,"fru Syt MARCM","M","SN-h"
+"SAKV18","SAKV18-1.lsm","SAKV18-1","R",3217,3,"fru Syt MARCM","M","MB"
+"SAKV18","SAKV18-1.lsm","SAKV18-1","L",3211,1,"fru Syt MARCM","M","pMP-c"
+"SAKV18","SAKV18-1.lsm","SAKV18-1","R",3317,5,"fru Syt MARCM","M","dAb-a"
+"SAKV18","SAKV18-1.lsm","SAKV18-1","L",3215,2,"fru Syt MARCM","M","MB"
+"SAKV18","SAKV18-1.lsm","SAKV18-1","L",3316,4,"fru Syt MARCM","M","vMt-d"
+"SAKV3","SAKV3-1.lsm","SAKV3-1","R",3210,2,"fru Syt MARCM","M","MB"
+"SAKV3","SAKV3-1.lsm","SAKV3-1","L",3209,1,"fru Syt MARCM","M","aSP-e"
+"SAKV4","SAKV4-1.lsm","SAKV4-1","R",3315,4,"fru Syt MARCM","M","vMs-l"
+"SAKV4","SAKV4-1.lsm","SAKV4-1","L",3206,2,"fru Syt MARCM","M","MB"
+"SAKV4","SAKV4-1.lsm","SAKV4-1","R",3204,1,"fru Syt MARCM","M","aIP-i"
+"SAKV4","SAKV4-1.lsm","SAKV4-1","L",3314,3,"fru Syt MARCM","M",NA
+"SAKV5","SAKV5-1.lsm","SAKV5-1","L",3311,2,"fru Syt MARCM","M","vMt-i"
+"SAKV5","SAKV5-1.lsm","SAKV5-1","L",3313,4,"fru Syt MARCM","M","vMs-c"
+"SAKV5","SAKV5-1.lsm","SAKV5-1","L",3312,3,"fru Syt MARCM","M","dPr-e"
+"SAKV5","SAKV5-1.lsm","SAKV5-1","R",3490,5,"fru Syt MARCM","M","vMs-d"
+"SAKV8","SAKV8-1.lsm","SAKV8-1","L",3309,6,"fru Syt MARCM","M","dMs-c"
+"SAKV8","SAKV8-1.lsm","SAKV8-1","R",3196,2,"fru Syt MARCM","M","pMP-e"
+"SAKV8","SAKV8-1.lsm","SAKV8-1","R",3198,3,"fru Syt MARCM","M","aSP-k"
+"SAKV8","SAKV8-1.lsm","SAKV8-1","L",3200,4,"fru Syt MARCM","M","MB"
+"SAKV8","SAKV8-1.lsm","SAKV8-1","L",3195,1,"fru Syt MARCM","M","pMP-a"
+"SAKV8","SAKV8-1.lsm","SAKV8-1","L",3308,5,"fru Syt MARCM","M","dMt-b"
+"SAKW1","SAKW1-1.lsm","SAKW1-1","R",3191,2,"fru Syt MARCM","M","MB"
+"SAKW1","SAKW1-1.lsm","SAKW1-1","R",3190,1,"fru Syt MARCM","M","aSP-m"
+"SAKW1","SAKW1-1.lsm","SAKW1-1","R",3192,3,"fru Syt MARCM","M",NA
+"SAKW10","SAKW10-1.lsm","SAKW10-1","L",3307,1,"fru Syt MARCM","M",NA
+"SAKW11","SAKW11-1.lsm","SAKW11-1","R",3306,1,"fru Syt MARCM","M","vMs-k"
+"SAKW12","SAKW12-1.lsm","SAKW12-1","R",3189,1,"fru Syt MARCM","M","aDT-d"
+"SAKW13","SAKW13-1.lsm","SAKW13-1","L",3181,1,"fru Syt MARCM","M","aDT-e"
+"SAKW13","SAKW13-1.lsm","SAKW13-1","L",3182,2,"fru Syt MARCM","M","aIP-b"
+"SAKW14","SAKW14-1.lsm","SAKW14-1","R",3172,1,"fru Syt MARCM","M","aSP-d"
+"SAKW14","SAKW14-1.lsm","SAKW14-1","R",3178,3,"fru Syt MARCM","M",NA
+"SAKW14","SAKW14-1.lsm","SAKW14-1","R",3304,4,"fru Syt MARCM","M","vPr-c"
+"SAKW14","SAKW14-1.lsm","SAKW14-1","R",3175,2,"fru Syt MARCM","M","aSP-b"
+"SAKW14","SAKW14-1.lsm","SAKW14-1","L",3305,5,"fru Syt MARCM","M","vMs-m"
+"SAKW15","SAKW15-1.lsm","SAKW15-1","L",3169,1,"fru Syt MARCM","M","MB"
+"SAKW15","SAKW15-1.lsm","SAKW15-1","R",3171,3,"fru Syt MARCM","M","pSG-b"
+"SAKW15","SAKW15-1.lsm","SAKW15-1","R",3303,7,"fru Syt MARCM","M",NA
+"SAKW15","SAKW15-1.lsm","SAKW15-1","L",3300,4,"fru Syt MARCM","M","vMt-b"
+"SAKW15","SAKW15-1.lsm","SAKW15-1","R",3170,2,"fru Syt MARCM","M","MB"
+"SAKW15","SAKW15-1.lsm","SAKW15-1","R",3302,6,"fru Syt MARCM","M",NA
+"SAKW15","SAKW15-1.lsm","SAKW15-1","L",3301,5,"fru Syt MARCM","M","vMs-n"
+"SAKW17","SAKW17-1.lsm","SAKW17-1","L",3298,3,"fru Syt MARCM","M",NA
+"SAKW17","SAKW17-1.lsm","SAKW17-1","L",3167,1,"fru Syt MARCM","M","pIP-"
+"SAKW17","SAKW17-1.lsm","SAKW17-1","R",3168,2,"fru Syt MARCM","M","MB"
+"SAKW18","SAKW18-1.lsm","SAKW18-1","R",3296,1,"fru Syt MARCM","M","dPr-b"
+"SAKW18","SAKW18-1.lsm","SAKW18-1","R",3297,2,"fru Syt MARCM","M",NA
+"SAKW2","SAKW2-1.lsm","SAKW2-1","R",3294,4,"fru Syt MARCM","M","dMs-b"
+"SAKW2","SAKW2-1.lsm","SAKW2-1","R",3165,1,"fru Syt MARCM","M","pMP-c"
+"SAKW2","SAKW2-1.lsm","SAKW2-1","L",3166,2,"fru Syt MARCM","M","MB"
+"SAKW2","SAKW2-1.lsm","SAKW2-1","R",3293,3,"fru Syt MARCM","M",NA
+"SAKW2","SAKW2-1.lsm","SAKW2-1","L",3295,5,"fru Syt MARCM","M","dPr-d"
+"SAKW20","SAKW20-1.lsm","SAKW20-1","R",3162,1,"fru Syt MARCM","M","aDT-b"
+"SAKW20","SAKW20-1.lsm","SAKW20-1","L",3292,3,"fru Syt MARCM","M","vPr-e"
+"SAKW20","SAKW20-1.lsm","SAKW20-1","L",3291,2,"fru Syt MARCM","M","dMs-a"
+"SAKW21","SAKW21-1.lsm","SAKW21-1","L",3158,3,"fru Syt MARCM","M",NA
+"SAKW21","SAKW21-1.lsm","SAKW21-1","R",3157,2,"fru Syt MARCM","M","aSP-e"
+"SAKW21","SAKW21-1.lsm","SAKW21-1","L",3290,7,"fru Syt MARCM","M","vMt-h"
+"SAKW21","SAKW21-1.lsm","SAKW21-1","R",3289,6,"fru Syt MARCM","M",NA
+"SAKW21","SAKW21-1.lsm","SAKW21-1","L",3160,4,"fru Syt MARCM","M","MB"
+"SAKW21","SAKW21-1.lsm","SAKW21-1","L",3156,1,"fru Syt MARCM","M","pSP-f"
+"SAKW21","SAKW21-1.lsm","SAKW21-1","L",3288,5,"fru Syt MARCM","M",NA
+"SAKW22","SAKW22-1.lsm","SAKW22-1","R",3153,1,"fru Syt MARCM","M","aIP-g"
+"SAKW23","SAKW23-1.lsm","SAKW23-1","L",3151,1,"fru Syt MARCM","M","Lo"
+"SAKW23","SAKW23-1.lsm","SAKW23-1","L",3927,2,"fru Syt MARCM","M",NA
+"SAKW25","SAKW25-1.lsm","SAKW25-1","L",3286,1,"fru Syt MARCM","M","vMt-f"
+"SAKW25","SAKW25-1.lsm","SAKW25-1","L",3287,2,"fru Syt MARCM","M","vPr-b"
+"SAKW26","SAKW26-1.lsm","SAKW26-1","R",3284,1,"fru Syt MARCM","M","vMt-c"
+"SAKW4","SAKW4-1.lsm","SAKW4-1","L",3283,1,"fru Syt MARCM","M","vPr-b"
+"SAKW5","SAKW5-1.lsm","SAKW5-1","R",3150,2,"fru Syt MARCM","M","MB"
+"SAKW5","SAKW5-1.lsm","SAKW5-1","L",3149,1,"fru Syt MARCM","M","MB"
+"SAKW6","SAKW6-1.lsm","SAKW6-1","R",3147,1,"fru Syt MARCM","M","pSP-d"
+"SAKW6","SAKW6-1.lsm","SAKW6-1","R",3282,2,"fru Syt MARCM","M",NA
+"SAKW7","SAKW7-1.lsm","SAKW7-1","L",3143,1,"fru Syt MARCM","M",NA
+"SAKW7","SAKW7-1.lsm","SAKW7-1","L",3281,2,"fru Syt MARCM","M",NA
+"SAKW8","SAKW8-1.lsm","SAKW8-1","R",3280,1,"fru Syt MARCM","M",NA
+"SAKW9","SAKW9-1.lsm","SAKW9-1","L",3139,1,"fru Syt MARCM","M","MB"
+"SAKW9","SAKW9-1.lsm","SAKW9-1","R",3141,2,"fru Syt MARCM","M",NA
+"SAKW9","SAKW9-1.lsm","SAKW9-1","L",3142,3,"fru Syt MARCM","M","pIP-i"

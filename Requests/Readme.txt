@@ -1,0 +1,21 @@
+Please find enclosed the Brain and VNC data used in our study. Both directories contain the following:
+
+- 'ExtractedImages' : Mask files generated from each clone in both males and females
+- 'RawLSMs' : Confocal stacks
+- 'Registrations' : Settings and logs of registrations
+- 'SuccessfullyRegistered' : Tissues after registration
+- A csv spreadsheet ExportedImageRecords.txt which includes additional information about the images used
+
+In addition there is another spreadsheet called CloneList.csv which includes details of all the clones that we annotated for each brain/VNC.
+  - The brains are identified by the BrainKey field and this can be cross-matched with the LSM files.  
+  - UniqueID is a unique id for each clone and can be used as a reference if you ever need to discuss a specific clone with us.
+  - CloneName contains the standardised name for each clone as used in Cachero, Ostrovsky et al. doi:10.1016/j.cub.2010.07.04.  See the SI of that paper for further details about the naming scheme.
+
+Finally for more information about this data set, please see:
+
+http://flybrain.stanford.edu/frudata
+http://jefferislab.org/frudata
+
+Dataset v1.0 2010-09-27
+
+
